@@ -270,6 +270,7 @@
     <h1 class="title">The Black Family Register</h1>
     <hr class="rule d">
     <p class="subtitle">From County Londonderry in Ulster, 1728 — down the Great Wagon Road to Abbeville, and home at last to Sylva, North Carolina, 1975.</p>
+    <p style="margin:14px 0 0"><a class="srclink" id="maplink" href="migration_map.html" style="font-size:12.5px;padding:4px 14px">The Crossing — the family's migration map</a></p>
     <div class="stats" id="stats"></div>
   </div>
 </header>
@@ -348,6 +349,11 @@
   var SP = {}; (DATA.story_person||[]).forEach(function(x){(SP[x.person_id]=SP[x.person_id]||[]).push(x.story_id);});
   var STORY = {}; (DATA.stories||[]).forEach(function(s){STORY[s.id]=s;});
   var FOCUS = 1;
+  // on the claude.ai artifact the sibling file isn't served — point at the map's own artifact URL
+  if (/claude\.(ai|com)$/.test(location.hostname)) {
+    var ml = document.getElementById('maplink');
+    if (ml) ml.href = 'https://claude.ai/code/artifact/58bcda7e-2f17-4175-92dd-e5a2b1d59904';
+  }
 
   // relationship maps
   var parentFamOf={}, spouseFamsOf={};
