@@ -2395,6 +2395,7 @@
 2 DATE Nov 1823
 2 PLAC North Carolina
 1 NOTE Father of Solomon Haywood; husband of Diza; Montgomery Co NC. Per Solomon's marriage record F8HK-H5N + 1850/1870 census. His own parents not found (ceiling of the Haywood line). | AGENT 2026-07-12c: b
+1 FAMC @F138@
 1 FAMS @F127@
 0 @I254@ INDI
 1 NAME Diza /Haywood/
@@ -2411,6 +2412,7 @@
 2 DATE abt 1813
 2 PLAC North Carolina
 1 NOTE Father of Charlotte 'Lottie' Ann Sedberry; husband of Mirna; Montgomery Co NC. Named in daughter's marriage record F8HK-H5N; no dates/census yet. | AGENT 2026-07-12c: b.~1813 NC, Brutons Twp Montgomer
+1 FAMC @F139@
 1 FAMS @F128@
 0 @I256@ INDI
 1 NAME Mirna /Sedberry/
@@ -2444,6 +2446,7 @@
 2 DATE abt 1838
 2 PLAC North Carolina
 1 NOTE PROBABLE father of Margaret Caroline (Cope) Conner; Webster Twp, Jackson Co NC (1870 census, dau 'M C Cope' b.1863). Wife 'L.J.' Verify via Conner-Cope marriage record. | AGENT 2026-07-12c: CONFIRMED 
+1 FAMC @F137@
 1 FAMS @F130@
 0 @I260@ INDI
 1 NAME Louisa J. /Cope/
@@ -2501,7 +2504,7 @@
 1 BIRT
 2 DATE abt 1848
 2 PLAC Georgia
-1 NOTE Mother of Michigan Chandler Clements; wife of Joseph Wilburn Clements. Per Chandler's death cert JDFY-6RS. | AGENT 2026-07-12c: Susan 'Susie' Twiggs b.~1848 GA (1880 Fannin Co census).
+1 NOTE Mother of Michigan Chandler Clements; wife of Joseph Wilburn Clements. Per Chandler's death cert JDFY-6RS. | AGENT 2026-07-12c: Susan 'Susie' Twiggs b.~1848 GA (1880 Fannin Co census). | AGENT 2026-07
 1 FAMS @F133@
 0 @I267@ INDI
 1 NAME Isaac Boyd /Haney/
@@ -2549,6 +2552,56 @@
 2 PLAC South Carolina
 1 NOTE Mother of Clarinda (Evitt) Adams; widowed by the 1850 Macon Co NC census (M4BD-LQR). Her husband (Clarinda's father) died before 1850, name not yet found.
 1 FAMS @F136@
+0 @I273@ INDI
+1 NAME Andrew /Cope/
+1 SEX M
+1 BIRT
+2 DATE abt 1809
+2 PLAC North Carolina
+1 NOTE INFERENTIAL/PROBABLE father of John Cope: 1850 Haywood Co NC census (M4BC-F41) household w/ John Cope b.1838; Jackson Co formed from Haywood 1851. Pre-1850-style inference (ages+geography).
+1 FAMS @F137@
+0 @I274@ INDI
+1 NAME Anny /Cope/
+1 SEX F
+1 BIRT
+2 DATE abt 1810
+2 PLAC North Carolina
+1 NOTE INFERENTIAL/PROBABLE mother of John Cope (1850 Haywood Co census, wife of Andrew Cope).
+1 FAMS @F137@
+0 @I275@ INDI
+1 NAME William /Evatt/
+1 SEX M
+1 BIRT
+2 DATE abt 1800
+2 PLAC South Carolina
+1 NOTE INFERENTIAL/PROBABLE father of Clarinda (Evitt) Adams; husband of Jemima Evat. Only Evatt head in 1840 Macon Co NC census (XHYZ-GW2); died ~1842-1850 (Jemima widowed by 1850). Eldest son also William.
+1 FAMS @F136@
+0 @I276@ INDI
+1 NAME James /Haywood/
+2 NICK Sr.
+1 SEX M
+1 BIRT
+2 DATE abt 1796
+2 PLAC North Carolina
+1 NOTE SPECULATIVE father of James D. Haywood: 1850 Montgomery Co household (M4B8-VDP) has an unmarried 'James b.1822'. CAVEAT: that James is linked to wife Sarah Ann McDonald, but OUR James D. married Diza 
+1 FAMS @F138@
+0 @I277@ INDI
+1 NAME Mary /Haywood/
+2 NICK Polly
+1 SEX F
+1 BIRT
+2 DATE abt 1798
+2 PLAC North Carolina
+1 NOTE SPECULATIVE mother of James D. Haywood (wife of James Haywood Sr, 1850/1860 Montgomery Co census). Same conflation caveat.
+1 FAMS @F138@
+0 @I278@ INDI
+1 NAME Elizabeth /Sedberry/
+1 SEX F
+1 BIRT
+2 DATE abt 1786
+2 PLAC North Carolina
+1 NOTE PROBABLE mother of John Sedberry: co-resident widow (age 74, Sedberry surname) in John's 1860 household (Brutons Twp, MD6H-MWT). Inferential (co-residence + shared surname). John's father = wall.
+1 FAMS @F139@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -3073,6 +3126,18 @@
 1 WIFE @I270@
 1 CHIL @I27@
 0 @F136@ FAM
+1 HUSB @I275@
 1 WIFE @I272@
 1 CHIL @I48@
+0 @F137@ FAM
+1 HUSB @I273@
+1 WIFE @I274@
+1 CHIL @I259@
+0 @F138@ FAM
+1 HUSB @I276@
+1 WIFE @I277@
+1 CHIL @I253@
+0 @F139@ FAM
+1 WIFE @I278@
+1 CHIL @I255@
 0 TRLR
