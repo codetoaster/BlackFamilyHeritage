@@ -243,12 +243,16 @@
 1 FAMC @F24@
 1 FAMS @F8@
 0 @I27@ INDI
-1 NAME Fannie S. /Robinson/
+1 NAME Fannie Selina /Robinson/
 1 SEX F
 1 BIRT
-2 DATE Mar 1870
-2 PLAC NC
+2 DATE 2 Mar 1867
+2 PLAC Jackson Co, NC
+1 DEAT
+2 DATE 23 Mar 1963
+2 PLAC Highlands, Macon Co, NC
 1 NOTE Maiden name unknown. 3 children born, 2 living in 1900 — one child lost. | AGENT 2026-07-12: maiden name ROBINSON CONFIRMED (sons Leonard & Lewis's death certs name 'Griffin Norton + Fannie Robinson')
+1 FAMC @F135@
 1 FAMS @F8@
 0 @I28@ INDI
 1 NAME Lewis R. /Norton/
@@ -270,8 +274,11 @@
 1 FAMC @F26@
 1 FAMS @F23@
 0 @I30@ INDI
-1 NAME Elizabeth /(Connor)/
+1 NAME Elizabeth /Griggs/
 1 SEX F
+1 BIRT
+2 DATE abt 1821
+2 PLAC North Carolina
 1 NOTE Frank Connor's widowed mother, living in his household 1910 (age blank). 10 children born, 9 living. = 4th-great-grandmother of the user. Husband (Alec's grandfather) died before 1910; find in 1880 ce
 1 FAMS @F9@
 0 @I31@ INDI
@@ -429,14 +436,15 @@
 1 NOTE 1880 Hamburg dw 88, two doors from David Norton; son 'Andrew J.' 18 = probable Joshua Adams (Emma's father). Reappears 1900 Mountain twp (Banister Addams 64, 2nd wife Sarah) and 1910 Cullowhee (75, 3r
 1 FAMS @F14@
 0 @I48@ INDI
-1 NAME Clarinda /(Adams)/
+1 NAME Clarinda /Evitt/
 1 SEX F
 1 BIRT
-2 DATE abt 1831
+2 DATE 7 Oct 1834
 2 PLAC South Carolina
 1 DEAT
 2 DATE 9 Dec 1892
 1 NOTE Banister's wife in 1880; died before his 1894 remarriage. Probable grandmother of Emma Molly Adams. | 2026-07-08 Name corrected Lucinda -> CLARINDA (census 1870/1880 'Clarinda'/'Cerinda', b.~1831 SC).
+1 FAMC @F136@
 1 FAMS @F14@
 0 @I49@ INDI
 1 NAME Edith /Dillard/
@@ -1804,7 +1812,7 @@
 1 NAME Michigan Chandler /Clements/
 1 SEX M
 1 BIRT
-2 DATE 11 Oct 1868
+2 DATE abt 1869
 2 PLAC Fannin Co, GA
 1 DEAT
 2 DATE 9 Jan 1928
@@ -2384,27 +2392,34 @@
 1 NAME James D. /Haywood/
 1 SEX M
 1 BIRT
-2 DATE abt 1824
+2 DATE Nov 1823
 2 PLAC North Carolina
-1 NOTE Father of Solomon Haywood; husband of Diza; Montgomery Co NC. Per Solomon's marriage record F8HK-H5N + 1850/1870 census. His own parents not found (ceiling of the Haywood line).
+1 NOTE Father of Solomon Haywood; husband of Diza; Montgomery Co NC. Per Solomon's marriage record F8HK-H5N + 1850/1870 census. His own parents not found (ceiling of the Haywood line). | AGENT 2026-07-12c: b
 1 FAMS @F127@
 0 @I254@ INDI
 1 NAME Diza /Haywood/
 1 SEX F
 1 BIRT
-2 DATE abt 1826
+2 DATE Aug 1825
 2 PLAC North Carolina
-1 NOTE Mother of Solomon Haywood; wife of James D. Haywood; Montgomery Co NC. Tree gives maiden 'Blake' — unsourced lead, not adopted.
+1 NOTE Mother of Solomon Haywood; wife of James D. Haywood; Montgomery Co NC. Tree gives maiden 'Blake' — unsourced lead, not adopted. | AGENT 2026-07-12c: b.Aug 1825 NC. Maiden name 'Blake' is FS-TREE-ONLY 
 1 FAMS @F127@
 0 @I255@ INDI
 1 NAME John /Sedberry/
 1 SEX M
-1 NOTE Father of Charlotte 'Lottie' Ann Sedberry; husband of Mirna; Montgomery Co NC. Named in daughter's marriage record F8HK-H5N; no dates/census yet.
+1 BIRT
+2 DATE abt 1813
+2 PLAC North Carolina
+1 NOTE Father of Charlotte 'Lottie' Ann Sedberry; husband of Mirna; Montgomery Co NC. Named in daughter's marriage record F8HK-H5N; no dates/census yet. | AGENT 2026-07-12c: b.~1813 NC, Brutons Twp Montgomer
 1 FAMS @F128@
 0 @I256@ INDI
 1 NAME Mirna /Sedberry/
+2 NICK Jemima
 1 SEX F
-1 NOTE Mother of Charlotte 'Lottie' Ann Sedberry; wife of John Sedberry. Named in daughter's marriage record F8HK-H5N.
+1 BIRT
+2 DATE abt 1826
+2 PLAC North Carolina
+1 NOTE Mother of Charlotte 'Lottie' Ann Sedberry; wife of John Sedberry. Named in daughter's marriage record F8HK-H5N. | AGENT 2026-07-12c: 'Mirna' = JEMIMA Sedberry, b.~1826 NC (1860 census MD6H-MWG). Mothe
 1 FAMS @F128@
 0 @I257@ INDI
 1 NAME John H. /Rigdon/
@@ -2428,15 +2443,15 @@
 1 BIRT
 2 DATE abt 1838
 2 PLAC North Carolina
-1 NOTE PROBABLE father of Margaret Caroline (Cope) Conner; Webster Twp, Jackson Co NC (1870 census, dau 'M C Cope' b.1863). Wife 'L.J.' Verify via Conner-Cope marriage record.
+1 NOTE PROBABLE father of Margaret Caroline (Cope) Conner; Webster Twp, Jackson Co NC (1870 census, dau 'M C Cope' b.1863). Wife 'L.J.' Verify via Conner-Cope marriage record. | AGENT 2026-07-12c: CONFIRMED 
 1 FAMS @F130@
 0 @I260@ INDI
-1 NAME L. J. /Cope/
+1 NAME Louisa J. /Cope/
 1 SEX F
 1 BIRT
 2 DATE abt 1838
 2 PLAC North Carolina
-1 NOTE PROBABLE mother of Margaret Caroline (Cope) Conner; wife of John Cope, Webster Twp Jackson Co NC (1870 census).
+1 NOTE PROBABLE mother of Margaret Caroline (Cope) Conner; wife of John Cope, Webster Twp Jackson Co NC (1870 census). | AGENT 2026-07-12c: 'L.J.' = LOUISA J. Cope, CONFIRMED mother of Margaret Caroline (187
 1 FAMS @F130@
 0 @I261@ INDI
 1 NAME Anderson /Wilson/
@@ -2471,12 +2486,13 @@
 1 NOTE Mother of Civil Ann Jones; wife of Allen B. Jones (1870 census 'Martha A. Jones'). Maiden name RUNNELS is FS-tree-only (unsourced).
 1 FAMS @F132@
 0 @I265@ INDI
-1 NAME Joseph Wilburn /Clements/
+1 NAME Joseph /Clements/
+2 NICK Joe
 1 SEX M
 1 BIRT
-2 DATE 16 Mar 1837
-2 PLAC Macon Co, NC
-1 NOTE Father of Michigan Chandler Clements; b.16 Mar 1837 Macon Co NC (family NC -> Fannin Co GA). Per Chandler's death cert JDFY-6RS. Deep Clements line above = tree-only, not entered.
+2 DATE abt 1847
+2 PLAC Georgia
+1 NOTE Father of Michigan Chandler Clements; b.16 Mar 1837 Macon Co NC (family NC -> Fannin Co GA). Per Chandler's death cert JDFY-6RS. Deep Clements line above = tree-only, not entered. | CORRECTION 2026-07
 1 FAMS @F133@
 0 @I266@ INDI
 1 NAME Susan /Twiggs/
@@ -2485,7 +2501,7 @@
 1 BIRT
 2 DATE abt 1848
 2 PLAC Georgia
-1 NOTE Mother of Michigan Chandler Clements; wife of Joseph Wilburn Clements. Per Chandler's death cert JDFY-6RS.
+1 NOTE Mother of Michigan Chandler Clements; wife of Joseph Wilburn Clements. Per Chandler's death cert JDFY-6RS. | AGENT 2026-07-12c: Susan 'Susie' Twiggs b.~1848 GA (1880 Fannin Co census).
 1 FAMS @F133@
 0 @I267@ INDI
 1 NAME Isaac Boyd /Haney/
@@ -2495,7 +2511,7 @@
 2 PLAC Alabama
 1 DEAT
 2 DATE 18 Jul 1895
-1 NOTE Father of Ida Haney (per FS tree, unsourced); Limestone Co AL. Verify via 1880 census.
+1 NOTE Father of Ida Haney (per FS tree, unsourced); Limestone Co AL. Verify via 1880 census. | AGENT 2026-07-12c: CONFIRMED father of Ida (1880 Lauderdale AL census M4JT-6Z6; 1870 Limestone as 'Isaac T Hane
 1 FAMS @F134@
 0 @I268@ INDI
 1 NAME Nancy Jane Minerva /Legg/
@@ -2505,8 +2521,34 @@
 2 PLAC Alabama
 1 DEAT
 2 DATE 2 Jun 1909
-1 NOTE Mother of Ida Haney (per FS tree, unsourced); wife of Isaac Boyd Haney; Limestone Co AL.
+1 NOTE Mother of Ida Haney (per FS tree, unsourced); wife of Isaac Boyd Haney; Limestone Co AL. | AGENT 2026-07-12c: CONFIRMED mother of Ida (1880 census as 'Nancy Haney' b.1847). Maiden 'Legg' still FS-tree
 1 FAMS @F134@
+0 @I269@ INDI
+1 NAME Jack /Robinson/
+1 SEX M
+1 NOTE Father of Fannie Selina (Robinson) Norton; Jackson Co NC. Per Fannie's death cert (2 collections).
+1 FAMS @F135@
+0 @I270@ INDI
+1 NAME Mary /Johnson/
+1 SEX F
+1 NOTE Mother of Fannie Selina (Robinson) Norton; wife of Jack Robinson. Per Fannie's death cert.
+1 FAMS @F135@
+0 @I271@ INDI
+1 NAME Gilbert /Conner/
+1 SEX M
+1 BIRT
+2 DATE abt 1810
+2 PLAC North Carolina
+1 NOTE Father of Francis 'Frank' Conner; husband of Elizabeth Griggs; Rutherford Co NC -> Jackson Co (1860 census MD6Q-2VG; Frank's death cert names him).
+1 FAMS @F9@
+0 @I272@ INDI
+1 NAME Jemima /Evitt/
+1 SEX F
+1 BIRT
+2 DATE abt 1804
+2 PLAC South Carolina
+1 NOTE Mother of Clarinda (Evitt) Adams; widowed by the 1850 Macon Co NC census (M4BD-LQR). Her husband (Clarinda's father) died before 1850, name not yet found.
+1 FAMS @F136@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -2567,6 +2609,7 @@
 1 CHIL @I10@
 1 CHIL @I28@
 0 @F9@ FAM
+1 HUSB @I271@
 1 WIFE @I30@
 1 CHIL @I24@
 0 @F10@ FAM
@@ -3025,4 +3068,11 @@
 1 HUSB @I267@
 1 WIFE @I268@
 1 CHIL @I195@
+0 @F135@ FAM
+1 HUSB @I269@
+1 WIFE @I270@
+1 CHIL @I27@
+0 @F136@ FAM
+1 WIFE @I272@
+1 CHIL @I48@
 0 TRLR
