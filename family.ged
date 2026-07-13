@@ -156,12 +156,13 @@
 1 FAMC @F16@
 1 FAMS @F6@
 0 @I17@ INDI
-1 NAME Mary C. /(Dillard)/
+1 NAME Mary C. /Rigdon/
 1 SEX F
 1 BIRT
 2 DATE Aug 1869
-2 PLAC South Carolina
+2 PLAC Pumpkintown, Pickens Co, SC
 1 NOTE Maiden name unknown. b. Aug 1869 SOUTH CAROLINA (1900 + 1910 schedules agree; 1910 Soundex card's 'NC' is a transcription error). Father b. SC, mother b. NC. 10 children born, 10 living (1910) — extra
+1 FAMC @F129@
 1 FAMS @F6@
 0 @I18@ INDI
 1 NAME Florance J. /Dillard/
@@ -218,14 +219,18 @@
 1 FAMC @F93@
 1 FAMS @F7@
 0 @I25@ INDI
-1 NAME Margrett /(Conner)/
+1 NAME Margaret Caroline /Cope/
+2 NICK Cordine
 1 SEX F
 1 BIRT
-2 DATE Feb 1863
+2 DATE 5 Feb 1862
 2 PLAC NC
 1 DEAT
-2 DATE between 1900 and 1910
+2 DATE 13 May 1907
+1 BURI
+2 PLAC Tuckasegee, Jackson Co, NC
 1 NOTE Maiden name unknown. b. Feb 1862/63 NC. Married Francis ~1877 (both marked M-23 in 1900, zoom-verified). = the wife recorded as Cordine A., 22 in 1880 — same marriage, so she likely bore a double name
+1 FAMC @F130@
 1 FAMS @F7@
 0 @I26@ INDI
 1 NAME Griffin /Norton/
@@ -238,12 +243,12 @@
 1 FAMC @F24@
 1 FAMS @F8@
 0 @I27@ INDI
-1 NAME Fannie S. /(Norton)/
+1 NAME Fannie S. /Robinson/
 1 SEX F
 1 BIRT
 2 DATE Mar 1870
 2 PLAC NC
-1 NOTE Maiden name unknown. 3 children born, 2 living in 1900 — one child lost.
+1 NOTE Maiden name unknown. 3 children born, 2 living in 1900 — one child lost. | AGENT 2026-07-12: maiden name ROBINSON CONFIRMED (sons Leonard & Lewis's death certs name 'Griffin Norton + Fannie Robinson')
 1 FAMS @F8@
 0 @I28@ INDI
 1 NAME Lewis R. /Norton/
@@ -320,11 +325,17 @@
 1 FAMC @F14@
 1 FAMS @F10@
 0 @I37@ INDI
-1 NAME (unknown) /(Adams)/
+1 NAME Virginia /McKinney/
 1 SEX F
+1 BIRT
+2 DATE Apr 1868
+2 PLAC North Carolina
 1 DEAT
-2 DATE bef 1910
-1 NOTE Emma Molly Adams's mother; died before the 1910 census. Not yet identified — Emma absent from 1900 index too (family possibly missed in 1900 or Emma born just after census day 1900).
+2 DATE 10 Jan 1902
+2 PLAC Macon Co, NC
+1 BURI
+2 PLAC Mountain Grove, Macon Co, NC
+1 NOTE Emma Molly Adams's mother; died before the 1910 census. Not yet identified — Emma absent from 1900 index too (family possibly missed in 1900 or Emma born just after census day 1900). | AGENT 2026-07-1
 1 FAMS @F10@
 0 @I38@ INDI
 1 NAME Lydia /Adams/
@@ -1797,15 +1808,21 @@
 2 PLAC Fannin Co, GA
 1 DEAT
 2 DATE 9 Jan 1928
-2 PLAC Tarrant City, Jefferson Co, AL
+2 PLAC Tarrant City/Birmingham, Jefferson Co, AL
 1 NOTE Father of Florence Rebecca Clements (per FS tree LYS3-MCC). Independently corroborated: an FS indexed record shows 'Michigan Chandler Clements' b.1869 d.1928 Birmingham, Jefferson Co AL — a real, recu
+1 FAMC @F133@
 1 FAMS @F99@
 0 @I195@ INDI
 1 NAME Ida /Haney/
 1 SEX F
 1 BIRT
-2 DATE abt 1875
+2 DATE 26 May 1875
+2 PLAC Limestone Co, AL
+1 DEAT
+2 DATE 12 Dec 1963
+2 PLAC Athens, Limestone Co, AL
 1 NOTE Mother of Florence Rebecca Clements per FS tree (PW6L-LPZ); not yet independently corroborated. FS deeper line: Isaac Boyd Haney + Nancy Legg. | 2026-07-07 Florence's mother = father's FIRST wife, who
+1 FAMC @F134@
 1 FAMS @F99@
 0 @I196@ INDI
 1 NAME Thomas /Dillard III/
@@ -2258,12 +2275,28 @@
 0 @I242@ INDI
 1 NAME Solomon /Haywood/
 1 SEX M
-1 NOTE Father of Annie Elizabeth (Haywood) Hancock; husband of Lottie Sedberry; Montgomery Co NC. Per Annie's NC death record.
+1 BIRT
+2 DATE 1 Jan 1846
+2 PLAC Montgomery Co, NC
+1 DEAT
+2 DATE 17 Oct 1910
+1 BURI
+2 PLAC Mount Gilead, Montgomery Co, NC
+1 NOTE Father of Annie Elizabeth (Haywood) Hancock; husband of Lottie Sedberry; Montgomery Co NC. Per Annie's NC death record. | AGENT 2026-07-12: b.1 Jan 1846, d.17 Oct 1910, bur Mount Gilead. Parents JAMES
+1 FAMC @F127@
 1 FAMS @F122@
 0 @I243@ INDI
-1 NAME Lottie /Sedberry/
+1 NAME Charlotte Ann /Sedberry/
+2 NICK Lottie
 1 SEX F
-1 NOTE Mother of Annie Elizabeth (Haywood) Hancock; wife of Solomon Haywood; Montgomery Co NC. Per Annie's NC death record.
+1 BIRT
+2 DATE 14 Nov 1853
+1 DEAT
+2 DATE 2 Nov 1930
+1 BURI
+2 PLAC Mount Gilead, Montgomery Co, NC
+1 NOTE Mother of Annie Elizabeth (Haywood) Hancock; wife of Solomon Haywood; Montgomery Co NC. Per Annie's NC death record. | AGENT 2026-07-12: = Charlotte 'Lottie' Ann Sedberry, b.14 Nov 1853, d.2 Nov 1930,
+1 FAMC @F128@
 1 FAMS @F122@
 0 @I244@ INDI
 1 NAME Reuben /Hancock/
@@ -2271,6 +2304,9 @@
 1 BIRT
 2 DATE abt 1842
 2 PLAC North Carolina
+1 DEAT
+2 DATE 7 Jul 1919
+2 PLAC Troy, Montgomery Co, NC (tree, unverified)
 1 NOTE Father of Burrell Franklin Hancock; Hill Twp, Montgomery Co NC (1880 census, son 'Burrell' b.1868). Wife Elizabeth (b~1841). Named in Burl's death record. Probable son of Elijah Hancock + Rebecca (185
 1 FAMC @F124@
 1 FAMS @F123@
@@ -2278,9 +2314,9 @@
 1 NAME Elizabeth /Hancock/
 1 SEX F
 1 BIRT
-2 DATE abt 1841
+2 DATE abt 1843
 2 PLAC North Carolina
-1 NOTE Wife of Reuben Hancock, mother of Burrell Franklin Hancock (1880 census, Hill Twp Montgomery Co). Maiden name not yet found.
+1 NOTE Wife of Reuben Hancock, mother of Burrell Franklin Hancock (1880 census, Hill Twp Montgomery Co). Maiden name not yet found. | AGENT 2026-07-12: maiden name PROBABLY FREEMAN (FS tree K8WL-DH5 unsource
 1 FAMS @F123@
 0 @I246@ INDI
 1 NAME Elijah /Hancock/
@@ -2288,35 +2324,49 @@
 1 BIRT
 2 DATE abt 1801
 2 PLAC North Carolina
-1 NOTE PROBABLE father of Reuben Hancock (1850 census, Montgomery Co). Wife Rebecca (b~1803). Verify via 1860/1870.
+1 NOTE PROBABLE father of Reuben Hancock (1850 census, Montgomery Co). Wife Rebecca (b~1803). Verify via 1860/1870. | AGENT 2026-07-12: CONFIRMED father of Reuben (1850 & 1860 census, Diffies Dist Montgomery
 1 FAMS @F124@
 0 @I247@ INDI
 1 NAME Rebecca /Hancock/
 1 SEX F
 1 BIRT
-2 DATE abt 1803
+2 DATE abt 1804
 2 PLAC North Carolina
-1 NOTE PROBABLE mother of Reuben Hancock; wife of Elijah Hancock (1850 census). Elderly Rebecca in Reuben's 1880 household — consistent.
+1 NOTE PROBABLE mother of Reuben Hancock; wife of Elijah Hancock (1850 census). Elderly Rebecca in Reuben's 1880 household — consistent. | AGENT 2026-07-12: CONFIRMED mother of Reuben (1850 census; widowed i
 1 FAMS @F124@
 0 @I248@ INDI
 1 NAME Monroe /Wilson/
 1 SEX M
+1 BIRT
+2 DATE abt 1844
+2 PLAC Wake/Harnett Co, NC
 1 NOTE Father of Alonzo L. Wilson; husband of Elizabeth Fuquay; Moore Co NC. Per Alonzo's death cert. CAUTION: an 1880 Harnett Co Monroe Wilson household lists wife 'Sarah' not Elizabeth — unresolved; verify
+1 FAMC @F131@
 1 FAMS @F125@
 0 @I249@ INDI
-1 NAME Elizabeth /Fuquay/
+1 NAME Mary Elizabeth /Fuquay/
 1 SEX F
-1 NOTE Mother of Alonzo L. Wilson; wife of Monroe Wilson (indexed 'Fuquoy'). Per Alonzo's death cert. The Wilsons & Fuquays intermarried in this community.
+1 BIRT
+2 DATE abt 1844
+1 NOTE Mother of Alonzo L. Wilson; wife of Monroe Wilson (indexed 'Fuquoy'). Per Alonzo's death cert. The Wilsons & Fuquays intermarried in this community. | AGENT 2026-07-12: CONFIRMED as Alonzo's mother (1
 1 FAMS @F125@
 0 @I250@ INDI
 1 NAME George /Fuquay/
 1 SEX M
-1 NOTE Father of Annie Frances Fuquay; Moore Co NC. Per Annie's 1918 death record.
+1 BIRT
+2 DATE abt 1859
+1 NOTE Father of Annie Frances Fuquay; Moore Co NC. Per Annie's 1918 death record. | AGENT 2026-07-12: George Fuquay (Annie Frances's father), b.~1859. Parents unresolved. DISAMBIGUATION: NOT the documented 
 1 FAMS @F126@
 0 @I251@ INDI
 1 NAME Civil Ann /Jones/
 1 SEX F
-1 NOTE Mother of Annie Frances Fuquay; wife of George Fuquay (indexed 'Civil Ann Jones'). Per Annie's 1918 death record.
+1 BIRT
+2 DATE abt 1859
+2 PLAC Harnett Co, NC
+1 DEAT
+2 DATE bef 1893
+1 NOTE Mother of Annie Frances Fuquay; wife of George Fuquay (indexed 'Civil Ann Jones'). Per Annie's 1918 death record. | AGENT 2026-07-12: Civil Ann Jones b.~1859 Harnett Co, d. before ~1893 (marriage list
+1 FAMC @F132@
 1 FAMS @F126@
 0 @I252@ INDI
 1 NAME Vella Mae /Hancock/
@@ -2330,6 +2380,133 @@
 2 PLAC Southern Pines, Moore Co, NC
 1 NOTE Youngest daughter of John David Hancock + Nellie Rea Wilson; sister of Lucretia Elon (Black) & Oneita (Snead). m. Horace B. Webb. b.23 Aug 1930 Richmond Co, d.13 Oct 2010. Per 1940 census + 2010 obitu
 1 FAMC @F119@
+0 @I253@ INDI
+1 NAME James D. /Haywood/
+1 SEX M
+1 BIRT
+2 DATE abt 1824
+2 PLAC North Carolina
+1 NOTE Father of Solomon Haywood; husband of Diza; Montgomery Co NC. Per Solomon's marriage record F8HK-H5N + 1850/1870 census. His own parents not found (ceiling of the Haywood line).
+1 FAMS @F127@
+0 @I254@ INDI
+1 NAME Diza /Haywood/
+1 SEX F
+1 BIRT
+2 DATE abt 1826
+2 PLAC North Carolina
+1 NOTE Mother of Solomon Haywood; wife of James D. Haywood; Montgomery Co NC. Tree gives maiden 'Blake' — unsourced lead, not adopted.
+1 FAMS @F127@
+0 @I255@ INDI
+1 NAME John /Sedberry/
+1 SEX M
+1 NOTE Father of Charlotte 'Lottie' Ann Sedberry; husband of Mirna; Montgomery Co NC. Named in daughter's marriage record F8HK-H5N; no dates/census yet.
+1 FAMS @F128@
+0 @I256@ INDI
+1 NAME Mirna /Sedberry/
+1 SEX F
+1 NOTE Mother of Charlotte 'Lottie' Ann Sedberry; wife of John Sedberry. Named in daughter's marriage record F8HK-H5N.
+1 FAMS @F128@
+0 @I257@ INDI
+1 NAME John H. /Rigdon/
+1 SEX M
+1 BIRT
+2 DATE abt 1846
+2 PLAC South Carolina
+1 NOTE Father of Mary C. (Rigdon) Dillard; of Pumpkintown, Pickens Co SC then Cullowhee, Jackson Co NC. 1870/1880 census with daughter Mary.
+1 FAMS @F129@
+0 @I258@ INDI
+1 NAME Martha M. /Rigdon/
+1 SEX F
+1 BIRT
+2 DATE abt 1843
+2 PLAC North Carolina
+1 NOTE Mother of Mary C. (Rigdon) Dillard; wife of John H. Rigdon. 1870/1880 census. Her own maiden name not yet found.
+1 FAMS @F129@
+0 @I259@ INDI
+1 NAME John /Cope/
+1 SEX M
+1 BIRT
+2 DATE abt 1838
+2 PLAC North Carolina
+1 NOTE PROBABLE father of Margaret Caroline (Cope) Conner; Webster Twp, Jackson Co NC (1870 census, dau 'M C Cope' b.1863). Wife 'L.J.' Verify via Conner-Cope marriage record.
+1 FAMS @F130@
+0 @I260@ INDI
+1 NAME L. J. /Cope/
+1 SEX F
+1 BIRT
+2 DATE abt 1838
+2 PLAC North Carolina
+1 NOTE PROBABLE mother of Margaret Caroline (Cope) Conner; wife of John Cope, Webster Twp Jackson Co NC (1870 census).
+1 FAMS @F130@
+0 @I261@ INDI
+1 NAME Anderson /Wilson/
+1 SEX M
+1 BIRT
+2 DATE abt 1820
+2 PLAC North Carolina
+1 NOTE Father of Monroe Wilson; Wake/Harnett Co NC. Confirmed as Monroe's father via 1850 & 1860 census. His own parents = tree-only, not entered.
+1 FAMS @F131@
+0 @I262@ INDI
+1 NAME Nancy /Pearson/
+1 SEX F
+1 BIRT
+2 DATE abt 1822
+2 PLAC North Carolina
+1 NOTE Mother of Monroe Wilson; wife of Anderson Wilson. Maiden name PEARSON is FS-tree-only (unsourced); confirmed as Monroe's mother via 1850/1860 census.
+1 FAMS @F131@
+0 @I263@ INDI
+1 NAME Allen B. /Jones/
+1 SEX M
+1 BIRT
+2 DATE abt 1829
+2 PLAC North Carolina
+1 NOTE Father of Civil Ann Jones; Upper Little River Twp, Harnett Co NC (1870 census w/ dau Civil Ann). Wife Martha.
+1 FAMS @F132@
+0 @I264@ INDI
+1 NAME Martha /Runnels/
+1 SEX F
+1 BIRT
+2 DATE abt 1829
+2 PLAC North Carolina
+1 NOTE Mother of Civil Ann Jones; wife of Allen B. Jones (1870 census 'Martha A. Jones'). Maiden name RUNNELS is FS-tree-only (unsourced).
+1 FAMS @F132@
+0 @I265@ INDI
+1 NAME Joseph Wilburn /Clements/
+1 SEX M
+1 BIRT
+2 DATE 16 Mar 1837
+2 PLAC Macon Co, NC
+1 NOTE Father of Michigan Chandler Clements; b.16 Mar 1837 Macon Co NC (family NC -> Fannin Co GA). Per Chandler's death cert JDFY-6RS. Deep Clements line above = tree-only, not entered.
+1 FAMS @F133@
+0 @I266@ INDI
+1 NAME Susan /Twiggs/
+2 NICK Susie
+1 SEX F
+1 BIRT
+2 DATE abt 1848
+2 PLAC Georgia
+1 NOTE Mother of Michigan Chandler Clements; wife of Joseph Wilburn Clements. Per Chandler's death cert JDFY-6RS.
+1 FAMS @F133@
+0 @I267@ INDI
+1 NAME Isaac Boyd /Haney/
+1 SEX M
+1 BIRT
+2 DATE 10 Jun 1837
+2 PLAC Alabama
+1 DEAT
+2 DATE 18 Jul 1895
+1 NOTE Father of Ida Haney (per FS tree, unsourced); Limestone Co AL. Verify via 1880 census.
+1 FAMS @F134@
+0 @I268@ INDI
+1 NAME Nancy Jane Minerva /Legg/
+1 SEX F
+1 BIRT
+2 DATE 25 Oct 1847
+2 PLAC Alabama
+1 DEAT
+2 DATE 2 Jun 1909
+1 NOTE Mother of Ida Haney (per FS tree, unsourced); wife of Isaac Boyd Haney; Limestone Co AL.
+1 FAMS @F134@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -2816,4 +2993,36 @@
 1 HUSB @I250@
 1 WIFE @I251@
 1 CHIL @I241@
+0 @F127@ FAM
+1 HUSB @I253@
+1 WIFE @I254@
+1 CHIL @I242@
+0 @F128@ FAM
+1 HUSB @I255@
+1 WIFE @I256@
+1 CHIL @I243@
+0 @F129@ FAM
+1 HUSB @I257@
+1 WIFE @I258@
+1 CHIL @I17@
+0 @F130@ FAM
+1 HUSB @I259@
+1 WIFE @I260@
+1 CHIL @I25@
+0 @F131@ FAM
+1 HUSB @I261@
+1 WIFE @I262@
+1 CHIL @I248@
+0 @F132@ FAM
+1 HUSB @I263@
+1 WIFE @I264@
+1 CHIL @I251@
+0 @F133@ FAM
+1 HUSB @I265@
+1 WIFE @I266@
+1 CHIL @I194@
+0 @F134@ FAM
+1 HUSB @I267@
+1 WIFE @I268@
+1 CHIL @I195@
 0 TRLR
