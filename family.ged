@@ -1,0 +1,2819 @@
+0 HEAD
+1 SOUR genealogy-mcp
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Robert Marrion /Black/
+1 SEX M
+1 BIRT
+2 DATE Apr 1975
+2 PLAC Sylva, Jackson Co, NC
+1 NOTE Researcher. Born in Sylva while parents were at/near WCU.
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Robert Eugene /Black/
+1 SEX M
+1 OCCU B.S. music education, Western Carolina University (Mar 1972)
+1 NOTE Son of Mrs. Eugene P. Black of Charlotte. Of Marion, SC by 1987 (with Sheila). | FAITH: Raised Church of God of Prophecy; gospel musician. [documented]
+1 FAMC @F19@
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Anita Rochelle /Connor/
+2 NICK Sheila/Shelley
+1 SEX F
+1 NOTE WCU senior at marriage (1972). 'Shelley Black of Marion SC' in father's 1987 obit; 'Sheila Black of Marion SC' in mother's 1993 obit. | FAITH: UNITED METHODIST — married at Swannanoa United Methodist 
+1 FAMC @F2@
+1 FAMS @F1@
+0 @I4@ INDI
+1 NAME Connie /Connor/
+1 SEX F
+1 NOTE Married name Worsham. Of Jamestown NC (1987), High Point NC (1993).
+1 FAMC @F2@
+0 @I5@ INDI
+1 NAME Hayes Ray /Connor/
+1 SEX M
+1 BIRT
+2 DATE 26 May 1920
+2 PLAC Speedwell, Jackson Co, NC
+1 DEAT
+2 DATE 13 Apr 1987
+2 PLAC Sylva, NC (hospital); resided 331 Wilson Ave, Swannanoa
+1 BURI
+2 PLAC Mountain View Memorial Park, Black Mountain, NC
+1 OCCU Ret. assistant administrator, WNC Hospital, Black Mountain; earlier Western Carolina University; 1941: stenographer/typist
+1 NOTE b. Speedwell (Pressley Creek area, Cullowhee twp) 26 May 1920 per WikiTree Connor-1277 (exact d. 13 Apr 1987 matches obituary ✓). WWII (serial 34172024); WCU; WNC Hospital; Swannanoa. | FAITH: UNITED 
+1 FAMC @F3@
+1 FAMS @F2@
+0 @I6@ INDI
+1 NAME Audrey Juanita /Norton/
+2 NICK Nita
+1 SEX F
+1 BIRT
+2 DATE abt 1924 (user: 1926)
+2 PLAC Jackson Co, NC
+1 DEAT
+2 DATE 28 Jun 1993
+2 PLAC Swannanoa, NC (331 Wilson Ave)
+1 BURI
+2 PLAC Mountain View Memorial Park, Black Mountain, NC
+1 OCCU Ret. 1984, purchasing dept, WNC Center Hospital
+1 NOTE Obit age 69 implies b. ~1923-24; user's date 1926. | FAITH: UNITED METHODIST — Groce United Methodist Church, Swannanoa (obituary). [documented]
+1 FAMC @F4@
+1 FAMS @F2@
+0 @I7@ INDI
+1 NAME Alexander Vance /Connor/
+2 NICK Alec/Alex
+1 SEX M
+1 BIRT
+2 DATE 17 Apr 1897
+2 PLAC Mountain township, Jackson Co, NC
+1 DEAT
+2 DATE 8 Mar 1968
+1 OCCU Truck driver, grocery (1950)
+1 NOTE 'Ellic Vance Connor' per WikiTree Connor-1836 — matching census 'Ellie V.'/'Elic'. Exact dates confirmed (user had 1897/1968 ✓). Son of Francis & Margrett Conner, Mountain twp. Truck driver, Sylva, 19
+1 FAMC @F7@
+1 FAMS @F3@
+0 @I8@ INDI
+1 NAME Emma Molly /Adams/
+1 SEX F
+1 BIRT
+2 DATE abt 1899-1900
+2 PLAC Mountain township, Jackson Co, NC
+1 DEAT
+2 DATE 1988 (user)
+1 NOTE Of Sylva; still living Apr 1987 (son's obit). | 2026-07-07 Line = Banister Adams -> Joshua (Andrew J.) -> Emma Molly (probable, ~7/10, 1860+1880 census chain). CONFIRM via NC death certificates (1913+
+1 FAMC @F10@
+1 FAMS @F3@
+0 @I9@ INDI
+1 NAME Fred /Connor/
+1 SEX M
+1 BIRT
+2 DATE abt 1925
+1 NOTE Of Sylva (1987). 1950: age 25, wife Margaret, newborn daughter Olivia Dale, house 85 next to parents.
+1 FAMC @F3@
+0 @I10@ INDI
+1 NAME Leonard Crawford /Norton/
+1 SEX M
+1 BIRT
+2 DATE Mar 1892
+2 PLAC Hamburg township, Jackson Co, NC
+1 DEAT
+2 DATE 4 Oct 1953
+1 OCCU Self-employed trucker (1950)
+1 NOTE d. 4 Oct 1953 per WikiTree Norton-5280 (user had 1953 ✓). b. Mar 1892 Hamburg twp; teamster at Highlands 1910; self-employed trucker Hwy 107 1950.
+1 FAMC @F8@
+1 FAMS @F4@
+0 @I11@ INDI
+1 NAME Bertha Matilda /Dillard/
+1 SEX F
+1 BIRT
+2 DATE 10 May 1899
+2 PLAC Norton, Jackson Co, NC
+1 DEAT
+2 DATE 3 Jan 1979
+2 PLAC Asheville, NC
+1 NOTE WikiTree Dillard-1367 (d. 3 Jan 1979 Asheville — near Swannanoa where daughter Nita lived). 1900 census said b. Jun 1899 Sylva twp; WikiTree says 10 May 1899 at Norton — one month apart, birthplace pl
+1 FAMC @F6@
+1 FAMS @F4@
+0 @I12@ INDI
+1 NAME Kenneth /Norton/
+1 SEX M
+1 BIRT
+2 DATE abt 1928
+1 NOTE Of Bryson City (1993). 1950: 22, laborer, trucking. Possibly AAD 'NORTON KENNETH R', Macon Co, enlisted Ft Bragg 1945.
+1 FAMC @F4@
+0 @I13@ INDI
+1 NAME Kemmer /Norton/
+1 SEX M
+1 BIRT
+2 DATE abt 1941
+1 NOTE Of Asheville (1993). 1950: age 9.
+1 FAMC @F4@
+0 @I14@ INDI
+1 NAME Mary /Norton/
+1 SEX F
+1 NOTE Married name Hoyle; of Sylva (1993). Sister of Nita. Husband = VERNON HOYLE (they hosted Robert & Anita's rehearsal dinner, Feb 1972 — Black Mountain News).
+1 FAMC @F4@
+0 @I15@ INDI
+1 NAME Eugene P. /Black/
+1 SEX M
+1 BIRT
+2 DATE 1925
+1 OCCU State Overseer, Church of God of Prophecy
+1 NOTE **LIVING (2026)** — REV. EUGENE PICKENS BLACK (bears father's full name). b. 1925 (user). WWII: USNR V-6, service no. 605-28-90, FIREMAN 2/c; enlisted 5 Nov 1942, Birmingham, Alabama (age 17; family e
+1 FAMC @F20@
+1 FAMS @F19@
+0 @I16@ INDI
+1 NAME James /Dillard/
+1 SEX M
+1 BIRT
+2 DATE Jul 1865
+2 PLAC NC
+1 OCCU Farmer (owned farm, Sylva twp 1900)
+1 NOTE Bertha's father. 1870: 'J.R.L.' 5 in D.L. & Edith Dillard household (Webster); 1880: 'James R.' 14 with widowed mother Edith; 1900: Sylva twp farm owner; 1910: Macon Co.
+1 FAMC @F16@
+1 FAMS @F6@
+0 @I17@ INDI
+1 NAME Mary C. /(Dillard)/
+1 SEX F
+1 BIRT
+2 DATE Aug 1869
+2 PLAC South Carolina
+1 NOTE Maiden name unknown. b. Aug 1869 SOUTH CAROLINA (1900 + 1910 schedules agree; 1910 Soundex card's 'NC' is a transcription error). Father b. SC, mother b. NC. 10 children born, 10 living (1910) — extra
+1 FAMS @F6@
+0 @I18@ INDI
+1 NAME Florance J. /Dillard/
+1 SEX F
+1 BIRT
+2 DATE Jan 1888
+2 PLAC NC
+1 FAMC @F6@
+0 @I19@ INDI
+1 NAME John C. /Dillard/
+1 SEX M
+1 BIRT
+2 DATE Nov 1890
+2 PLAC NC
+1 FAMC @F6@
+0 @I20@ INDI
+1 NAME Alice E. /Dillard/
+1 SEX F
+1 BIRT
+2 DATE Sep 1891
+2 PLAC NC
+1 FAMC @F6@
+0 @I21@ INDI
+1 NAME Benjamin F. /Dillard/
+1 SEX M
+1 BIRT
+2 DATE Sep 1893
+2 PLAC NC
+1 FAMC @F6@
+0 @I22@ INDI
+1 NAME Lillie /Dillard/
+1 SEX F
+1 BIRT
+2 DATE Jul 1895
+2 PLAC NC
+1 FAMC @F6@
+0 @I23@ INDI
+1 NAME Willie B. /Dillard/
+1 SEX M
+1 BIRT
+2 DATE May 1897
+2 PLAC NC
+1 NOTE Almost certainly the 'Will Dillard, 52, trucker-wood, wife Jennie' of 1950 Sylva twp ED 50-25 house 94, living 1/4 mi from Alec & Emma Connor.
+1 FAMC @F6@
+0 @I24@ INDI
+1 NAME Francis /Conner/
+2 NICK Frank
+1 SEX M
+1 BIRT
+2 DATE Aug 1856
+2 PLAC NC
+1 OCCU Farmer (Mountain twp 1900)
+1 NOTE CONFIRMED father of Alec. 1880 ED 102 dw 55: 'Frank Cunner' 25, wife 'Cordine A.' 22, son Cilvestus (Sylvester) 1. NOTE: 1900 wife is Margrett (m. ~1877, so likely the same woman — 'Cordine' may be a 
+1 FAMC @F93@
+1 FAMS @F7@
+0 @I25@ INDI
+1 NAME Margrett /(Conner)/
+1 SEX F
+1 BIRT
+2 DATE Feb 1863
+2 PLAC NC
+1 DEAT
+2 DATE between 1900 and 1910
+1 NOTE Maiden name unknown. b. Feb 1862/63 NC. Married Francis ~1877 (both marked M-23 in 1900, zoom-verified). = the wife recorded as Cordine A., 22 in 1880 — same marriage, so she likely bore a double name
+1 FAMS @F7@
+0 @I26@ INDI
+1 NAME Griffin /Norton/
+1 SEX M
+1 BIRT
+2 DATE Mar 1868
+2 PLAC NC
+1 OCCU Farmer (owned farm, Hamburg twp 1900)
+1 NOTE Father b. NC, mother b. GEORGIA. Married ~1888.
+1 FAMC @F24@
+1 FAMS @F8@
+0 @I27@ INDI
+1 NAME Fannie S. /(Norton)/
+1 SEX F
+1 BIRT
+2 DATE Mar 1870
+2 PLAC NC
+1 NOTE Maiden name unknown. 3 children born, 2 living in 1900 — one child lost.
+1 FAMS @F8@
+0 @I28@ INDI
+1 NAME Lewis R. /Norton/
+1 SEX M
+1 BIRT
+2 DATE Oct 1894
+2 PLAC NC
+1 NOTE Brother of Leonard Crawford Norton.
+1 FAMC @F8@
+0 @I29@ INDI
+1 NAME Drucilla /(Norton)/
+1 SEX F
+1 BIRT
+2 DATE Jan 1815
+2 PLAC NC
+1 DEAT
+2 DATE 20 Jul 1902
+1 NOTE DRUCILLA/'DREUSILLA' NORTON, 1815-1902, buried Norton Cemetery, Jackson Co (gravestone/survey). CONFIRMED: wife of Rodric Norton; mother of David Daniel Norton; came to the Norton community 1852; ran 
+1 FAMC @F26@
+1 FAMS @F23@
+0 @I30@ INDI
+1 NAME Elizabeth /(Connor)/
+1 SEX F
+1 NOTE Frank Connor's widowed mother, living in his household 1910 (age blank). 10 children born, 9 living. = 4th-great-grandmother of the user. Husband (Alec's grandfather) died before 1910; find in 1880 ce
+1 FAMS @F9@
+0 @I31@ INDI
+1 NAME Annie /Conner/
+1 SEX F
+1 BIRT
+2 DATE abt 1890
+2 PLAC NC
+1 NOTE Sibling of Alexander Vance Connor (1910 household).
+1 FAMC @F7@
+0 @I32@ INDI
+1 NAME Cody /Conner/
+1 SEX M
+1 BIRT
+2 DATE abt 1901
+2 PLAC NC
+1 NOTE Sibling of Alexander Vance Connor (1910 household).
+1 FAMC @F7@
+0 @I33@ INDI
+1 NAME Flory /Conner/
+1 SEX F
+1 BIRT
+2 DATE abt 1905
+2 PLAC NC
+1 NOTE Sibling of Alexander Vance Connor (1910 household).
+1 FAMC @F7@
+0 @I34@ INDI
+1 NAME Joseph M. /Conner/
+1 SEX M
+1 BIRT
+2 DATE Feb 1892
+2 PLAC NC
+1 NOTE Brother of Alec. = 'Joe 18' in 1910; = Joe M. Conner, 58, farmer, Hamburg twp 1950 (ED 50-11).
+1 FAMC @F7@
+0 @I35@ INDI
+1 NAME Charly E. /Conner/
+1 SEX M
+1 BIRT
+2 DATE Oct 1894
+2 PLAC NC
+1 NOTE Brother of Alec. = 'Charlie 15' in 1910; = Charlie C. Conner, 56, preacher, Hamburg twp 1950 (ED 50-11), wife Myrtle.
+1 FAMC @F7@
+0 @I36@ INDI
+1 NAME Joshua /Adams/
+1 SEX M
+1 BIRT
+2 DATE abt 1862
+2 PLAC NC
+1 OCCU Farmer (Mountain twp 1910)
+1 NOTE PROBABLE = 'Andrew J. Adams, 18' in Banister Adams household, 1880 Hamburg (Andrew Joshua?). Widowed farmer, Mountain twp 1910, with dau Emma 10 two doors from the Connors. Confirm via Emma's 1988 dea
+1 FAMC @F14@
+1 FAMS @F10@
+0 @I37@ INDI
+1 NAME (unknown) /(Adams)/
+1 SEX F
+1 DEAT
+2 DATE bef 1910
+1 NOTE Emma Molly Adams's mother; died before the 1910 census. Not yet identified — Emma absent from 1900 index too (family possibly missed in 1900 or Emma born just after census day 1900).
+1 FAMS @F10@
+0 @I38@ INDI
+1 NAME Lydia /Adams/
+1 SEX F
+1 BIRT
+2 DATE abt 1895
+2 PLAC NC
+1 NOTE Sister of Emma Molly Adams.
+1 FAMC @F10@
+0 @I39@ INDI
+1 NAME Erve /Adams/
+1 SEX F
+1 BIRT
+2 DATE abt 1896
+2 PLAC NC
+1 NOTE Sister of Emma (laborer, working out, at 14).
+1 FAMC @F10@
+0 @I40@ INDI
+1 NAME Willie /Adams/
+1 SEX M
+1 BIRT
+2 DATE abt 1896
+2 PLAC NC
+1 NOTE Brother of Emma.
+1 FAMC @F10@
+0 @I41@ INDI
+1 NAME David /Norton/
+1 SEX M
+1 BIRT
+2 DATE 28 Aug 1835
+2 PLAC Norton, Jackson Co, NC
+1 DEAT
+2 DATE 1 Jul 1912
+2 PLAC Highlands, Macon Co, NC
+1 NOTE DAVID DANIEL NORTON. Confederate 2nd Lt, Co. B 25th NC (CA mark 1910). Son of Rodric Norton & Drucilla Burrell (CONFIRMED). m.(1) 1859/60 Mary J. Holden of Rabun GA (d. Oct 1868); m.(2) Martha (Adams)
+1 FAMC @F23@
+1 FAMS @F11@
+1 FAMS @F12@
+1 FAMS @F24@
+0 @I42@ INDI
+1 NAME Sadie /Dillard/
+1 SEX F
+1 BIRT
+2 DATE abt 1902
+2 PLAC NC
+1 NOTE Sister of Bertha, born after 1900 census.
+1 FAMC @F6@
+0 @I43@ INDI
+1 NAME James Jr. /Dillard/
+1 SEX M
+1 BIRT
+2 DATE abt 1904
+2 PLAC NC
+1 NOTE Brother of Bertha, born after 1900 census.
+1 FAMC @F6@
+0 @I44@ INDI
+1 NAME Dora /Dillard/
+1 SEX F
+1 BIRT
+2 DATE abt 1906
+2 PLAC NC
+1 NOTE Sister of Bertha, born after 1900 census.
+1 FAMC @F6@
+0 @I45@ INDI
+1 NAME Martha /Adams/
+2 NICK Marthy
+1 SEX F
+1 BIRT
+2 DATE abt 1841
+2 PLAC Georgia
+1 NOTE David Daniel Norton's SECOND wife (by 1880; his first wife Mary J. Holden d. Oct 1868). Raised Griffin — STEPMOTHER unless Griffin's death record says otherwise. Her mother Emly Adams lived in the 188
+1 FAMC @F13@
+1 FAMS @F12@
+0 @I46@ INDI
+1 NAME Emly /Adams/
+1 SEX F
+1 BIRT
+2 DATE abt 1827
+2 PLAC Georgia
+1 NOTE Mother-in-law in David Norton household 1880 (age 53, b. GA of GA parents) — Martha's mother. 5th-great-grandmother. | 2026-07-07 Emly Adams (b.~1827 GA) = probable SISTER of Banister Adams; mother of
+1 FAMS @F13@
+0 @I47@ INDI
+1 NAME Banister /Adams/
+1 SEX M
+1 BIRT
+2 DATE 8 Oct 1832
+2 PLAC Georgia
+1 DEAT
+2 DATE 10 Apr 1910
+2 PLAC bur. Mountain Grove Cem., Macon Co, NC (FindAGrave)
+1 NOTE 1880 Hamburg dw 88, two doors from David Norton; son 'Andrew J.' 18 = probable Joshua Adams (Emma's father). Reappears 1900 Mountain twp (Banister Addams 64, 2nd wife Sarah) and 1910 Cullowhee (75, 3r
+1 FAMS @F14@
+0 @I48@ INDI
+1 NAME Clarinda /(Adams)/
+1 SEX F
+1 BIRT
+2 DATE abt 1831
+2 PLAC South Carolina
+1 DEAT
+2 DATE 9 Dec 1892
+1 NOTE Banister's wife in 1880; died before his 1894 remarriage. Probable grandmother of Emma Molly Adams. | 2026-07-08 Name corrected Lucinda -> CLARINDA (census 1870/1880 'Clarinda'/'Cerinda', b.~1831 SC).
+1 FAMS @F14@
+0 @I49@ INDI
+1 NAME Edith /Dillard/
+1 SEX F
+1 BIRT
+2 DATE abt 1818
+2 PLAC NC
+1 NOTE 1870 (as 'Edy', 50) with husband D.L. Dillard and 8 children incl. James ('J.R.L.', 5), Thad B. ('T.B.', 14), John M. ('J.M.', 7). Widowed by 1880 (Webster). 4th-great-grandmother. | 2026-07-07 DILLAR
+1 FAMS @F15@
+1 FAMS @F16@
+0 @I50@ INDI
+1 NAME David Love /Dillard/
+1 SEX M
+1 BIRT
+2 DATE abt 1815
+2 PLAC Haywood Co, NC
+1 OCCU Farmer, Webster twp (1870: $900 real estate)
+1 NOTE Edith's husband — 4th-great-grandfather, known so far only by initials D.L. (1870 enumerator used initials). Died 1870-1880 (Edith widowed by 1880). Full name expected from 1860 census or Moore's Rost
+1 FAMC @F100@
+1 FAMS @F16@
+0 @I53@ INDI
+1 NAME Lucretia Elon /Hancock/
+1 SEX F
+1 BIRT
+2 DATE 11 Dec 1928
+2 PLAC Norman, Richmond Co, NC
+1 DEAT
+2 DATE 1 Mar 2019
+2 PLAC Wilmington, NC
+1 NOTE User's paternal grandmother, wife of Rev. Eugene Black. 'Elon' — given name (distinctive; good search key). Maiden name unknown. Deceased. VERIFY: obituary via newspapers.com; Find A Grave. | FAITH: D
+1 FAMC @F119@
+1 FAMS @F19@
+0 @I54@ INDI
+1 NAME Edgar Pickens /Black/
+1 SEX M
+1 BIRT
+2 DATE 25 Oct 1881
+2 PLAC Abbeville Co, South Carolina
+1 DEAT
+2 DATE 12 Dec 1964
+2 PLAC Birmingham, Jefferson Co, AL
+1 NOTE Father of Rev. Eugene Black. 1900 Abbeville household lists him as 'Edgar P.', 18 — HIGHLY PROBABLE same person (P initial, exact age, no competing Eugene in SC Soundex; 'Edgar' = enumerator/informant
+1 FAMC @F29@
+1 FAMS @F20@
+0 @I55@ INDI
+1 NAME Florence /Clements/
+1 SEX F
+1 BIRT
+2 DATE 1895
+2 PLAC Georgia
+1 DEAT
+2 DATE 1974
+2 PLAC Acmar, St Clair Co, AL
+1 NOTE Wife of Eugene Pickens Black; mother of Rev. Eugene Black (b.1925 — she'd be 30 ✓). VERIFY. | 2026-07-07 PARENTS (probable, FS + record + geography): Michigan Chandler Clements (~1869-1928 Birmingham 
+1 FAMC @F99@
+1 FAMS @F20@
+0 @I56@ INDI
+1 NAME John Laurens /Black/
+1 SEX M
+1 BIRT
+2 DATE Jul 1848
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1925
+1 OCCU Farmer, Diamond Hill Twp, Abbeville Co SC (1900)
+1 NOTE FOUND 1900 Abbeville Co SC (as 'Block, John L.'). Abbeville borders LAURENS Co, near Pickens country — the sons' names honor SC places, confirming the SC-origin hypothesis. Brother James C. Black b. F
+1 FAMC @F37@
+1 FAMS @F21@
+1 FAMS @F29@
+0 @I57@ INDI
+1 NAME Molly /Dudley/
+1 SEX F
+1 BIRT
+2 DATE Sept 1870
+2 PLAC South Carolina
+1 NOTE CONFLICT RESOLVED: = 'Marie/Mollie A.', John L. Black's SECOND wife (m. ~1897, 'M-3yrs' in 1900; 1 child born/1 living = daughter Monie A. b. Oct 1898). NOT the mother of Eugene Pickens Sr. — exactly 
+1 FAMS @F21@
+0 @I59@ INDI
+1 NAME Rodric /Norton/
+1 SEX M
+1 BIRT
+2 DATE 18 Jan 1808
+2 PLAC South Carolina
+1 DEAT
+2 DATE 9 Jun 1866
+2 PLAC Cashiers, Jackson Co, NC
+1 NOTE RODRIC NORTON, gravestone Norton Cemetery: d. 9 Jun 1866, aged 58y 4m 21d → b. 19 Jan 1808 (corroborates WikiTree's 18 Jan 1808 within a day — independent confirmation). Son of Barak Norton per NC his
+1 FAMC @F25@
+1 FAMS @F23@
+0 @I60@ INDI
+1 NAME John Burruss /Norton/
+1 SEX M
+1 BIRT
+2 DATE 20 Feb 1856
+2 PLAC Norton, Jackson Co, NC
+1 DEAT
+2 DATE 5 Mar 1937
+1 NOTE Brother of David Daniel Norton = 'B. Norton, 4' (1860), 'John C.B. 13' (1870), 'Burrows' (1880, with mother Drusilla in household). | 2026-07-08 His NC death record (d.1937) names his parents as Roder
+1 FAMC @F23@
+0 @I61@ INDI
+1 NAME Octavia /Norton/
+1 SEX F
+1 BIRT
+2 DATE 22 Sep 1851
+2 PLAC Norton, Jackson Co, NC
+1 DEAT
+2 DATE 11 Aug 1932
+1 NOTE Sister of David = 'Octavo 18' in Drucilla's 1870 household.
+1 FAMC @F23@
+0 @I62@ INDI
+1 NAME Mary J. /Holden/
+1 SEX F
+1 BIRT
+2 DATE 1841
+2 PLAC Rabun Co, Georgia
+1 DEAT
+2 DATE 10 Oct 1868
+1 NOTE David Daniel Norton's FIRST wife = the 'M.J., 18, b. GA' bride of the 1860 census. Mother of Meeta (b. GA 1864 — born at her Rabun kin during David's war service) and very possibly of GRIFFIN (b. Mar 
+1 FAMC @F96@
+1 FAMS @F24@
+0 @I63@ INDI
+1 NAME Barak Pickeral /Norton/
+1 SEX M
+1 BIRT
+2 DATE 10 May 1777
+2 PLAC Rutherford Co, NC
+1 DEAT
+2 DATE 1 Sep 1869
+2 PLAC Cove, Haywood Co, NC
+1 NOTE Father of Rodric Norton; Norton-community namesake patriarch. Family in Pickens District SC until ~1821, then Cashiers country. PROBABLE 1860 census match: 'B. Norton, 88, farmer, $300/$50, b. SC' — J
+1 FAMC @F42@
+1 FAMS @F25@
+0 @I64@ INDI
+1 NAME Mary B. /Nicholson/
+1 SEX F
+1 BIRT
+2 DATE 31 Jan 1788
+2 PLAC Pickens District, SC
+1 DEAT
+2 DATE 28 Mar 1883
+2 PLAC Cashiers, Jackson Co, NC
+1 NOTE Mother of Rodric Norton. Lived to 95 — born under the Articles of Confederation, died in the age of the telephone. | 2026-07-07 PARENTS FOUND (probable, well-attested): William Nicholson (~1765-1820 P
+1 FAMC @F95@
+1 FAMS @F25@
+0 @I65@ INDI
+1 NAME Walter Neal /Burrell/
+1 SEX M
+1 BIRT
+2 DATE abt 1775
+2 PLAC Wadesboro, Anson Co, NC
+1 DEAT
+2 DATE abt 1839
+2 PLAC Gilmer Co, GA (bur. Burrell Cem., Ellijay; FindAGrave 23730262)
+1 OCCU Farmer; War of 1812 veteran (NC Militia)
+1 NOTE HYPOTHESIS ONLY (GPS review 2026-07-07: 4/10). Claimed father of Drucilla on FamilySearch/WikiTree — NO naming record (will/probate/deed/guardianship) located. A real Walter Burrell existed in Greenvi
+1 FAMC @F44@
+1 FAMS @F26@
+0 @I66@ INDI
+1 NAME Phoebe /Pruitt/
+1 SEX F
+1 BIRT
+2 DATE abt 1776
+2 PLAC Greenville District, SC
+1 DEAT
+2 DATE abt 1839
+2 PLAC Macon Co, NC
+1 NOTE HYPOTHESIS ONLY (GPS review 2026-07-07: 4/10) — claimed mother of Drucilla, collaborative trees only. Burrell-Pruitt kinship IS documented one generation earlier (1797 Pendleton deed of gift: David Pr
+1 FAMC @F48@
+1 FAMS @F26@
+0 @I67@ INDI
+1 NAME Richard Jackson /Holden/
+1 SEX M
+1 BIRT
+2 DATE 15 Aug 1823
+2 PLAC Pine Mountain, Rabun Co., Georgia
+1 DEAT
+2 DATE 3 Jun 1874
+2 PLAC Pine Mountain, Rabun Co., Georgia
+1 NOTE Father of Mary J. Holden (David Norton's first wife). Rabun Co GA family — where Meeta Norton was born 1864. Son James Billingsley Holden died 12 Feb 1865 at Camp Chase POW camp, Ohio (Confederate pri
+1 FAMC @F96@
+1 FAMS @F27@
+0 @I68@ INDI
+1 NAME Nancy Ann /Billingsley/
+1 SEX F
+1 BIRT
+2 DATE 31 Jan 1823
+2 PLAC South Carolina
+1 DEAT
+2 DATE 9 Feb 1910
+2 PLAC Rabun Co, Georgia
+1 BURI
+2 PLAC Holden Cemetery, Rabun Co., GA
+1 NOTE  | 2026-07-07 WikiTree: Billingsley surname immigrant = Francis Billingsley (~1600 Shropshire England -> Calvert Co MD 1684), ~6 gens up. English -> Maryland tidewater. Speculative. | 2026-07-08 FATHE
+1 FAMC @F108@
+1 FAMS @F27@
+0 @I69@ INDI
+1 NAME Edward /Norton/
+1 SEX M
+1 BIRT
+2 DATE 1687
+2 PLAC Armagh, Ulster, Ireland
+1 DEAT
+2 DATE 1739
+1 NOTE [WikiTree Norton-2062] Terminal Norton ancestor — the Ulster Scots-Irish origin of the Norton line. | FAITH: Ulster Scots-Irish (Quaker/Presbyterian). [speculative]
+0 @I70@ INDI
+1 NAME Walter N. /Burrell (immigrant)/
+1 SEX M
+1 BIRT
+2 DATE 1715
+2 PLAC Glenrothes, Fife, Scotland
+1 NOTE [Burrell-1069] Terminal Burrell ancestor — lowland Scotland.
+0 @I71@ INDI
+1 NAME Thomas /Pruitt (immigrant)/
+1 SEX M
+1 BIRT
+2 DATE 1616
+2 PLAC Salisbury, Wiltshire, England
+1 NOTE [Pruitt-2993] Virginia immigrant generation of the Pruitt line; line continues to Richard Pruet b.1509 Somerset.
+0 @I73@ INDI
+1 NAME Anne /Standish/
+1 SEX F
+1 BIRT
+2 DATE 1507
+2 PLAC Lancashire, England
+1 DEAT
+2 DATE 1560
+1 NOTE [Standish-7] Daughter of Ralph Standish of Standish Hall (b.1479); descent through Hugh Standish of DUXBURY HALL (b.1339). The same gentry house Mayflower passenger Myles Standish claimed as his own —
+0 @I75@ INDI
+1 NAME Vernon E. /Black/
+1 SEX M
+1 BIRT
+2 DATE Jan 1880
+2 PLAC South Carolina
+1 NOTE Son of John L. & Mollie J. Black. 1880: age 5/12, b. Jan 1880 (unambiguous fractional age) — the 1900 schedule's 'Jan 1870, 30' was an enumerator/reading error for 1880/20. Eugene Pickens Sr.'s full b
+1 FAMC @F29@
+0 @I76@ INDI
+1 NAME James C. /Black/
+1 SEX M
+1 BIRT
+2 DATE abt 1854
+2 PLAC South Carolina
+1 NOTE Child of James W. & Mary L. Black, Diamond Hill (1860 census). Sibling of John Laurens Black. = James C. Black b. Feb 1855, John L.'s brother (in his 1900 household); = 'Jas. 25' 1880.
+1 FAMC @F33@
+0 @I77@ INDI
+1 NAME Monie A. /Black/
+1 SEX F
+1 BIRT
+2 DATE Oct 1898
+2 PLAC South Carolina
+1 NOTE Daughter of John Laurens Black & Mollie A. — Eugene Sr.'s half-sister.
+1 FAMC @F21@
+0 @I79@ INDI
+1 NAME Marcella /Norton/
+1 SEX F
+1 BIRT
+2 DATE 20 Aug 1853
+2 PLAC Norton community, Jackson Co, NC
+1 DEAT
+2 DATE 25 Mar 1931
+1 NOTE Daughter of Rodric & Drucilla = 'Moralla 16' (1870 census, dw 54). Married a McGUIRE; remained on the Norton farm (historic survey: 'eventually only daughter Marcella remained... McGuire phase of the 
+1 FAMC @F23@
+0 @I80@ INDI
+1 NAME Mollie J. /(Black, first wife)/
+1 SEX F
+1 BIRT
+2 DATE abt 1852
+2 PLAC South Carolina
+1 DEAT
+2 DATE bef 1897
+1 NOTE John Laurens Black's FIRST wife (1850/1860 as the mother in James W.'s... no — she is JOHN L.'s wife: 1880 Abbeville dw 201, 'Mollie J.' 28, mother of Vernon E. (b.1880) and Eugene Pickens (b.1881). D
+1 FAMS @F29@
+0 @I81@ INDI
+1 NAME James W. /Black/
+1 SEX M
+1 BIRT
+2 DATE 1813
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1894
+1 OCCU Farmer, Diamond Hill, Abbeville Co SC
+1 NOTE JAMES WILLIAM BLACK, 1813-1894 (Find A Grave). 3rd-great-grandfather. Son of John Burnette Black & Elizabeth Brownlee. 3 wives: Susan E. Killingsworth (mother of John Laurens Black), Mary L. McLees, E
+1 FAMC @F34@
+1 FAMS @F33@
+1 FAMS @F37@
+0 @I82@ INDI
+1 NAME Wesley Alexander /Black/
+1 SEX M
+1 BIRT
+2 DATE 10 Mar 1830
+2 PLAC Antreville, Abbeville Co, SC
+1 DEAT
+2 DATE 22 Sep 1888
+1 NOTE = 1880 census 'Wesley A. Black, 50' (dw 323, Diamond Hill), John Laurens Black's near neighbor & probable kin. WikiTree Black-13573. Son of James Alexander Black (b.1788 Mecklenburg NC). His presence 
+1 FAMC @F31@
+1 FAMS @F30@
+0 @I83@ INDI
+1 NAME Almanza Letitia /Cowan/
+1 SEX F
+1 BIRT
+2 DATE 1834
+1 DEAT
+2 DATE 1903
+1 NOTE Wife of Wesley Alexander Black; = the census 'Almousa/Alamanza L.' (1880 dw 323; 1900 widow, 9 children/8 living). Reading now RESOLVED to Almanza Letitia Cowan (WikiTree Cowan-98).
+1 FAMS @F30@
+0 @I84@ INDI
+1 NAME James Alexander /Black/
+1 SEX M
+1 BIRT
+2 DATE 12 Oct 1788
+2 PLAC Mecklenburg Co, North Carolina
+1 DEAT
+2 DATE 11 Nov 1836
+2 PLAC Abbeville Co, SC
+1 NOTE NOT OUR ANCESTOR (refuted). Was a hypothesized father of James W. Black via the Ulster-Scots line (Edinburgh→Belfast→Mecklenburg). REFUTED by Elizabeth Black's 1867 will: James W. Black's mother is El
+1 FAMS @F31@
+0 @I91@ INDI
+1 NAME Alexander /Black/
+1 SEX M
+1 BIRT
+2 DATE abt 1786
+2 PLAC South Carolina
+1 NOTE 1850 Abbeville, leaf 113: Alexander Black, 64, MILLER, wife Margaret 58. Elder Black head of the right generation to be a grandparent of John Laurens Black — UNPROVEN. Note: distinct from the Antrevil
+0 @I92@ INDI
+1 NAME Mary L. /(Black)/
+1 SEX F
+1 BIRT
+2 DATE abt 1826
+2 PLAC South Carolina
+1 NOTE = MARY L. McLEES, James William Black's SECOND wife (the 1860 census 'Mary L., 34'). STEPMOTHER of John Laurens Black — NOT his mother (his mother was 1st wife Susan E. Killingsworth). Maiden name McL
+1 FAMS @F33@
+0 @I93@ INDI
+1 NAME Laura A. E. /Black/
+1 SEX F
+1 BIRT
+2 DATE abt 1842
+2 PLAC South Carolina
+1 NOTE Child of James W. & Mary L. Black, Diamond Hill (1860 census). Sibling of John Laurens Black.
+1 FAMC @F33@
+0 @I94@ INDI
+1 NAME Mary E. /Black/
+1 SEX F
+1 BIRT
+2 DATE abt 1844
+2 PLAC South Carolina
+1 NOTE Child of James W. & Mary L. Black, Diamond Hill (1860 census). Sibling of John Laurens Black.
+1 FAMC @F33@
+0 @I95@ INDI
+1 NAME Alice A. /Black/
+1 SEX F
+1 BIRT
+2 DATE abt 1846
+2 PLAC South Carolina
+1 NOTE Child of James W. & Mary L. Black, Diamond Hill (1860 census). Sibling of John Laurens Black.
+1 FAMC @F33@
+0 @I96@ INDI
+1 NAME Julia E. /Black/
+1 SEX F
+1 BIRT
+2 DATE abt 1850
+2 PLAC South Carolina
+1 NOTE Child of James W. & Mary L. Black, Diamond Hill (1860 census). Sibling of John Laurens Black.
+1 FAMC @F33@
+0 @I97@ INDI
+1 NAME William W. /Black/
+1 SEX M
+1 BIRT
+2 DATE abt 1852
+2 PLAC South Carolina
+1 NOTE Child of James W. & Mary L. Black, Diamond Hill (1860 census). Sibling of John Laurens Black. = the '1850 William' misread as head; = Wm W. Black 27 in 1880 dw 296.
+1 FAMC @F33@
+0 @I98@ INDI
+1 NAME Pickens W. /Black/
+1 SEX M
+1 BIRT
+2 DATE abt 1856
+2 PLAC South Carolina
+1 NOTE Son of James W. Black; John Laurens Black's brother. = the will's grandson 'Pickens K. Black, son of James W. Black' who received $200 for education from grandmother Elizabeth. = 'Pickney R.' 23 in 18
+1 FAMC @F33@
+0 @I99@ INDI
+1 NAME Joseph A. /Black/
+1 SEX M
+1 BIRT
+2 DATE abt 1859
+2 PLAC South Carolina
+1 NOTE Child of James W. & Mary L. Black, Diamond Hill (1860 census). Sibling of John Laurens Black.
+1 FAMC @F33@
+0 @I100@ INDI
+1 NAME John Burnett /Black/
+1 SEX M
+1 BIRT
+2 DATE 27 Dec 1789
+2 PLAC Abbeville Co, SC
+1 DEAT
+2 DATE 7 Mar 1844
+2 PLAC Abbeville Co, SC (bur. Little Mountain Cemetery, plot 104 O)
+1 NOTE CONFIRMED 4th-great-grandfather. b.27 Dec 1789, d.7 Mar 1844, Little Mountain Cemetery Abbeville. Son of JOSEPH BLACK & MARY BURNETT (hence his middle name Burnett). m. Elizabeth Brownlee (1811). His 
+1 FAMC @F36@
+1 FAMS @F34@
+0 @I101@ INDI
+1 NAME Elizabeth /Brownlee/
+1 SEX F
+1 BIRT
+2 DATE 28 Nov 1791
+2 PLAC Abbeville Co, SC
+1 DEAT
+2 DATE 19 Dec 1868
+2 PLAC Johnson's Creek, Abbeville Co, SC
+1 OCCU Planter (owned 450-acre plantation on Johnson's Creek, Abbeville)
+1 NOTE CONFIRMED 4th-great-grandmother. b.28 Nov 1791. m. John Burnette Black 21 Feb 1811. DIED 19 DEC 1868 (her own will — PRIMARY; the online '1845' was a conflation error, refuted by the 1867 will she sig
+1 FAMC @F35@
+1 FAMS @F34@
+0 @I102@ INDI
+1 NAME Eliza A. /Black/
+1 SEX F
+1 BIRT
+2 DATE 1818
+1 DEAT
+2 DATE 1875
+1 NOTE Married name Clinkscales ('Mrs. Eliza A. Clinkscales'). Named with brother James W. Black in Elizabeth Brownlee Black's probate — James W.'s sister. [FAG: = ELIZABETH ANN Black (FAG); m. George Brownl
+1 FAMC @F34@
+0 @I103@ INDI
+1 NAME Joseph Ramsay /Black/
+1 SEX M
+1 BIRT
+2 DATE 1820
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1891
+1 NOTE Son of Elizabeth Black, living 1867; in the maintenance trust with brother James W. James W.'s brother. [FAG: = JOSEPH RAMSEY Black (FAG); m. 1st Catherine Cobb, 2nd Mary Tribble.] | 2026-07-07 CWSS c
+1 FAMC @F34@
+0 @I104@ INDI
+1 NAME John C. /Black/
+1 SEX M
+1 BIRT
+2 PLAC South Carolina
+1 NOTE Son of Elizabeth Black, DECEASED by 1867 (his children took a share). NOT to be confused with John LAURENS Black (Elizabeth's grandson). [FAG: = JOHN CALHOUN Black (FAG); m. Mary Latimer. Deceased by 
+1 FAMC @F34@
+0 @I105@ INDI
+1 NAME Dr. William P. /Black/
+1 SEX M
+1 BIRT
+2 DATE 1823
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1855
+1 NOTE Son of Elizabeth Black, a physician, DECEASED by 1867 (his children took a share). James W.'s brother. [FAG: = WILLIAM PICKENS Black (FAG); m. Margaret Ellen Johnson; a physician. Deceased by 1867. Th
+1 FAMC @F34@
+0 @I106@ INDI
+1 NAME Mary /Black/
+1 SEX F
+1 BIRT
+2 PLAC South Carolina
+1 NOTE Daughter of Elizabeth Black; married name KAY, widow by 1867. James W.'s sister. (Family bought at estate sale as 'H. Kay'.) [FAG: = MARY ELLEN Black (FAG); m. Frances Lemuel Kay (the will's 'Mrs. Mar
+1 FAMC @F34@
+0 @I107@ INDI
+1 NAME Sarah L. /Black/
+1 SEX F
+1 BIRT
+2 PLAC South Carolina
+1 NOTE Daughter of Elizabeth Black; wife of A. Milton BLAKE. James W.'s sister.
+1 FAMC @F34@
+0 @I108@ INDI
+1 NAME James Augustus /Black/
+1 SEX M
+1 NOTE NEPHEW of Elizabeth (Brownlee) Black (her will); trustee of her plantation + co-executor with son James W. Black. Explains the appraisement warrant's 'Jas. Augustus Black the Executor'. He is a nephew
+0 @I109@ INDI
+1 NAME William /Brownlee/
+1 SEX M
+1 BIRT
+2 DATE 19 Dec 1770
+1 DEAT
+2 DATE 22 Dec 1834
+2 PLAC Abbeville District, SC
+1 NOTE POSSIBLE father of Elizabeth (Brownlee) Black — John B. Black (her husband) was an executor of William Brownlee's will, the classic son-in-law role. Brownlee = Due West ARP Scots-Irish/Covenanter fami
+1 FAMC @F46@
+1 FAMS @F35@
+0 @I110@ INDI
+1 NAME Joseph Augustus /Black/
+1 SEX M
+1 BIRT
+2 DATE 17/18 Jan 1763
+2 PLAC Dauphin County, Pennsylvania
+1 DEAT
+2 DATE 7 Nov 1843
+2 PLAC Columbia, Richland Co, SC (bur. First Presbyterian Churchyard, plot 152)
+1 OCCU Revolutionary War soldier (SC militia — Sumter's/Greene's 1781 campaigns); later farmer, Abbeville & Richland Co SC
+1 NOTE JOSEPH AUGUSTUS BLACK, b. 18 Jan 1763 Dauphin Co PA, d. ~1843 SC — user's 5th-great-grandfather. **REV WAR SERVICE PRIMARY-DOCUMENTED (Pension S.21646, full 36-frame read).** The Pension Office's own 
+1 FAMC @F38@
+1 FAMS @F36@
+0 @I111@ INDI
+1 NAME Mary /Burnett/
+1 SEX F
+1 BIRT
+2 DATE 1766
+1 DEAT
+2 DATE 31 Aug 1845
+1 NOTE MARY BURNETT, 1766-1845 (Find A Grave); wife of Joseph Augustus Black. Her surname Burnett passed as the middle name of son John Burnette Black. 5th-great-grandmother. Burnett family of the Abbeville/
+1 FAMC @F47@
+1 FAMS @F36@
+0 @I112@ INDI
+1 NAME Susan E. /Killingsworth/
+1 SEX F
+1 BIRT
+2 PLAC South Carolina
+1 NOTE FIRST wife of James William Black; MOTHER of John Laurens Black (b.1848) and his older siblings. = the 1850 census wife 'Susan ~24'. Died between ~1856 and 1860 (James W. had m. 2nd Mary L. McLees by 
+1 FAMC @F98@
+1 FAMS @F37@
+0 @I113@ INDI
+1 NAME Mary A. /Black/
+1 SEX F
+1 BIRT
+2 PLAC South Carolina
+1 NOTE Daughter of John Burnette & Elizabeth Black (FAG). James William's sister.
+1 FAMC @F34@
+0 @I114@ INDI
+1 NAME Washington Brownlee /Black/
+1 SEX M
+1 BIRT
+2 DATE 1819
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1849
+1 NOTE Son of John Burnette & Elizabeth Black (FAG); never married. Carries the Brownlee name.
+1 FAMC @F34@
+0 @I115@ INDI
+1 NAME Martha A. /Black/
+1 SEX F
+1 BIRT
+2 DATE 1836
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1843
+1 NOTE Daughter of John Burnette & Elizabeth Black (FAG). [FAG: Martha Jane Black 1836-1843, d. as a child]
+1 FAMC @F34@
+0 @I116@ INDI
+1 NAME Robert Preston /Black/
+1 SEX M
+1 BIRT
+2 DATE 1834
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1841
+1 NOTE Son of John Burnette & Elizabeth Black (FAG).
+1 FAMC @F34@
+0 @I117@ INDI
+1 NAME James Augustus /Black/
+1 SEX M
+1 BIRT
+2 DATE 1790
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1847
+1 NOTE Brother of John Burnette Black (son of Joseph Augustus Black). His son (also James Augustus) is likely the 'nephew James Augustus Black' who was trustee/executor of Elizabeth Black's 1867 will. NOT th
+1 FAMC @F36@
+0 @I118@ INDI
+1 NAME Joseph Addison /Black/
+1 SEX M
+1 BIRT
+2 DATE 1802
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1856
+1 NOTE Brother of John Burnette Black (son of Joseph Augustus Black).
+1 FAMC @F36@
+0 @I119@ INDI
+1 NAME William Claiborne /Black/
+1 SEX M
+1 BIRT
+2 DATE 1806
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1879
+1 NOTE Brother of John Burnette Black (son of Joseph Augustus Black).
+1 FAMC @F36@
+0 @I120@ INDI
+1 NAME James Benson /Black/
+1 SEX M
+1 BIRT
+2 DATE 1828
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1896
+1 NOTE Son of John Burnette Black & Elizabeth Brownlee (FAG); James William's brother. = 'J. Benson Black, 32, Merchant' of 1860 Cokesbury, Abbeville (RE $2,500 PE $10,000). | 2026-07-07 CWSS candidate: 'J. 
+1 FAMC @F34@
+0 @I121@ INDI
+1 NAME James Thomas /Black/
+1 SEX M
+1 BIRT
+2 DATE 1728 (DAR) / abt 1720 (FAG) — trees vary
+2 PLAC Ireland (DAR: 'Ireland'; FAG: Co Londonderry)
+1 DEAT
+2 DATE 21 Mar 1818
+2 PLAC Mecklenburg Co, NC (bur. Old Rocky River Graveyard, Concord, Cabarrus Co NC)
+1 OCCU Farmer; Revolutionary War militia (Salisbury District, NC)
+1 NOTE JAMES (THOMAS) BLACK, d. ~1818 — user's 6th-great-grandfather via Joseph Augustus Black. **CONFIDENCE DOWNGRADED confirmed->PROBABLE (2026-07-07 review): the record rests on Find A Grave + FamilySearc
+1 FAMC @F40@
+1 FAMS @F38@
+0 @I122@ INDI
+1 NAME Samuel /Black/
+1 SEX M
+1 BIRT
+2 DATE 1769
+1 DEAT
+2 DATE 1843
+1 NOTE Brother of Joseph Augustus Black (son of Private James Black). FAG #58822655 sibling link. | 2026-07-09 CORRECTION (photo hunt): any DB note citing FindAGrave memorial 58822655 for this person is MISA
+1 FAMC @F38@
+0 @I123@ INDI
+1 NAME Ann Jane /Thomas/
+1 SEX F
+1 BIRT
+2 PLAC Pennsylvania (?)
+1 NOTE DISPUTED wife of James (Thomas) Black — NOT established. A competing and arguably better-supported claim names his wife **Elizabeth Rogers** (m.1756, d. Cabarrus Co NC), per a 1967 compiled Black-fami
+0 @I124@ INDI
+1 NAME Robert /Black/
+1 SEX M
+1 BIRT
+2 DATE abt 1698
+2 PLAC Belfast, Ireland (per WikiTree)
+1 NOTE Father of James Thomas Black (per FamilySearch narrative: 'his father Robert Black was 22' at James's 1720 birth => b.~1698). 7th-great-grandfather. WikiTree places him b.1698 Belfast, d.1770 Lancaste
+1 FAMS @F40@
+0 @I125@ INDI
+1 NAME Ann or Jane /(Black)/
+1 SEX F
+1 BIRT
+2 DATE abt 1700
+1 NOTE Mother of James Thomas Black (per FamilySearch: ~20 at his 1720 birth). 7th-great-grandmother. Name uncertain (Ann or Jane).
+1 FAMS @F40@
+0 @I126@ INDI
+1 NAME Robert C. /Black/
+1 SEX M
+1 NOTE Named as brother of Joseph Augustus Black in a 1930 letter to the Pension Bureau from descendant Mrs. Ida Dice (in pension file S.21646). TRADITION-GRADE (a DAR applicant's assertion, not proof). NOTE
+1 FAMC @F38@
+0 @I127@ INDI
+1 NAME Thomas /Black (bro. of Joseph Aug.)/
+1 SEX M
+1 NOTE Named as brother of Joseph Augustus Black: Pension Office 1939 summary (file S.21646) states 'the soldier's brother, Thomas Black, was living at the time of the Revolutionary War.' So Joseph had broth
+1 FAMC @F38@
+0 @I128@ INDI
+1 NAME Elizabeth /Russell/
+1 SEX F
+1 NOTE LEADING candidate for the wife of James (Thomas) Black / mother of Joseph Augustus Black. Named as Joseph's mother in SAR app #571039 (1928): 'Elizabeth Russell.' Corroborated by the 'David Russell pa
+1 FAMS @F38@
+0 @I129@ INDI
+1 NAME Samuel Russell /Black/
+1 SEX M
+1 BIRT
+2 PLAC Abbeville Dist, SC
+1 NOTE SAMUEL RUSSELL BLACK, son of Joseph Augustus Black & Mary Burnett; m. MARTHA KIRTLAND. Documented sibling of our John Burnette Black. Named in SAR apps #571039 (as 'Samuel A.' — a misread) AND #576612
+1 FAMC @F36@
+1 FAMS @F41@
+0 @I130@ INDI
+1 NAME Martha /Kirtland/
+1 SEX F
+1 NOTE Wife of Samuel A. Black (son of Joseph Augustus Black), per SAR app #571039 image (1928).
+1 FAMS @F41@
+0 @I131@ INDI
+1 NAME William /Norton (b.1740)/
+1 SEX M
+1 BIRT
+2 DATE 1740
+2 PLAC Fairfax/Loudoun Co, VA (est.)
+1 DEAT
+2 DATE 13 Oct 1821
+2 PLAC bur. Norton Family Cem., Tamassee, Oconee Co, SC
+1 NOTE Father of Barak Pickeral Norton (WikiTree). b.1740 Virginia — the first American-born Norton generation. | 2026-07-08 Son of Edward Norton the immigrant (named 'William' in Edward's will + a 1762 Quak
+1 FAMC @F43@
+1 FAMS @F42@
+0 @I132@ INDI
+1 NAME Edward /Norton (immigrant, 1718)/
+1 SEX M
+1 BIRT
+2 DATE abt 1716
+2 PLAC City & Parish of Armagh, Co. Armagh, Ireland
+1 DEAT
+2 DATE 13 Sep 1778
+2 PLAC bur. Providence Cemetery, Randolph Co, NC (will proved 1782)
+1 NOTE NORTON IMMIGRANT (WikiTree, probable-ish): b.1718 ARMAGH, ULSTER, IRELAND -> d.1778 Guilford Co NC (Quaker/Friends). Scots-Irish; arrived ~1730s (bracketed by 1718 Irish birth and son William's 1740 V
+1 FAMC @F101@
+1 FAMS @F43@
+0 @I133@ INDI
+1 NAME Walter Neal /Birrel (b.1742)/
+1 SEX M
+1 BIRT
+2 DATE 1742
+2 PLAC Falkland, Fife, Scotland
+1 DEAT
+2 PLAC South Carolina
+1 NOTE Father of Walter Neal Burrell (b.1775). Born Falkland, FIFE, SCOTLAND — the family was still in Scotland in 1742 (WikiTree). | FAITH: PRESBYTERIAN (Fife, Scotland). [speculative]
+1 FAMC @F45@
+1 FAMS @F44@
+0 @I134@ INDI
+1 NAME Walter N. /Burrell (immigrant, 1715)/
+1 SEX M
+1 BIRT
+2 DATE 1715
+2 PLAC Glenrothes, Fife, Scotland
+1 DEAT
+2 PLAC Spartanburg Co, South Carolina
+1 NOTE BURRELL IMMIGRANT (WikiTree): b.1715 GLENROTHES, FIFE, SCOTLAND -> d. Spartanburg SC. Crossed ~1745-1755 (son b.1742 Fife; granddaughter b.1760 Pendleton SC). Scottish (Fife). | FAITH: PRESBYTERIAN (C
+1 FAMS @F45@
+0 @I135@ INDI
+1 NAME James /Brownlee (immigrant)/
+1 SEX M
+1 BIRT
+2 DATE abt 1735
+2 PLAC Armagh, County Armagh, Ulster, Ireland
+1 DEAT
+2 DATE 12 Jun 1798
+2 PLAC Abbeville District, SC
+1 NOTE BROWNLEE IMMIGRANT (WikiTree): b.1724 ARMAGH, ULSTER, IRELAND -> d. Abbeville SC. Scots-Irish (ARP Covenanter, Due West). Arrived ~1730s-40s. Deeper WikiTree line runs to Peeblesshire & Midlothian, SC
+1 FAMS @F46@
+0 @I136@ INDI
+1 NAME Thomas /Pruitt (immigrant, 1616)/
+1 SEX M
+1 BIRT
+2 DATE 1616
+2 PLAC Salisbury, Wiltshire, England
+1 DEAT
+2 PLAC Charles City County, Virginia
+1 NOTE PRUITT IMMIGRANT (WikiTree, GATEWAY LINE): b.1616 SALISBURY, WILTSHIRE, ENGLAND -> d. Charles City Co, VIRGINIA. Arrived ~1630s-40s. Connected to Phoebe Pruitt (1776) via ~6 generations (Thomas 1616 -
+0 @I137@ INDI
+1 NAME Francis /Billingsley (immigrant, ~1600)/
+1 SEX M
+1 BIRT
+2 DATE abt 1620
+2 PLAC County Salop (Shropshire), England
+1 DEAT
+2 DATE 1684
+2 PLAC Calvert County, Maryland
+1 NOTE BILLINGSLEY IMMIGRANT (WikiTree): b.~1600 SHROPSHIRE, ENGLAND -> d.1684 Calvert Co, MARYLAND. Arrived ~1650s. Connected to Nancy Ann Billingsley (1823 SC) via ~6 generations of colonial-Maryland Billi
+1 FAMS @F102@
+0 @I138@ INDI
+1 NAME William Patrick /Burnett (b.1739)/
+1 SEX M
+1 BIRT
+2 DATE 1739
+2 PLAC Virginia (probably; 'Talbot Co MD' is likely a misread of a 1738 MARRIAGE place)
+1 DEAT
+2 PLAC Hanover, Virginia
+1 NOTE Father of Mary Burnett (WikiTree). b.1739 TALBOT CO, MARYLAND — American-born; the Burnett immigrant is deeper & unidentified (English/Scottish -> Maryland tidewater, pre-1739). | 2026-07-07 CORRECTIO
+1 FAMS @F47@
+0 @I139@ INDI
+1 NAME Elizabeth /Bright/
+1 SEX F
+1 BIRT
+2 DATE 1738-00-00
+2 PLAC Halifax, Colony of Virginia
+1 DEAT
+2 DATE 1800-00-00
+2 PLAC Greenville, Pitt, North Carolina, United States
+1 NOTE LEGENDARY GATEWAY (WikiTree Bright-503) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1738-00-00 Halifax, Colony of Virgin
+1 FAMC @F49@
+1 FAMS @F48@
+0 @I140@ INDI
+1 NAME Elizabeth /Reynolds/
+1 SEX F
+1 BIRT
+2 DATE 1705-00-00
+2 PLAC Province of South Carolina
+1 DEAT
+2 DATE 1796-00-00
+2 PLAC Spartanburg County, South Carolina, United States
+1 NOTE LEGENDARY GATEWAY (WikiTree Reynolds-4869) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1705-00-00 Province of South Caro
+1 FAMC @F50@
+1 FAMS @F49@
+0 @I141@ INDI
+1 NAME James /Reynolds/
+1 SEX M
+1 BIRT
+2 DATE 1676-00-00
+2 PLAC of Petsoe Parish, Gloucester, Colony of Virginia
+1 DEAT
+2 DATE 1724-00-00
+2 PLAC South Farnham Parish, Essex, Colony of Virginia
+1 NOTE LEGENDARY GATEWAY (WikiTree Reynolds-953) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1676-00-00 of Petsoe Parish, Glouc
+1 FAMC @F51@
+1 FAMS @F50@
+0 @I142@ INDI
+1 NAME Elizabeth /Merryman/
+1 SEX F
+1 BIRT
+2 DATE 1658-00-00
+2 PLAC Lancaster, Virginia
+1 DEAT
+2 DATE 1700-00-00
+2 PLAC St. Mary's Parish, Richmond, Virginia
+1 NOTE LEGENDARY GATEWAY (WikiTree Merryman-180) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1658-00-00 Lancaster, Virginia.
+1 FAMC @F52@
+1 FAMS @F51@
+0 @I143@ INDI
+1 NAME Audrey /Haile/
+1 SEX F
+1 BIRT
+2 DATE 1627-00-00
+2 PLAC England
+1 DEAT
+2 DATE 1683-00-00
+2 PLAC Lancaster County, Virginia
+1 NOTE LEGENDARY GATEWAY (WikiTree Haile-37) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1627-00-00 England.
+1 FAMC @F53@
+1 FAMS @F52@
+0 @I144@ INDI
+1 NAME Mary Elizabeth /Blood/
+1 SEX F
+1 BIRT
+2 DATE 1602-00-00
+2 PLAC England
+1 DEAT
+2 DATE 1672-00-00
+2 PLAC Lancaster, Virginia
+1 NOTE LEGENDARY GATEWAY (WikiTree Blood-803) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1602-00-00 England.
+1 FAMC @F54@
+1 FAMS @F53@
+0 @I145@ INDI
+1 NAME Elizabeth Emma /Holcroft/
+1 SEX F
+1 BIRT
+2 DATE 1575-00-00
+2 PLAC Holcroft, Lancashire, England
+1 DEAT
+2 DATE 1620-00-00
+1 NOTE LEGENDARY GATEWAY (WikiTree Holcroft-148) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1575-00-00 Holcroft, Lancashire, E
+1 FAMC @F55@
+1 FAMS @F54@
+0 @I146@ INDI
+1 NAME John /Holcroft/
+1 SEX M
+1 BIRT
+2 DATE 1550-00-00
+2 PLAC Holcroft, Lancashire, England
+1 DEAT
+2 DATE 0000-00-00
+1 NOTE LEGENDARY GATEWAY (WikiTree Holcroft-28) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1550-00-00 Holcroft, Lancashire, En
+1 FAMC @F56@
+1 FAMS @F55@
+0 @I147@ INDI
+1 NAME Hamlet /Holcroft/
+1 SEX M
+1 BIRT
+2 DATE 1523-00-00
+2 PLAC Holcroft, Lancashire, England
+1 DEAT
+2 DATE 0000-00-00
+1 NOTE LEGENDARY GATEWAY (WikiTree Holcroft-67) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1523-00-00 Holcroft, Lancashire, En
+1 FAMC @F57@
+1 FAMS @F56@
+0 @I148@ INDI
+1 NAME John /Holcroft/
+1 SEX M
+1 BIRT
+2 DATE 1498-00-00
+2 PLAC Holcroft, Lancashire, England
+1 DEAT
+2 DATE 1560-00-00
+2 PLAC Haslingden, Lancashire, England
+1 NOTE LEGENDARY GATEWAY (WikiTree Holcroft-6) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1498-00-00 Holcroft, Lancashire, Eng
+1 FAMC @F58@
+1 FAMS @F57@
+0 @I149@ INDI
+1 NAME Margaret /Mascy/
+1 SEX F
+1 BIRT
+2 DATE 1475-00-00
+2 PLAC Rixton, Lancashire, England
+1 DEAT
+2 DATE 0000-00-00
+2 PLAC Holcroft, Lancashire, England
+1 NOTE LEGENDARY GATEWAY (WikiTree Mascy-2) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1475-00-00 Rixton, Lancashire, England.
+1 FAMC @F59@
+1 FAMS @F58@
+0 @I150@ INDI
+1 NAME Elizabeth /Boteler/
+1 SEX F
+1 BIRT
+2 DATE 1430-00-00
+2 PLAC England
+1 DEAT
+2 DATE 0000-00-00
+1 NOTE LEGENDARY GATEWAY (WikiTree Boteler-13) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1430-00-00 England.
+1 FAMC @F60@
+1 FAMS @F59@
+0 @I151@ INDI
+1 NAME John /Boteler/
+1 SEX M
+1 BIRT
+2 DATE 1403-03-02
+2 PLAC Bewsey, Warrington, Lancashire, England
+1 DEAT
+2 DATE 1430-09-12
+1 NOTE LEGENDARY GATEWAY (WikiTree Boteler-10) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1403-03-02 Bewsey, Warrington, Lanca
+1 FAMC @F61@
+1 FAMS @F60@
+0 @I152@ INDI
+1 NAME William /Boteler/
+1 SEX M
+1 BIRT
+2 DATE 1374-00-00
+2 PLAC Bewsey, Lancashire, England
+1 DEAT
+2 DATE 1415-09-26
+2 PLAC Harfleur, Seine-Maritime, Upper Normandy, France
+1 NOTE LEGENDARY GATEWAY (WikiTree Boteler-9) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1374-00-00 Bewsey, Lancashire, Englan
+1 FAMC @F62@
+1 FAMS @F61@
+0 @I153@ INDI
+1 NAME Alice /Plumpton/
+1 SEX F
+1 BIRT
+2 DATE 1335-00-00
+2 PLAC England
+1 DEAT
+2 DATE 1408-11-06
+2 PLAC England
+1 NOTE LEGENDARY GATEWAY (WikiTree Plumpton-76) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1335-00-00 England.
+1 FAMC @F63@
+1 FAMS @F62@
+0 @I154@ INDI
+1 NAME Christiana /Mowbray/
+1 SEX F
+1 BIRT
+2 DATE 1305-00-00
+2 PLAC Kirklington, North Riding, Yorkshire, England
+1 DEAT
+2 DATE 1362-12-25
+2 PLAC Holland, Lancashire, England
+1 NOTE LEGENDARY GATEWAY (WikiTree Mowbray-20) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1305-00-00 Kirklington, North Riding
+1 FAMC @F64@
+1 FAMS @F63@
+0 @I155@ INDI
+1 NAME John /Mowbray/
+1 SEX M
+1 BIRT
+2 DATE 1286-09-04
+2 PLAC England
+1 DEAT
+2 DATE 1322-03-23
+2 PLAC York, Yorkshire, England
+1 NOTE LEGENDARY GATEWAY (WikiTree Mowbray-54) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1286-09-04 England.
+1 FAMC @F65@
+1 FAMS @F64@
+0 @I156@ INDI
+1 NAME Roger /Mowbray/
+1 SEX M
+1 BIRT
+2 DATE 1256-00-00
+2 PLAC Yorkshire, England
+1 DEAT
+2 DATE 1297-11-21
+2 PLAC Gent, Flanders, Belgium
+1 NOTE LEGENDARY GATEWAY (WikiTree Mowbray-39) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1256-00-00 Yorkshire, England.
+1 FAMC @F66@
+1 FAMS @F65@
+0 @I157@ INDI
+1 NAME Roger /Mowbray/
+1 SEX M
+1 BIRT
+2 DATE 1220-00-00
+2 PLAC Thirsk, Yorkshire, England
+1 DEAT
+2 DATE 1263-10-18
+2 PLAC Isle of Axholme, Lincolnshire, England
+1 NOTE LEGENDARY GATEWAY (WikiTree Mowbray-84) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1220-00-00 Thirsk, Yorkshire, Englan
+1 FAMC @F67@
+1 FAMS @F66@
+0 @I158@ INDI
+1 NAME William /Mowbray/
+1 SEX M
+1 BIRT
+2 DATE 1173-00-00
+2 PLAC England
+1 DEAT
+2 DATE 1224-03-25
+2 PLAC Axholme Castle, Lincolnshire, England
+1 NOTE LEGENDARY GATEWAY (WikiTree Mowbray-151) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1173-00-00 England.
+1 FAMC @F68@
+1 FAMS @F67@
+0 @I159@ INDI
+1 NAME Nigel /Mowbray/
+1 SEX M
+1 BIRT
+2 DATE 1146-00-00
+2 PLAC Yorkshire, England
+1 DEAT
+2 DATE 1191-00-00
+2 PLAC Siege Of Acre, Holy Land
+1 NOTE LEGENDARY GATEWAY (WikiTree Mowbray-89) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1146-00-00 Yorkshire, England.
+1 FAMC @F69@
+1 FAMS @F68@
+0 @I160@ INDI
+1 NAME Alice /Gand/
+1 SEX F
+1 BIRT
+2 DATE 1120-00-00
+2 PLAC Folkingham, Lincolnshire, England
+1 DEAT
+2 DATE 1176-00-00
+2 PLAC Norfolk, England
+1 NOTE LEGENDARY GATEWAY (WikiTree Gand-16) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1120-00-00 Folkingham, Lincolnshire, En
+1 FAMC @F70@
+1 FAMS @F69@
+0 @I161@ INDI
+1 NAME Walter /Gant/
+1 SEX M
+1 BIRT
+2 DATE 1087-00-00
+2 PLAC Folkingham, Bourne, Lincolnshire, England
+1 DEAT
+2 DATE 1139-00-00
+2 PLAC Folkingham, Bourne, Lincolnshire, England
+1 NOTE LEGENDARY GATEWAY (WikiTree Gant-295) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1087-00-00 Folkingham, Bourne, Lincoln
+1 FAMC @F71@
+1 FAMS @F70@
+0 @I162@ INDI
+1 NAME Gislebert /Gant/
+1 SEX M
+1 BIRT
+2 DATE 1048-00-00
+2 PLAC Flanders, France
+1 DEAT
+2 DATE 1095-00-00
+2 PLAC Bourne, Lincolnshire, England
+1 NOTE LEGENDARY GATEWAY (WikiTree Gant-296) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1048-00-00 Flanders, France.
+1 FAMC @F72@
+1 FAMS @F71@
+0 @I163@ INDI
+1 NAME Gisele /Luxembourg/
+1 SEX F
+1 BIRT
+2 DATE 1019-00-00
+2 PLAC Flanders, Belgium
+1 DEAT
+2 DATE 1059-00-00
+2 PLAC Chapel St Lawrence, Ghent, Flanders, Belgium
+1 NOTE LEGENDARY GATEWAY (WikiTree Luxembourg-20) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.1019-00-00 Flanders, Belgium.
+1 FAMC @F73@
+1 FAMS @F72@
+0 @I164@ INDI
+1 NAME Friedrich /Luxembourg/
+1 SEX M
+1 BIRT
+2 DATE 0970-00-00
+2 PLAC Lotharingia
+1 DEAT
+2 DATE 1019-10-06
+2 PLAC Lotharingia
+1 NOTE LEGENDARY GATEWAY (WikiTree Luxembourg-1) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0970-00-00 Lotharingia.
+1 FAMC @F74@
+1 FAMS @F73@
+0 @I165@ INDI
+1 NAME Siegfried /Luxembourg/
+1 SEX M
+1 BIRT
+2 DATE 0000-00-00
+1 DEAT
+2 DATE 0998-10-28
+1 NOTE LEGENDARY GATEWAY (WikiTree Luxembourg-59) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0000-00-00 .
+1 FAMC @F75@
+1 FAMS @F74@
+0 @I166@ INDI
+1 NAME Wigeric /Bidgau/
+1 SEX M
+1 BIRT
+2 DATE 0875-00-00
+2 PLAC Royaume de France
+1 DEAT
+2 DATE 0916-01-19
+2 PLAC Hastière, Namur, Belgium
+1 NOTE LEGENDARY GATEWAY (WikiTree Bidgau-4) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0875-00-00 Royaume de France.
+1 FAMC @F76@
+1 FAMS @F75@
+0 @I167@ INDI
+1 NAME Rainier /Chaumontois/
+1 SEX M
+1 BIRT
+2 DATE 0845-00-00
+2 PLAC Royaume de France
+1 DEAT
+2 DATE 0000-00-00
+1 NOTE LEGENDARY GATEWAY (WikiTree Chaumontois-7) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0845-00-00 Royaume de France.
+1 FAMC @F77@
+1 FAMS @F76@
+0 @I168@ INDI
+1 NAME Arnoul /Chaumontois/
+1 SEX M
+1 BIRT
+2 DATE 0810-00-00
+2 PLAC Francia
+1 DEAT
+2 DATE 0000-00-00
+1 NOTE LEGENDARY GATEWAY (WikiTree Chaumontois-8) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0810-00-00 Francia.
+1 FAMC @F78@
+1 FAMS @F77@
+0 @I169@ INDI
+1 NAME Arnoul /De Chaumontois/
+1 SEX M
+1 BIRT
+2 DATE 0775-00-00
+2 PLAC Francia
+1 DEAT
+2 DATE 0000-00-00
+1 NOTE LEGENDARY GATEWAY (WikiTree De_Chaumontois-13) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0775-00-00 Francia.
+1 FAMC @F79@
+1 FAMS @F78@
+0 @I170@ INDI
+1 NAME Agnorald /Chaumontois/
+1 SEX M
+1 BIRT
+2 DATE 0745-00-00
+2 PLAC Francia
+1 DEAT
+2 DATE 0790-00-00
+2 PLAC Francia
+1 NOTE LEGENDARY GATEWAY (WikiTree Chaumontois-1) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0745-00-00 Francia.
+1 FAMC @F80@
+1 FAMS @F79@
+0 @I171@ INDI
+1 NAME Arnould /Champagne/
+1 SEX M
+1 BIRT
+2 DATE 0700-00-00
+2 PLAC Francia
+1 DEAT
+2 DATE 0723-00-00
+2 PLAC Francia
+1 NOTE LEGENDARY GATEWAY (WikiTree Champagne-130) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0700-00-00 Francia.
+1 FAMC @F81@
+1 FAMS @F80@
+0 @I172@ INDI
+1 NAME Drogo /Pippinid/
+1 SEX M
+1 BIRT
+2 DATE 0675-00-00
+2 PLAC France
+1 DEAT
+2 DATE 0708-03-24
+1 NOTE LEGENDARY GATEWAY (WikiTree Pippinid-10) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0675-00-00 France.
+1 FAMC @F82@
+1 FAMS @F81@
+0 @I173@ INDI
+1 NAME Pepin /Pippinid/
+1 SEX M
+1 BIRT
+2 DATE 0645-00-00
+2 PLAC Herstal, Austrasia, Francia
+1 DEAT
+2 DATE 0714-12-16
+2 PLAC Jupille, Austrasia, Francia
+1 NOTE LEGENDARY GATEWAY (WikiTree Pippinid-3) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0645-00-00 Herstal, Austrasia, Franc
+1 FAMC @F83@
+1 FAMS @F82@
+0 @I174@ INDI
+1 NAME Ansegisel /Arnulfing/
+1 SEX M
+1 BIRT
+2 DATE 0602-00-00
+2 PLAC Metz, France
+1 DEAT
+2 DATE 0662-00-00
+1 NOTE LEGENDARY GATEWAY (WikiTree Arnulfing-1) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0602-00-00 Metz, France.
+1 FAMC @F84@
+1 FAMS @F83@
+0 @I175@ INDI
+1 NAME Arnulf /Arnulfing/
+1 SEX M
+1 BIRT
+2 DATE 0582-00-00
+2 PLAC Lay-Saint-Christophe bei Nancy, ostfränkisches Reich
+1 DEAT
+2 DATE 0640-07-18
+2 PLAC Remiremont, ostfränkisches Reich, Austrasien
+1 NOTE LEGENDARY GATEWAY (WikiTree Arnulfing-2) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0582-00-00 Lay-Saint-Christophe bei
+1 FAMC @F85@
+1 FAMS @F84@
+0 @I176@ INDI
+1 NAME Unknown /Metz/
+1 SEX M
+1 BIRT
+2 DATE 0560-00-00
+1 DEAT
+2 DATE 0000-00-00
+1 NOTE LEGENDARY GATEWAY (WikiTree Metz-774) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0560-00-00 .
+1 FAMC @F86@
+1 FAMS @F85@
+0 @I177@ INDI
+1 NAME Blithildis /Merovingian/
+1 SEX F
+1 BIRT
+2 DATE 0520-00-00
+1 DEAT
+2 DATE 0000-00-00
+1 NOTE LEGENDARY GATEWAY (WikiTree Merovingian-67) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0520-00-00 .
+1 FAMC @F87@
+1 FAMS @F86@
+0 @I178@ INDI
+1 NAME Chlothachar /Merovingian/
+1 SEX M
+1 BIRT
+2 DATE 0497-00-00
+2 PLAC Rheims, Marne, Loire-Alantique, France
+1 DEAT
+2 DATE 0561-11-29
+2 PLAC Braines, Loire-Atlantique, Pays de la Loire, France
+1 NOTE LEGENDARY GATEWAY (WikiTree Merovingian-52) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0497-00-00 Rheims, Marne, Loire-
+1 FAMC @F88@
+1 FAMS @F87@
+0 @I179@ INDI
+1 NAME Chrotechildis /Burgunden/
+1 SEX F
+1 BIRT
+2 DATE 0480-00-00
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 0545-06-03
+2 PLAC Monastery of Saint Martin, Tours, France
+1 NOTE LEGENDARY GATEWAY (WikiTree Burgunden-7) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0480-00-00 Lyon, France.
+1 FAMC @F89@
+1 FAMS @F88@
+0 @I180@ INDI
+1 NAME Chilperich /Burgunden/
+1 SEX M
+1 BIRT
+2 DATE 0450-00-00
+2 PLAC Kingdom of Burgundians
+1 DEAT
+2 DATE 0486-00-00
+2 PLAC Lyon, Kingdom of Burgundians
+1 NOTE LEGENDARY GATEWAY (WikiTree Burgunden-18) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0450-00-00 Kingdom of Burgundians.
+1 FAMC @F90@
+1 FAMS @F89@
+0 @I181@ INDI
+1 NAME Gundioc /Burgunden/
+1 SEX M
+1 BIRT
+2 DATE 0000-00-00
+2 PLAC Bourgogne, Marne, Champagne-Ardenne, France
+1 DEAT
+2 DATE 0473-00-00
+2 PLAC Borbetomagus (Worms), Bourgogne, France
+1 NOTE LEGENDARY GATEWAY (WikiTree Burgunden-4) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0000-00-00 Bourgogne, Marne, Champa
+1 FAMC @F91@
+1 FAMS @F90@
+0 @I182@ INDI
+1 NAME Gundahar /Burgunden/
+1 SEX M
+1 BIRT
+2 DATE 0385-00-00
+1 DEAT
+2 DATE 0437-00-00
+2 PLAC Borbetomagus (Worms), Kingdom of Burgundy
+1 NOTE LEGENDARY GATEWAY (WikiTree Burgunden-19) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0385-00-00 .
+1 FAMC @F92@
+1 FAMS @F91@
+0 @I183@ INDI
+1 NAME Gibica /Burgunden/
+1 SEX M
+1 BIRT
+2 DATE 0350-00-00
+1 DEAT
+2 DATE 0407-00-00
+1 NOTE LEGENDARY GATEWAY (WikiTree Burgunden-20) — grafted 2026-07-07, marked SPECULATIVE. Part of the fabricated royal/legendary descent above Phoebe Pruitt; NOT proven. b.0350-00-00 .
+1 FAMS @F92@
+0 @I184@ INDI
+1 NAME Gilbert /Conner (b.1802)/
+1 SEX M
+1 BIRT
+2 DATE 1802
+2 PLAC North Carolina
+1 DEAT
+2 PLAC North Carolina
+1 NOTE Father of Francis Conner (WikiTree Conner-2771). b.1802 NC. [speculative]
+1 FAMC @F94@
+1 FAMS @F93@
+0 @I185@ INDI
+1 NAME James /Conner (b.1754)/
+1 SEX M
+1 BIRT
+2 DATE abt 1754
+1 DEAT
+2 PLAC North Carolina
+1 NOTE Father of Gilbert Conner (WikiTree). ~1754 NC. The deepest reachable Conner on WikiTree — the immigrant is beyond it. [speculative]
+1 FAMS @F94@
+0 @I186@ INDI
+1 NAME Sarah /Davidson/
+1 SEX F
+1 BIRT
+2 DATE abt 1750
+2 PLAC North Carolina
+1 DEAT
+2 PLAC Rutherford Co, NC
+1 NOTE Wife of James Conner / mother of Gilbert (WikiTree). [speculative]
+1 FAMS @F94@
+0 @I187@ INDI
+1 NAME William /Nicholson/
+1 SEX M
+1 BIRT
+2 DATE abt 1765
+1 DEAT
+2 DATE 20 Mar 1820
+2 PLAC Pendleton District, SC (Cornhouse Mill Creek, West Fork Little River)
+1 NOTE Father of Mary B. Nicholson; well-attested (NC Civil War Center 'Grandmother Norton' article, FindAGrave 102271081, Geni, WikiTree Nicholson-327). Among the first European settlers of Pendleton Distri
+1 FAMS @F95@
+0 @I188@ INDI
+1 NAME Martha /Richardson/
+1 SEX F
+1 BIRT
+2 DATE abt 1767
+1 NOTE Wife of William Nicholson (m.~1785), mother of Mary B. Nicholson. Her Richardson line is an unexplored push-back lead. | 2026-07-08 Origins UNKNOWN; only lead is a kinsman AMOS RICHARDSON who witnesse
+1 FAMS @F95@
+0 @I189@ INDI
+1 NAME Richard /Holden (b.1777)/
+1 SEX M
+1 BIRT
+2 DATE 13 Aug 1777
+2 PLAC Chatham (formed from Orange) Co, NC
+1 DEAT
+2 DATE 6 Aug 1842
+2 PLAC Habersham Co, GA
+1 NOTE Father of Mary J. Holden (David Norton's 1st wife) and Richard Jackson Holden (per WikiTree Holden-394 structure — not yet primary-verified; confirm via a Habersham/Rabun GA estate or Bible). Chatham 
+1 FAMC @F97@
+1 FAMS @F96@
+0 @I190@ INDI
+1 NAME James /Holden (b.~1745)/
+1 SEX M
+1 BIRT
+2 DATE abt 1745
+1 DEAT
+2 DATE abt 1785
+2 PLAC Chatham Co, NC
+1 NOTE Probable father of Richard Holden (1777) — DNA-INDICATED via the Holden Surname Y-DNA Project (Kinship Group B), NOT documented. The generation above is unknown. Origin ENGLISH via colonial Virginia/C
+1 FAMC @F109@
+1 FAMS @F97@
+0 @I191@ INDI
+1 NAME Mark /Killingsworth/
+1 SEX M
+1 BIRT
+2 DATE abt 1778
+2 PLAC Abbeville District, SC
+1 DEAT
+2 DATE Jul 1840
+2 PLAC Abbeville District, SC (intestate; estate sale Aug 1840)
+1 NOTE Father of Susan E. Killingsworth (WikiTree Killingsworth-39 + Geni agree; no primary doc yet). Naming evidence: Susan & James William Black's son was PICKENS KILLINGSWORTH BLACK — the mother's surname
+1 FAMC @F111@
+1 FAMS @F98@
+0 @I192@ INDI
+1 NAME Nancy /Killingsworth (wife of Mark)/
+1 SEX F
+1 BIRT
+2 DATE abt 1785
+1 DEAT
+2 DATE abt 1842-1843
+2 PLAC Abbeville District, SC
+1 NOTE Wife of Mark Killingsworth, mother of Susan (compiled trees; maiden name unreliable/unknown). | 2026-07-08 CONFIRMED as Mark's widow & Susan's mother (1842 petition names 'Mark & Nancy Killingsworth')
+1 FAMS @F98@
+0 @I193@ INDI
+1 NAME Daniel Harrison /Adams/
+1 SEX M
+1 BIRT
+2 DATE 15 Feb 1875
+1 DEAT
+2 DATE 26 Aug 1967
+2 PLAC Cullowhee, Jackson Co, NC
+1 NOTE Son of Banister Adams (Find A Grave #123471826, Hooper-Speedwell Cem., Cullowhee; names father 'Bannister Adams'). Brother of Joshua Adams. His death cert (1967) should name Banister + Banister's wife
+1 FAMC @F14@
+0 @I194@ INDI
+1 NAME Michigan Chandler /Clements/
+1 SEX M
+1 BIRT
+2 DATE 11 Oct 1868
+2 PLAC Fannin Co, GA
+1 DEAT
+2 DATE 9 Jan 1928
+2 PLAC Tarrant City, Jefferson Co, AL
+1 NOTE Father of Florence Rebecca Clements (per FS tree LYS3-MCC). Independently corroborated: an FS indexed record shows 'Michigan Chandler Clements' b.1869 d.1928 Birmingham, Jefferson Co AL — a real, recu
+1 FAMS @F99@
+0 @I195@ INDI
+1 NAME Ida /Haney/
+1 SEX F
+1 BIRT
+2 DATE abt 1875
+1 NOTE Mother of Florence Rebecca Clements per FS tree (PW6L-LPZ); not yet independently corroborated. FS deeper line: Isaac Boyd Haney + Nancy Legg. | 2026-07-07 Florence's mother = father's FIRST wife, who
+1 FAMS @F99@
+0 @I196@ INDI
+1 NAME Thomas /Dillard III/
+1 SEX M
+1 BIRT
+2 DATE abt 1768
+2 PLAC Pittsylvania Co, VA (Dillard family)
+1 DEAT
+2 DATE abt 1827
+1 NOTE Father of David Love Dillard (id 50). Haywood Co NC deeds (1809-1811) name 'Thomas Dillard & Dorcas his wife and their children'; a 1943 Love-family genealogy states Dorcas Love 'married Thomas Dillar
+1 FAMC @F112@
+1 FAMS @F100@
+0 @I197@ INDI
+1 NAME Dorcas /Love/
+1 SEX F
+1 BIRT
+2 DATE abt 1773
+1 NOTE Wife of Thomas Dillard (Haywood Co NC deeds 1809-1811); daughter of Joseph Love + Mary Taze Love (1943 Love genealogy). Her maiden name 'Love' became David LOVE Dillard's middle name. | 2026-07-09 WAL
+1 FAMC @F115@
+1 FAMS @F100@
+0 @I198@ INDI
+1 NAME Elizabeth /Brown/
+1 SEX F
+1 DEAT
+2 DATE 1791
+1 NOTE Wife of Edward Norton the immigrant (m. 1739 Nottingham Monthly Meeting, PA/MD border); daughter of William Brown; after Edward's 1778 death she m2 Thomas Branson (1782). Quaker records; verify in Hin
+1 FAMS @F43@
+0 @I199@ INDI
+1 NAME Jemima /Pickeral (?)/
+1 SEX F
+1 BIRT
+2 DATE abt 1742
+1 NOTE Wife of William Norton (id 131) and mother of Barak PICKERAL Norton. Given name Jemima = probable; maiden surname 'Pickeral' is a NAMING-PATTERN INFERENCE only (sons Barak Pickeral and Gideon Pickeral
+1 FAMS @F42@
+0 @I200@ INDI
+1 NAME Edward /Norton (of Armagh)/
+1 SEX M
+1 BIRT
+2 DATE abt 1687
+2 PLAC City & Parish of Armagh, Ireland
+1 NOTE Named as father of the immigrant Edward Norton in the Irish-Quaker immigration record ('Edward Norton of ye City and Parish of Armagh'); dates unsourced. The 'Edward m. Jane Grimes/Rose, Carlow 1680' 
+1 FAMS @F101@
+0 @I201@ INDI
+1 NAME Edward /Billingsley/
+1 SEX M
+1 BIRT
+2 DATE 1658
+2 PLAC Calvert Co, MD
+1 DEAT
+2 DATE 1708
+1 NOTE Davis #2. Son of the immigrant Francis Billingsley; father of Francis (b.1687). Died intestate 1708. Wife Anne.
+1 FAMC @F102@
+1 FAMS @F103@
+0 @I202@ INDI
+1 NAME William /Billingsley/
+1 SEX M
+1 BIRT
+2 DATE Sept 1762
+2 PLAC Randolph Co, NC
+1 DEAT
+2 DATE 1820s
+2 PLAC Franklin Co, GA
+1 NOTE Davis #6/#71. m. Margaret Wilson. Father of James (b.1792). (This is the 'William Henry Billingsley 1762' of the FS lead — confirmed via Davis.)
+1 FAMC @F106@
+1 FAMS @F105@
+1 FAMS @F107@
+0 @I203@ INDI
+1 NAME Henry /Billingsley/
+1 SEX M
+1 BIRT
+2 DATE Oct 1740
+2 PLAC St. Marys Co, MD
+1 DEAT
+2 DATE abt 1804
+2 PLAC Franklin Co, GA
+1 NOTE Davis #5. Wife Sarah (Allen?). Father of William (b.1762).
+1 FAMC @F105@
+1 FAMS @F106@
+0 @I204@ INDI
+1 NAME Margaret /Wilson/
+1 SEX F
+1 NOTE Wife of William Billingsley (b.1762); later m. Jacob Weems. Davis.
+1 FAMS @F107@
+0 @I205@ INDI
+1 NAME Martha /Ginshaw/
+1 SEX F
+1 BIRT
+2 DATE abt 1797
+2 PLAC SC
+1 NOTE Wife of James Billingsley (b.1792) per Davis (dau. of Hugh Ginshaw — James named a son 'Henry HUGH' after the maternal grandfather). CONFLICT: FamilySearch instead gives James's wife as 'Rhoda Alexand
+1 FAMS @F108@
+0 @I206@ INDI
+1 NAME James /Billingsley/
+1 SEX M
+1 BIRT
+2 DATE Dec 1792
+2 PLAC Pendleton District, SC
+1 DEAT
+2 DATE 1861/1869
+2 PLAC Rabun Co, GA
+1 NOTE Davis #7/#183 = FATHER OF NANCY ANN (id 68). Davis lists his daughter as 'Mary A. b.1823 SC, m. a Holden, resided Rabun Co GA, dau. Mary J. Holden b.1841' — an exact match for our Nancy Ann + Mary J. 
+1 FAMC @F107@
+1 FAMS @F108@
+0 @I207@ INDI
+1 NAME Sarah /Langston/
+1 SEX F
+1 NOTE Wife of Richard Holden (b.1777); mother of Richard Jackson Holden. Holden DNA Project / documented lineages.
+1 FAMS @F96@
+0 @I208@ INDI
+1 NAME Mary /Cowan/
+1 SEX F
+1 BIRT
+2 DATE abt 1765
+1 DEAT
+2 DATE 1839
+1 NOTE Wife of William Brownlee (b.1770); mother of Elizabeth Brownlee. Her own will: Abbeville Box 13 Pkg 263. | 2026-07-08 CONFIRMED as William Brownlee's wife: his 1833 will names 'my dearly beloved wife 
+1 FAMC @F117@
+1 FAMS @F35@
+0 @I209@ INDI
+1 NAME Sarah /Trimble/
+1 SEX F
+1 NOTE Wife of the immigrant James Brownlee; mother of William Brownlee (b.1770).
+1 FAMS @F46@
+0 @I210@ INDI
+1 NAME Thomas /Holden (c.1694)/
+1 SEX M
+1 BIRT
+2 DATE abt 1694
+1 DEAT
+2 DATE abt 1771
+2 PLAC Orange Co, NC
+1 NOTE The deeper DOCUMENTED anchor of the Holden DNA Project subgroup B2, Orange Co NC (Chatham formed from Orange 1770). Placed above James (~1745) as a DNA-indicated/speculative rung — no document welds J
+1 FAMS @F109@
+0 @I211@ INDI
+1 NAME Jacob /Killingsworth/
+1 SEX M
+1 BIRT
+2 PLAC Richland District, SC
+1 DEAT
+2 DATE by 5 Jan 1798
+2 PLAC Richland District, SC (intestate; est. settled 1843-44)
+1 NOTE Father of Mark Killingsworth (id 191). The 1844 Richland Court of Ordinary partition of his estate names his children: sons JESSE, NOAH (removed to Mississippi, d. leaving widow + 9 children), MARK ('
+1 FAMS @F111@
+0 @I212@ INDI
+1 NAME Mary /Salisbury/
+1 SEX F
+1 NOTE Wife of Jacob Killingsworth and mother of Mark Killingsworth. Named in her father Pettigrew Salisbury's Richland Dist SC will (proved 1 Jan 1794) as daughter 'Mary Killingsworth, wife of Jacob'. This 
+1 FAMC @F110@
+1 FAMS @F111@
+0 @I213@ INDI
+1 NAME Pettigrew /Salisbury/
+1 SEX M
+1 DEAT
+2 DATE bef 1794
+2 PLAC Richland District, SC
+1 NOTE Father of Mary Salisbury (wife of Jacob Killingsworth). His will, proved 1 Jan 1794 in Richland Dist SC, names children Andrew Salisbury, Sarah Williams, Mary Killingsworth (wife of Jacob), Anne Hamil
+1 FAMS @F110@
+0 @I214@ INDI
+1 NAME Jesse William /Burrell/
+1 SEX M
+1 BIRT
+2 DATE 1805
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1868
+2 PLAC Ellijay, Gilmer Co., Georgia
+1 NOTE Reconstructed eldest son of Walter Burrell + Phoebe (Drucilla's brother). PROBABLE: 'Jesse/Jese Burrell' was the subscribing witness who PROVED Walter's two Macon Co NC deeds in Sept 1840 (father-son 
+1 FAMC @F26@
+0 @I215@ INDI
+1 NAME Matilda /Burrell/
+1 SEX F
+1 BIRT
+2 DATE 1805
+1 DEAT
+2 DATE 1886
+2 PLAC Robbinsville, Graham Co., North Carolina
+1 NOTE Reconstructed daughter of Walter Burrell + Phoebe (Drucilla's sister); married a Hooper (Hoopers witnessed the Burrell Macon deeds). SPECULATIVE (compiled genealogy). Tie to Walter PROBABLE by place/a
+1 FAMC @F26@
+0 @I216@ INDI
+1 NAME Mark /Burrell/
+1 SEX M
+1 BIRT
+2 DATE 22 Oct 1806
+2 PLAC South Carolina
+1 DEAT
+2 DATE abt 1878
+2 PLAC Rabun Co., Georgia
+1 NOTE Reconstructed son of Walter Burrell + Phoebe (Drucilla's brother). PROBABLE: 'Mark Burrell of Union County, Georgia' assigned Cherokee-sale land 1 Feb 1838 (Macon Bk D, ark 3:1:3QS7-9983-DCCW), like h
+1 FAMC @F26@
+0 @I217@ INDI
+1 NAME Jonas /Burrell/
+1 SEX M
+1 BIRT
+2 DATE 10 Apr 1819
+2 PLAC North Carolina
+1 DEAT
+2 DATE 1902
+2 PLAC Marshall Co., Kansas
+1 NOTE Reconstructed son of Walter Burrell + Phoebe (Drucilla's brother); one of two sons who moved to Kansas. SPECULATIVE (compiled genealogy). Tie to Walter PROBABLE by place/age/naming; tie to Phoebe/Prui
+1 FAMC @F26@
+0 @I218@ INDI
+1 NAME Center /Burrell/
+1 SEX M
+1 BIRT
+2 DATE 12 Jun 1821
+2 PLAC North Carolina
+1 DEAT
+2 DATE 1901
+2 PLAC Unaka, Cherokee Co., North Carolina
+1 NOTE Reconstructed son of Walter Burrell + Phoebe (Drucilla's brother); 1900 Towns Co GA census (FS M3V8-11S). SPECULATIVE (compiled genealogy). Tie to Walter PROBABLE by place/age/naming; tie to Phoebe/Pr
+1 FAMC @F26@
+0 @I219@ INDI
+1 NAME Walter Walton /Burrell/
+1 SEX M
+1 BIRT
+2 DATE 1824
+2 PLAC North Carolina
+1 DEAT
+2 DATE 1896
+2 PLAC Troy, Doniphan Co., Kansas
+1 NOTE Reconstructed son of Walter Burrell + Phoebe (Drucilla's brother). NOTE: this is the 'Kansas Walter Burrell' whose records are often mistaken for his father Walter Neal (d.1839) -- he is the SON. Wiki
+1 FAMC @F26@
+0 @I220@ INDI
+1 NAME Bright /Burrell/
+1 SEX M
+1 BIRT
+2 DATE abt 1830
+2 PLAC North Carolina
+1 DEAT
+2 PLAC Rabun Co., Georgia
+1 NOTE Reconstructed son of Walter Burrell + Phoebe (Drucilla's brother). His given name BRIGHT = his grandmother Elizabeth Bright's maiden surname -- the onomastic clue supporting the Pruitt/Bright maternal
+1 FAMC @F26@
+0 @I221@ INDI
+1 NAME Col. Thomas (Jr.) /Dillard/
+1 SEX M
+1 BIRT
+2 DATE 1732
+2 PLAC King & Queen Co., Virginia
+1 DEAT
+2 DATE 23 Sep 1784
+2 PLAC Washington Co., North Carolina (Greasy Cove)
+1 NOTE Father of Thomas Dillard III (id 196). Documented Col. Thomas Dillard Jr. of Pittsylvania Co VA -- Committee of Safety (26 Jan 1775), Capt. of Minute Men (1776), keeper of 'Dillard's Ordinary'; marrie
+1 FAMC @F113@
+1 FAMS @F112@
+0 @I222@ INDI
+1 NAME Martha /Webb/
+1 SEX F
+1 BIRT
+2 DATE abt 1735
+2 PLAC Virginia
+1 NOTE Wife of Col. Thomas Dillard Jr., mother of Thomas Dillard III (id 196); daughter of Meriwether ('Merry') Webb of Henry Co., VA ('Miss Webb' in the Love notes). PROBABLE. Evidence is COMPILED/secondary
+1 FAMS @F112@
+0 @I223@ INDI
+1 NAME Thomas (Sr.) /Dillard/
+1 SEX M
+1 BIRT
+2 DATE 1704
+2 PLAC King & Queen Co., Virginia
+1 DEAT
+2 DATE 23 Jun 1774
+2 PLAC Pittsylvania Co., Virginia
+1 NOTE Grandfather of Thomas Dillard III; father of Col. Thomas Dillard Jr. (tj). Of King & Queen Co. VA -> Pittsylvania. PROBABLE (compiled + matching WikiTree/Geni dates). Evidence is COMPILED/secondary (L
+1 FAMC @F114@
+1 FAMS @F113@
+0 @I224@ INDI
+1 NAME Winifred /Nalle/
+1 SEX F
+1 BIRT
+2 DATE abt 1710
+1 NOTE Recorded wife of Thomas Dillard Sr.; identity rests on compiled/WikiTree sources only -> SPECULATIVE pending primary VA records. Evidence is COMPILED/secondary (Love-family notes + corroborating sheet
+1 FAMS @F113@
+0 @I225@ INDI
+1 NAME Edward /Dillard/
+1 SEX M
+1 BIRT
+2 DATE abt 1680
+1 DEAT
+2 DATE abt 1770
+2 PLAC Pittsylvania Co., Virginia
+1 NOTE Deep progenitor claim -- proposed father of Thomas Dillard Sr. SPECULATIVE (compiled only; the 'colonial VA George/Edward Dillard' layer is unverified). Evidence is COMPILED/secondary (Love-family not
+1 FAMS @F114@
+0 @I226@ INDI
+1 NAME Joseph /Love/
+1 SEX M
+1 BIRT
+2 DATE abt 1728
+2 PLAC Virginia
+1 DEAT
+2 DATE after 1816
+2 PLAC Knox Co., Tennessee
+1 NOTE Father of Dorcas Love (id 197); brother of Samuel Love; married Mary Taze. Children incl. Ester (m. William Steele 1788), Polly (m. 'Stuttering Bill' Calhoun), a son k. at King's Mountain, William (k.
+1 FAMS @F115@
+0 @I227@ INDI
+1 NAME Mary /Taze/
+1 SEX F
+1 BIRT
+2 DATE abt 1730
+1 NOTE Wife of Joseph Love, mother of Dorcas Love (id 197). Maiden surname rendered Taze / Tase / Teas across the sheets (uncertain spelling). PROBABLE. Evidence is COMPILED/secondary (Love-family notes + co
+1 FAMS @F115@
+0 @I228@ INDI
+1 NAME Michael /Pruitt/
+1 SEX M
+1 BIRT
+2 DATE abt 1750
+2 PLAC Virginia
+1 DEAT
+2 DATE after 1813
+2 PLAC Greenville District, South Carolina
+1 NOTE Father of Phoebe Pruitt (id 66) per the Douglass genealogy AND the independent Walter Burrell <-> Michael Pruitt joint-land pattern (father-in-law/son-in-law). Independently documented: Halifax Co VA 
+1 FAMC @F118@
+1 FAMS @F48@
+0 @I229@ INDI
+1 NAME David /Pruitt/
+1 SEX M
+1 BIRT
+2 DATE abt 1725
+2 PLAC Virginia
+1 NOTE Pruitt clan patriarch; apparent FATHER of Michael Pruitt -- his 1812 deed of gift to grandchildren 'Abishia & Itia Pruitt' was delivered 'to the within named Michael Pruett' as their father (3:1:3Q9M-
+1 FAMC @F118@
+0 @I230@ INDI
+1 NAME Andrew Mathew /Cowan/
+1 SEX M
+1 DEAT
+2 DATE 1789
+2 PLAC Abbeville / 96 District, South Carolina
+1 NOTE Father of Mary (Cowan) Brownlee (id 208); Abbeville SC probate Box 18 Pkg 388 (d.1789). Wife Ann Moore; son Capt. John Cowan (d.1805, will Box 105 Pkg 2749). PROBABLE (compiled genealogy double-verifi
+1 FAMS @F117@
+0 @I231@ INDI
+1 NAME Ann /Moore/
+1 SEX F
+1 NOTE Wife of Andrew Mathew Cowan; mother of Mary (Cowan) Brownlee (id 208). PROBABLE (same compiled, double-verified source). [2026-07-09 Cowan walk-up]
+1 FAMS @F117@
+0 @I232@ INDI
+1 NAME Thomas /Pruitt/
+2 NICK Sr.
+1 SEX M
+1 BIRT
+2 DATE abt 1705
+1 NOTE Father of the BROTHERS David (id 229) and Michael (id 228) Pruitt; married Mary (Chastain) Ducray (Huguenot Chastain line). Per Prewitt, Records of SC (deed-cited). PROBABLE. [2026-07-09 Pruitt restru
+1 FAMS @F118@
+0 @I233@ INDI
+1 NAME Mary /Chastain/
+2 NICK Ducray
+1 SEX F
+1 NOTE Wife of Thomas Pruitt Sr.; mother of David (229) & Michael (228) Pruitt. Huguenot Chastain line. Per Prewitt. PROBABLE. [2026-07-09 Pruitt restructure]
+1 FAMS @F118@
+0 @I234@ INDI
+1 NAME Tobias /Bright/
+1 SEX M
+1 NOTE Father of Elizabeth Bright (139); documented father-in-law of Michael Pruitt (228) -- Michael's 1772 Old Craven 300-ac grant 'delivered to Tobias Bryght', and in 1799 Tobias Bright sold 50 ac of Micha
+1 FAMS @F49@
+0 @I235@ INDI
+1 NAME John David /Hancock/
+1 SEX M
+1 BIRT
+2 DATE 16 Jan 1899
+2 PLAC Montgomery Co, NC
+1 DEAT
+2 DATE 7 May 1994
+2 PLAC Rockingham, Richmond Co, NC
+1 BURI
+2 PLAC Norman, Richmond Co, NC
+1 OCCU Barber / merchant (general store), Norman NC — own business (1950 census)
+1 NOTE Father of Lucretia Elon (Hancock) Black; husband of Nellie Wilson; of Norman/Rockingham, Richmond Co, NC. Per daughter's 2019 obituary. NEXT: Richmond Co NC census (1930/1920/1910) for his dates, birt
+1 FAMC @F120@
+1 FAMS @F119@
+0 @I236@ INDI
+1 NAME Nellie Rea /Wilson/
+1 SEX F
+1 BIRT
+2 DATE 3 Apr 1907
+2 PLAC North Carolina
+1 DEAT
+2 DATE 11 Feb 1975
+2 PLAC Pinehurst, Moore Co, NC
+1 BURI
+2 PLAC Norman, Richmond Co, NC
+1 NOTE Mother of Lucretia Elon (Hancock) Black; wife of John Hancock; maiden name WILSON; Richmond Co, NC. Per daughter's 2019 obituary. NEXT: census for her parents (the Wilson line). | 1950 CENSUS: Nellie 
+1 FAMC @F121@
+1 FAMS @F119@
+0 @I237@ INDI
+1 NAME Oneita Evelyn /Hancock/
+2 NICK Snead
+1 SEX F
+1 BIRT
+2 DATE 29 Apr 1925
+1 DEAT
+2 DATE 8 Mar 2024
+2 PLAC Rockingham, Richmond Co, NC
+1 NOTE Elder sister of Lucretia Elon (Hancock) Black; dau of John Hancock + Nellie Wilson; m. Snead; lived Rockingham NC. Per her 2024 Boles Funeral Home obituary + her sister's 2019 obituary.
+1 FAMC @F119@
+0 @I238@ INDI
+1 NAME Burrell Franklin /Hancock/
+2 NICK Burl F.
+1 SEX M
+1 BIRT
+2 DATE 3 Sep 1867
+2 PLAC Montgomery Co, NC
+1 DEAT
+2 DATE 21 Nov 1953
+2 PLAC Asheboro, Randolph Co, NC
+1 BURI
+2 PLAC Candor, Montgomery Co, NC
+1 NOTE Father of John David Hancock (b.1899 Montgomery Co NC); of Montgomery/Richmond Co NC. Per John David's NC death index. NEXT: 1900/1910 census Montgomery Co for Burl Hancock household + his wife Annie.
+1 FAMC @F123@
+1 FAMS @F120@
+0 @I239@ INDI
+1 NAME Annie Elizabeth /Haywood/
+1 SEX F
+1 BIRT
+2 DATE 10 Apr 1873
+2 PLAC Montgomery Co, NC
+1 DEAT
+2 DATE 20 Dec 1948
+2 PLAC Rocky Springs Twp, Montgomery Co, NC
+1 BURI
+2 PLAC Candor, Montgomery Co, NC
+1 NOTE Mother of John David Hancock; wife of Burl Hancock. Given name Annie per John David's death index (maiden surname unread — index rendered "Annie/Haywood"). NEXT: census for maiden name. | AGENT/FS 202
+1 FAMC @F122@
+1 FAMS @F120@
+0 @I240@ INDI
+1 NAME Alonzo L. /Wilson/
+2 NICK Lonnie
+1 SEX M
+1 BIRT
+2 DATE 2 Dec 1867
+2 PLAC North Carolina
+1 DEAT
+2 DATE 27 Aug 1942
+2 PLAC Township 2 Bensalem, Moore Co, NC
+1 BURI
+2 PLAC Eagle Springs, Moore Co, NC
+1 NOTE Father of Nellie Rea (Wilson) Hancock (b.1907); husband of Annie Frances Fequay; NC. Per Nellie's NC death index. NEXT: census for his dates/birthplace/parents (the Wilson line). | AGENT/FS 2026-07-12
+1 FAMC @F125@
+1 FAMS @F121@
+0 @I241@ INDI
+1 NAME Annie Frances /Fuquay/
+1 SEX F
+1 BIRT
+2 DATE 1 Apr 1875
+2 PLAC North Carolina
+1 DEAT
+2 DATE 3 Aug 1918
+2 PLAC Bensalem Twp, Moore Co, NC
+1 BURI
+2 PLAC Eagle Springs, Moore Co, NC
+1 NOTE Mother of Nellie Rea (Wilson) Hancock; wife of Alonzo Wilson; NC. Maiden name FEQUAY (poss. Fuquay — a known NC surname). Per Nellie's NC death index. NEXT: census for the Fequay/Fuquay line. | AGENT/
+1 FAMC @F126@
+1 FAMS @F121@
+0 @I242@ INDI
+1 NAME Solomon /Haywood/
+1 SEX M
+1 NOTE Father of Annie Elizabeth (Haywood) Hancock; husband of Lottie Sedberry; Montgomery Co NC. Per Annie's NC death record.
+1 FAMS @F122@
+0 @I243@ INDI
+1 NAME Lottie /Sedberry/
+1 SEX F
+1 NOTE Mother of Annie Elizabeth (Haywood) Hancock; wife of Solomon Haywood; Montgomery Co NC. Per Annie's NC death record.
+1 FAMS @F122@
+0 @I244@ INDI
+1 NAME Reuben /Hancock/
+1 SEX M
+1 BIRT
+2 DATE abt 1842
+2 PLAC North Carolina
+1 NOTE Father of Burrell Franklin Hancock; Hill Twp, Montgomery Co NC (1880 census, son 'Burrell' b.1868). Wife Elizabeth (b~1841). Named in Burl's death record. Probable son of Elijah Hancock + Rebecca (185
+1 FAMC @F124@
+1 FAMS @F123@
+0 @I245@ INDI
+1 NAME Elizabeth /Hancock/
+1 SEX F
+1 BIRT
+2 DATE abt 1841
+2 PLAC North Carolina
+1 NOTE Wife of Reuben Hancock, mother of Burrell Franklin Hancock (1880 census, Hill Twp Montgomery Co). Maiden name not yet found.
+1 FAMS @F123@
+0 @I246@ INDI
+1 NAME Elijah /Hancock/
+1 SEX M
+1 BIRT
+2 DATE abt 1801
+2 PLAC North Carolina
+1 NOTE PROBABLE father of Reuben Hancock (1850 census, Montgomery Co). Wife Rebecca (b~1803). Verify via 1860/1870.
+1 FAMS @F124@
+0 @I247@ INDI
+1 NAME Rebecca /Hancock/
+1 SEX F
+1 BIRT
+2 DATE abt 1803
+2 PLAC North Carolina
+1 NOTE PROBABLE mother of Reuben Hancock; wife of Elijah Hancock (1850 census). Elderly Rebecca in Reuben's 1880 household — consistent.
+1 FAMS @F124@
+0 @I248@ INDI
+1 NAME Monroe /Wilson/
+1 SEX M
+1 NOTE Father of Alonzo L. Wilson; husband of Elizabeth Fuquay; Moore Co NC. Per Alonzo's death cert. CAUTION: an 1880 Harnett Co Monroe Wilson household lists wife 'Sarah' not Elizabeth — unresolved; verify
+1 FAMS @F125@
+0 @I249@ INDI
+1 NAME Elizabeth /Fuquay/
+1 SEX F
+1 NOTE Mother of Alonzo L. Wilson; wife of Monroe Wilson (indexed 'Fuquoy'). Per Alonzo's death cert. The Wilsons & Fuquays intermarried in this community.
+1 FAMS @F125@
+0 @I250@ INDI
+1 NAME George /Fuquay/
+1 SEX M
+1 NOTE Father of Annie Frances Fuquay; Moore Co NC. Per Annie's 1918 death record.
+1 FAMS @F126@
+0 @I251@ INDI
+1 NAME Civil Ann /Jones/
+1 SEX F
+1 NOTE Mother of Annie Frances Fuquay; wife of George Fuquay (indexed 'Civil Ann Jones'). Per Annie's 1918 death record.
+1 FAMS @F126@
+0 @I252@ INDI
+1 NAME Vella Mae /Hancock/
+2 NICK Webb
+1 SEX F
+1 BIRT
+2 DATE 23 Aug 1930
+2 PLAC Richmond Co, NC
+1 DEAT
+2 DATE 13 Oct 2010
+2 PLAC Southern Pines, Moore Co, NC
+1 NOTE Youngest daughter of John David Hancock + Nellie Rea Wilson; sister of Lucretia Elon (Black) & Oneita (Snead). m. Horace B. Webb. b.23 Aug 1930 Richmond Co, d.13 Oct 2010. Per 1940 census + 2010 obitu
+1 FAMC @F119@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 MARR
+2 DATE 20 Feb 1972
+2 PLAC Swannanoa United Methodist Church, Swannanoa, NC
+1 CHIL @I1@
+0 @F2@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 MARR
+2 DATE bef 1950 (likely 1944-1949)
+1 CHIL @I3@
+1 CHIL @I4@
+0 @F3@ FAM
+1 HUSB @I7@
+1 WIFE @I8@
+1 CHIL @I5@
+1 CHIL @I9@
+0 @F4@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I6@
+1 CHIL @I12@
+1 CHIL @I13@
+1 CHIL @I14@
+0 @F6@ FAM
+1 HUSB @I16@
+1 WIFE @I17@
+1 MARR
+2 DATE abt 1887
+1 CHIL @I11@
+1 CHIL @I18@
+1 CHIL @I19@
+1 CHIL @I20@
+1 CHIL @I21@
+1 CHIL @I22@
+1 CHIL @I23@
+1 CHIL @I42@
+1 CHIL @I43@
+1 CHIL @I44@
+0 @F7@ FAM
+1 HUSB @I24@
+1 WIFE @I25@
+1 MARR
+2 DATE abt 1877
+1 CHIL @I7@
+1 CHIL @I31@
+1 CHIL @I32@
+1 CHIL @I33@
+1 CHIL @I34@
+1 CHIL @I35@
+0 @F8@ FAM
+1 HUSB @I26@
+1 WIFE @I27@
+1 MARR
+2 DATE abt 1888
+1 CHIL @I10@
+1 CHIL @I28@
+0 @F9@ FAM
+1 WIFE @I30@
+1 CHIL @I24@
+0 @F10@ FAM
+1 HUSB @I36@
+1 WIFE @I37@
+1 CHIL @I8@
+1 CHIL @I38@
+1 CHIL @I39@
+1 CHIL @I40@
+0 @F11@ FAM
+1 HUSB @I41@
+1 CHIL @I26@
+0 @F12@ FAM
+1 HUSB @I41@
+1 WIFE @I45@
+1 CHIL @I26@
+0 @F13@ FAM
+1 WIFE @I46@
+1 CHIL @I45@
+0 @F14@ FAM
+1 HUSB @I47@
+1 WIFE @I48@
+1 CHIL @I36@
+1 CHIL @I193@
+0 @F15@ FAM
+1 WIFE @I49@
+1 CHIL @I16@
+0 @F16@ FAM
+1 HUSB @I50@
+1 WIFE @I49@
+1 CHIL @I16@
+0 @F19@ FAM
+1 HUSB @I15@
+1 WIFE @I53@
+1 CHIL @I2@
+0 @F20@ FAM
+1 HUSB @I54@
+1 WIFE @I55@
+1 CHIL @I15@
+0 @F21@ FAM
+1 HUSB @I56@
+1 WIFE @I57@
+1 MARR
+2 DATE abt 1897
+1 CHIL @I77@
+0 @F23@ FAM
+1 HUSB @I59@
+1 WIFE @I29@
+1 CHIL @I41@
+1 CHIL @I60@
+1 CHIL @I61@
+1 CHIL @I79@
+0 @F24@ FAM
+1 HUSB @I41@
+1 WIFE @I62@
+1 MARR
+2 DATE 1859/60
+1 CHIL @I26@
+0 @F25@ FAM
+1 HUSB @I63@
+1 WIFE @I64@
+1 CHIL @I59@
+0 @F26@ FAM
+1 HUSB @I65@
+1 WIFE @I66@
+1 CHIL @I29@
+1 CHIL @I214@
+1 CHIL @I215@
+1 CHIL @I216@
+1 CHIL @I217@
+1 CHIL @I218@
+1 CHIL @I219@
+1 CHIL @I220@
+0 @F27@ FAM
+1 HUSB @I67@
+1 WIFE @I68@
+1 CHIL @I62@
+0 @F29@ FAM
+1 HUSB @I56@
+1 WIFE @I80@
+1 CHIL @I54@
+1 CHIL @I75@
+0 @F30@ FAM
+1 HUSB @I82@
+1 WIFE @I83@
+0 @F31@ FAM
+1 HUSB @I84@
+1 CHIL @I82@
+0 @F33@ FAM
+1 HUSB @I81@
+1 WIFE @I92@
+1 CHIL @I93@
+1 CHIL @I94@
+1 CHIL @I95@
+1 CHIL @I96@
+1 CHIL @I97@
+1 CHIL @I76@
+1 CHIL @I98@
+1 CHIL @I99@
+0 @F34@ FAM
+1 HUSB @I100@
+1 WIFE @I101@
+1 CHIL @I81@
+1 CHIL @I102@
+1 CHIL @I103@
+1 CHIL @I104@
+1 CHIL @I105@
+1 CHIL @I106@
+1 CHIL @I107@
+1 CHIL @I113@
+1 CHIL @I114@
+1 CHIL @I115@
+1 CHIL @I116@
+1 CHIL @I120@
+0 @F35@ FAM
+1 HUSB @I109@
+1 WIFE @I208@
+1 CHIL @I101@
+0 @F36@ FAM
+1 HUSB @I110@
+1 WIFE @I111@
+1 CHIL @I100@
+1 CHIL @I117@
+1 CHIL @I118@
+1 CHIL @I119@
+1 CHIL @I129@
+0 @F37@ FAM
+1 HUSB @I81@
+1 WIFE @I112@
+1 CHIL @I56@
+0 @F38@ FAM
+1 HUSB @I121@
+1 WIFE @I128@
+1 CHIL @I110@
+1 CHIL @I122@
+1 CHIL @I126@
+1 CHIL @I127@
+0 @F40@ FAM
+1 HUSB @I124@
+1 WIFE @I125@
+1 CHIL @I121@
+0 @F41@ FAM
+1 HUSB @I129@
+1 WIFE @I130@
+0 @F42@ FAM
+1 HUSB @I131@
+1 WIFE @I199@
+1 CHIL @I63@
+0 @F43@ FAM
+1 HUSB @I132@
+1 WIFE @I198@
+1 CHIL @I131@
+0 @F44@ FAM
+1 HUSB @I133@
+1 CHIL @I65@
+0 @F45@ FAM
+1 HUSB @I134@
+1 CHIL @I133@
+0 @F46@ FAM
+1 HUSB @I135@
+1 WIFE @I209@
+1 CHIL @I109@
+0 @F47@ FAM
+1 HUSB @I138@
+1 CHIL @I111@
+0 @F48@ FAM
+1 HUSB @I228@
+1 WIFE @I139@
+1 CHIL @I66@
+0 @F49@ FAM
+1 HUSB @I234@
+1 WIFE @I140@
+1 CHIL @I139@
+0 @F50@ FAM
+1 HUSB @I141@
+1 CHIL @I140@
+0 @F51@ FAM
+1 WIFE @I142@
+1 CHIL @I141@
+0 @F52@ FAM
+1 WIFE @I143@
+1 CHIL @I142@
+0 @F53@ FAM
+1 WIFE @I144@
+1 CHIL @I143@
+0 @F54@ FAM
+1 WIFE @I145@
+1 CHIL @I144@
+0 @F55@ FAM
+1 HUSB @I146@
+1 CHIL @I145@
+0 @F56@ FAM
+1 HUSB @I147@
+1 CHIL @I146@
+0 @F57@ FAM
+1 HUSB @I148@
+1 CHIL @I147@
+0 @F58@ FAM
+1 WIFE @I149@
+1 CHIL @I148@
+0 @F59@ FAM
+1 WIFE @I150@
+1 CHIL @I149@
+0 @F60@ FAM
+1 HUSB @I151@
+1 CHIL @I150@
+0 @F61@ FAM
+1 HUSB @I152@
+1 CHIL @I151@
+0 @F62@ FAM
+1 WIFE @I153@
+1 CHIL @I152@
+0 @F63@ FAM
+1 WIFE @I154@
+1 CHIL @I153@
+0 @F64@ FAM
+1 HUSB @I155@
+1 CHIL @I154@
+0 @F65@ FAM
+1 HUSB @I156@
+1 CHIL @I155@
+0 @F66@ FAM
+1 HUSB @I157@
+1 CHIL @I156@
+0 @F67@ FAM
+1 HUSB @I158@
+1 CHIL @I157@
+0 @F68@ FAM
+1 HUSB @I159@
+1 CHIL @I158@
+0 @F69@ FAM
+1 WIFE @I160@
+1 CHIL @I159@
+0 @F70@ FAM
+1 HUSB @I161@
+1 CHIL @I160@
+0 @F71@ FAM
+1 HUSB @I162@
+1 CHIL @I161@
+0 @F72@ FAM
+1 WIFE @I163@
+1 CHIL @I162@
+0 @F73@ FAM
+1 HUSB @I164@
+1 CHIL @I163@
+0 @F74@ FAM
+1 HUSB @I165@
+1 CHIL @I164@
+0 @F75@ FAM
+1 HUSB @I166@
+1 CHIL @I165@
+0 @F76@ FAM
+1 HUSB @I167@
+1 CHIL @I166@
+0 @F77@ FAM
+1 HUSB @I168@
+1 CHIL @I167@
+0 @F78@ FAM
+1 HUSB @I169@
+1 CHIL @I168@
+0 @F79@ FAM
+1 HUSB @I170@
+1 CHIL @I169@
+0 @F80@ FAM
+1 HUSB @I171@
+1 CHIL @I170@
+0 @F81@ FAM
+1 HUSB @I172@
+1 CHIL @I171@
+0 @F82@ FAM
+1 HUSB @I173@
+1 CHIL @I172@
+0 @F83@ FAM
+1 HUSB @I174@
+1 CHIL @I173@
+0 @F84@ FAM
+1 HUSB @I175@
+1 CHIL @I174@
+0 @F85@ FAM
+1 HUSB @I176@
+1 CHIL @I175@
+0 @F86@ FAM
+1 WIFE @I177@
+1 CHIL @I176@
+0 @F87@ FAM
+1 HUSB @I178@
+1 CHIL @I177@
+0 @F88@ FAM
+1 WIFE @I179@
+1 CHIL @I178@
+0 @F89@ FAM
+1 HUSB @I180@
+1 CHIL @I179@
+0 @F90@ FAM
+1 HUSB @I181@
+1 CHIL @I180@
+0 @F91@ FAM
+1 HUSB @I182@
+1 CHIL @I181@
+0 @F92@ FAM
+1 HUSB @I183@
+1 CHIL @I182@
+0 @F93@ FAM
+1 HUSB @I184@
+1 CHIL @I24@
+0 @F94@ FAM
+1 HUSB @I185@
+1 WIFE @I186@
+1 CHIL @I184@
+0 @F95@ FAM
+1 HUSB @I187@
+1 WIFE @I188@
+1 CHIL @I64@
+0 @F96@ FAM
+1 HUSB @I189@
+1 WIFE @I207@
+1 CHIL @I62@
+1 CHIL @I67@
+0 @F97@ FAM
+1 HUSB @I190@
+1 CHIL @I189@
+0 @F98@ FAM
+1 HUSB @I191@
+1 WIFE @I192@
+1 CHIL @I112@
+0 @F99@ FAM
+1 HUSB @I194@
+1 WIFE @I195@
+1 CHIL @I55@
+0 @F100@ FAM
+1 HUSB @I196@
+1 WIFE @I197@
+1 CHIL @I50@
+0 @F101@ FAM
+1 HUSB @I200@
+1 CHIL @I132@
+0 @F102@ FAM
+1 HUSB @I137@
+1 CHIL @I201@
+0 @F103@ FAM
+1 HUSB @I201@
+0 @F104@ FAM
+1 HUSB @I72@
+1 CHIL @I202@
+0 @F105@ FAM
+1 HUSB @I202@
+1 CHIL @I203@
+0 @F106@ FAM
+1 HUSB @I203@
+1 CHIL @I202@
+0 @F107@ FAM
+1 HUSB @I202@
+1 WIFE @I204@
+1 CHIL @I206@
+0 @F108@ FAM
+1 HUSB @I206@
+1 WIFE @I205@
+1 CHIL @I68@
+0 @F109@ FAM
+1 HUSB @I210@
+1 CHIL @I190@
+0 @F110@ FAM
+1 HUSB @I213@
+1 CHIL @I212@
+0 @F111@ FAM
+1 HUSB @I211@
+1 WIFE @I212@
+1 CHIL @I191@
+0 @F112@ FAM
+1 HUSB @I221@
+1 WIFE @I222@
+1 CHIL @I196@
+0 @F113@ FAM
+1 HUSB @I223@
+1 WIFE @I224@
+1 CHIL @I221@
+0 @F114@ FAM
+1 HUSB @I225@
+1 CHIL @I223@
+0 @F115@ FAM
+1 HUSB @I226@
+1 WIFE @I227@
+1 CHIL @I197@
+0 @F117@ FAM
+1 HUSB @I230@
+1 WIFE @I231@
+1 CHIL @I208@
+0 @F118@ FAM
+1 HUSB @I232@
+1 WIFE @I233@
+1 CHIL @I228@
+1 CHIL @I229@
+0 @F119@ FAM
+1 HUSB @I235@
+1 WIFE @I236@
+1 CHIL @I53@
+1 CHIL @I237@
+1 CHIL @I252@
+0 @F120@ FAM
+1 HUSB @I238@
+1 WIFE @I239@
+1 CHIL @I235@
+0 @F121@ FAM
+1 HUSB @I240@
+1 WIFE @I241@
+1 CHIL @I236@
+0 @F122@ FAM
+1 HUSB @I242@
+1 WIFE @I243@
+1 CHIL @I239@
+0 @F123@ FAM
+1 HUSB @I244@
+1 WIFE @I245@
+1 CHIL @I238@
+0 @F124@ FAM
+1 HUSB @I246@
+1 WIFE @I247@
+1 CHIL @I244@
+0 @F125@ FAM
+1 HUSB @I248@
+1 WIFE @I249@
+1 CHIL @I240@
+0 @F126@ FAM
+1 HUSB @I250@
+1 WIFE @I251@
+1 CHIL @I241@
+0 TRLR
