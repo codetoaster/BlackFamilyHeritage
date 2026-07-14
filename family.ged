@@ -2412,6 +2412,7 @@
 2 DATE abt 1813
 2 PLAC North Carolina
 1 NOTE Father of Charlotte 'Lottie' Ann Sedberry; husband of Mirna; Montgomery Co NC. Named in daughter's marriage record F8HK-H5N; no dates/census yet. | AGENT 2026-07-12c: b.~1813 NC, Brutons Twp Montgomer
+1 FAMC @F140@
 1 FAMS @F128@
 0 @I256@ INDI
 1 NAME Mirna /Sedberry/
@@ -2593,6 +2594,26 @@
 2 PLAC North Carolina
 1 NOTE SPECULATIVE mother of James D. Haywood (wife of James Haywood Sr, 1850/1860 Montgomery Co census). Same conflation caveat.
 1 FAMS @F138@
+0 @I278@ INDI
+1 NAME Elizabeth /Sedberry/
+2 NICK Parker
+1 SEX F
+1 BIRT
+2 DATE abt 1786
+2 PLAC North Carolina
+1 DEAT
+2 DATE after 1861
+1 NOTE Née PARKER — daughter of Mary Parker of Montgomery Co NC (documented by Mary's 1849 will naming daughter "Elizabeth Sedberry"). Married an unknown SEDBERRY man (= John Sedberry's father, name not foun
+1 FAMC @F139@
+1 FAMS @F140@
+0 @I279@ INDI
+1 NAME Mary /Parker/
+1 SEX F
+1 DEAT
+2 DATE abt 1849
+2 PLAC Montgomery Co, NC
+1 NOTE Mother of Elizabeth (Parker) Sedberry, per her own 1849 will (Montgomery Co NC) naming daughter "Elizabeth Sedberry". Widow; 11 children named (6 daughters, 5-6 sons). On Robert's line only via the PR
+1 FAMS @F139@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -3128,4 +3149,10 @@
 1 HUSB @I276@
 1 WIFE @I277@
 1 CHIL @I253@
+0 @F139@ FAM
+1 WIFE @I279@
+1 CHIL @I278@
+0 @F140@ FAM
+1 WIFE @I278@
+1 CHIL @I255@
 0 TRLR
