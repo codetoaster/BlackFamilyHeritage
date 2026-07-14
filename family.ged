@@ -2614,6 +2614,17 @@
 2 PLAC Montgomery Co, NC
 1 NOTE Mother of Elizabeth (Parker) Sedberry, per her own 1849 will (Montgomery Co NC) naming daughter "Elizabeth Sedberry". Widow; 11 children named (6 daughters, 5-6 sons). On Robert's line only via the PR
 1 FAMS @F139@
+0 @I280@ INDI
+1 NAME Garrott /Parker/
+2 NICK Sr.
+1 SEX M
+1 BIRT
+2 DATE abt 1779
+1 DEAT
+2 DATE 1829
+2 PLAC Montgomery Co, NC
+1 NOTE Husband of Mary Parker; father of Elizabeth (Parker) Sedberry (our line, probable). Will dated 14 Feb 1829, proved Jul 1829 Montgomery Co (ark 3:1:3QS7-99G4-9TM): names wife Mary Parker + sons Lewis &
+1 FAMS @F139@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -3150,6 +3161,7 @@
 1 WIFE @I277@
 1 CHIL @I253@
 0 @F139@ FAM
+1 HUSB @I280@
 1 WIFE @I279@
 1 CHIL @I278@
 0 @F140@ FAM
