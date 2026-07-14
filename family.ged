@@ -42,7 +42,7 @@
 2 PLAC Sylva, NC (hospital); resided 331 Wilson Ave, Swannanoa
 1 BURI
 2 PLAC Mountain View Memorial Park, Black Mountain, NC
-1 OCCU WWII US Army 1941-1943 (Selfridge Field MI; Section VIII discharge, reduced Sgt->Pvt); later stenographer/typist, Western Carolina University, then ret. assistant administrator, WNC Hospital, Black Mountain
+1 OCCU WWII US Army veteran (1941-1943); later stenographer/typist & Western Carolina University; ret. assistant administrator, WNC Hospital, Black Mountain
 1 NOTE b. Speedwell (Pressley Creek area, Cullowhee twp) 26 May 1920 per WikiTree Connor-1277 (exact d. 13 Apr 1987 matches obituary ✓). WWII (serial 34172024); WCU; WNC Hospital; Swannanoa. | FAITH: UNITED 
 1 FAMC @F3@
 1 FAMS @F2@
@@ -2319,7 +2319,7 @@
 1 FAMC @F124@
 1 FAMS @F123@
 0 @I245@ INDI
-1 NAME Elizabeth /Hancock/
+1 NAME Elizabeth /Freeman/
 1 SEX F
 1 BIRT
 2 DATE abt 1843
@@ -2412,7 +2412,6 @@
 2 DATE abt 1813
 2 PLAC North Carolina
 1 NOTE Father of Charlotte 'Lottie' Ann Sedberry; husband of Mirna; Montgomery Co NC. Named in daughter's marriage record F8HK-H5N; no dates/census yet. | AGENT 2026-07-12c: b.~1813 NC, Brutons Twp Montgomer
-1 FAMC @F139@
 1 FAMS @F128@
 0 @I256@ INDI
 1 NAME Mirna /Sedberry/
@@ -2594,14 +2593,6 @@
 2 PLAC North Carolina
 1 NOTE SPECULATIVE mother of James D. Haywood (wife of James Haywood Sr, 1850/1860 Montgomery Co census). Same conflation caveat.
 1 FAMS @F138@
-0 @I278@ INDI
-1 NAME Elizabeth /Sedberry/
-1 SEX F
-1 BIRT
-2 DATE abt 1786
-2 PLAC North Carolina
-1 NOTE PROBABLE mother of John Sedberry: co-resident widow (age 74, Sedberry surname) in John's 1860 household (Brutons Twp, MD6H-MWT). Inferential (co-residence + shared surname). John's father = wall.
-1 FAMS @F139@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -3137,7 +3128,4 @@
 1 HUSB @I276@
 1 WIFE @I277@
 1 CHIL @I253@
-0 @F139@ FAM
-1 WIFE @I278@
-1 CHIL @I255@
 0 TRLR
