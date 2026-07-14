@@ -2320,13 +2320,15 @@
 1 FAMC @F124@
 1 FAMS @F123@
 0 @I245@ INDI
-1 NAME Elizabeth /Freeman/
+1 NAME Elizabeth /Thomas/
 1 SEX F
 1 BIRT
-2 DATE abt 1843
+2 DATE abt 1841
 2 PLAC North Carolina
 1 NOTE Wife of Reuben Hancock, mother of Burrell Franklin Hancock (1880 census, Hill Twp Montgomery Co). Maiden name not yet found. | AGENT 2026-07-12: maiden name PROBABLY FREEMAN (FS tree K8WL-DH5 unsource
+1 FAMC @F146@
 1 FAMS @F123@
+1 FAMS @F147@
 0 @I246@ INDI
 1 NAME Elijah /Hancock/
 1 SEX M
@@ -2454,12 +2456,15 @@
 1 FAMC @F137@
 1 FAMS @F130@
 0 @I260@ INDI
-1 NAME Louisa J. /Cope/
+1 NAME Louisa J. /Brooks/
 1 SEX F
 1 BIRT
-2 DATE abt 1838
+2 DATE 15 Oct 1838
 2 PLAC North Carolina
+1 DEAT
+2 DATE 14 Feb 1925
 1 NOTE PROBABLE mother of Margaret Caroline (Cope) Conner; wife of John Cope, Webster Twp Jackson Co NC (1870 census). | AGENT 2026-07-12c: 'L.J.' = LOUISA J. Cope, CONFIRMED mother of Margaret Caroline (187
+1 FAMC @F148@
 1 FAMS @F130@
 0 @I261@ INDI
 1 NAME Anderson /Wilson/
@@ -2491,7 +2496,7 @@
 1 BIRT
 2 DATE abt 1829
 2 PLAC North Carolina
-1 NOTE Mother of Civil Ann Jones; wife of Allen B. Jones (1870 census 'Martha A. Jones'). Maiden name RUNNELS is FS-tree-only (unsourced).
+1 NOTE Mother of Civil Ann Jones; wife of Allen B. Jones (1870 census 'Martha A. Jones'). Maiden name RUNNELS is FS-tree-only (unsourced). | 2026-07-14: maiden 'Runnels' now DOUBTED -- likely mis-attached fr
 1 FAMS @F132@
 0 @I265@ INDI
 1 NAME Joseph /Clements/
@@ -2565,7 +2570,7 @@
 1 BIRT
 2 DATE abt 1809
 2 PLAC North Carolina
-1 NOTE INFERENTIAL/PROBABLE father of John Cope: 1850 Haywood Co NC census (M4BC-F41) household w/ John Cope b.1838; Jackson Co formed from Haywood 1851. Pre-1850-style inference (ages+geography).
+1 NOTE INFERENTIAL/PROBABLE father of John Cope: 1850 Haywood Co NC census (M4BC-F41) household w/ John Cope b.1838; Jackson Co formed from Haywood 1851. Pre-1850-style inference (ages+geography). | 2026-07-
 1 FAMS @F137@
 0 @I274@ INDI
 1 NAME Anny /Cope/
@@ -2573,7 +2578,7 @@
 1 BIRT
 2 DATE abt 1810
 2 PLAC North Carolina
-1 NOTE INFERENTIAL/PROBABLE mother of John Cope (1850 Haywood Co census, wife of Andrew Cope).
+1 NOTE INFERENTIAL/PROBABLE mother of John Cope (1850 Haywood Co census, wife of Andrew Cope). | 2026-07-14: John Cope->Andrew strengthened to PROBABLE -- 1850 Haywood household + an 1885 Jackson Co deed cro
 1 FAMS @F137@
 0 @I275@ INDI
 1 NAME William /Evatt/
@@ -2696,6 +2701,31 @@
 2 PLAC Pickens County, South Carolina
 1 NOTE Father of John H. Rigdon, per John's 1928 NC death certificate ('Joe Rigdon,' b. Pickens SC). His wife / John's mother was recorded 'Unknown' on the certificate. John could not be placed as a child in
 1 FAMS @F145@
+0 @I288@ INDI
+1 NAME Elizabeth Thomas //
+1 SEX F
+1 BIRT
+2 DATE abt 1800
+2 PLAC North Carolina
+1 NOTE Mother of Elizabeth (Thomas) Freeman-Hancock. Widowed by 1850, living in the John A. Barrat household, Montgomery Co NC (1850 census) with children John A. Thomas (b.~1836) and Elizabeth (b.~1841); la
+1 FAMS @F146@
+0 @I289@ INDI
+1 NAME Noah /Freeman/
+1 SEX M
+1 BIRT
+2 PLAC North Carolina
+1 NOTE First husband of Elizabeth Thomas (m. 27 Sep 1857, Montgomery Co NC). Father of her elder children Emeline (b.~1858) and Amy/Anny (b.~1860). Died before Dec 1865 (Elizabeth remarried Reuben Hancock as
+1 FAMS @F147@
+0 @I290@ INDI
+1 NAME Robert /Brooks/
+1 SEX M
+1 NOTE Father of Louisa Jane (Brooks) Cope, per her 1925 Jackson Co NC death certificate. Likely the elderly man co-resident in John Cope's 1870 household indexed 'Robert Laney b.1783 VA' (probable OCR error
+1 FAMS @F148@
+0 @I291@ INDI
+1 NAME Rhoda /Green/
+1 SEX F
+1 NOTE Mother of Louisa Jane (Brooks) Cope; maiden name Green per Louisa's 1925 death certificate.
+1 FAMS @F148@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -3261,4 +3291,17 @@
 1 MARR
 2 PLAC Pickens County, South Carolina
 1 CHIL @I257@
+0 @F146@ FAM
+1 WIFE @I288@
+1 CHIL @I245@
+0 @F147@ FAM
+1 HUSB @I289@
+1 WIFE @I245@
+1 MARR
+2 DATE 27 Sep 1857
+2 PLAC Montgomery County, North Carolina
+0 @F148@ FAM
+1 HUSB @I290@
+1 WIFE @I291@
+1 CHIL @I260@
 0 TRLR
