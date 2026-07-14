@@ -729,6 +729,7 @@
 1 FAMC @F34@
 1 FAMS @F33@
 1 FAMS @F37@
+1 FAMS @F141@
 0 @I82@ INDI
 1 NAME Wesley Alexander /Black/
 1 SEX M
@@ -2583,6 +2584,9 @@
 1 BIRT
 2 DATE abt 1796
 2 PLAC North Carolina
+1 DEAT
+2 DATE Dec 1860
+2 PLAC Montgomery Co, NC
 1 NOTE SPECULATIVE father of James D. Haywood: 1850 Montgomery Co household (M4B8-VDP) has an unmarried 'James b.1822'. CAVEAT: that James is linked to wife Sarah Ann McDonald, but OUR James D. married Diza 
 1 FAMS @F138@
 0 @I277@ INDI
@@ -2592,7 +2596,7 @@
 1 BIRT
 2 DATE abt 1798
 2 PLAC North Carolina
-1 NOTE SPECULATIVE mother of James D. Haywood (wife of James Haywood Sr, 1850/1860 Montgomery Co census). Same conflation caveat.
+1 NOTE SPECULATIVE mother of James D. Haywood (wife of James Haywood Sr, 1850/1860 Montgomery Co census). Same conflation caveat. | 2026-07-14 CONFIRMED: Mary Haywood = widow of James Haywood (petitioner for
 1 FAMS @F138@
 0 @I278@ INDI
 1 NAME Elizabeth /Sedberry/
@@ -2625,6 +2629,16 @@
 2 PLAC Montgomery Co, NC
 1 NOTE Husband of Mary Parker; father of Elizabeth (Parker) Sedberry (our line, probable). Will dated 14 Feb 1829, proved Jul 1829 Montgomery Co (ark 3:1:3QS7-99G4-9TM): names wife Mary Parker + sons Lewis &
 1 FAMS @F139@
+0 @I281@ INDI
+1 NAME Eliza /Hatton/
+1 SEX F
+1 BIRT
+2 DATE abt 1831
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1906
+1 NOTE THIRD wife of James W. Black (the 1880 Abbeville census wife, b.~1830/32; d.1906 per FS tree 9WFK-Y2K, unsourced). Married James W. late (after Mary L. McLees d. 1860s-70s); NO children of her own => 
+1 FAMS @F141@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -3167,4 +3181,7 @@
 0 @F140@ FAM
 1 WIFE @I278@
 1 CHIL @I255@
+0 @F141@ FAM
+1 HUSB @I81@
+1 WIFE @I281@
 0 TRLR
