@@ -2428,17 +2428,21 @@
 1 NAME John H. /Rigdon/
 1 SEX M
 1 BIRT
-2 DATE abt 1846
-2 PLAC South Carolina
-1 NOTE Father of Mary C. (Rigdon) Dillard; of Pumpkintown, Pickens Co SC then Cullowhee, Jackson Co NC. 1870/1880 census with daughter Mary.
+2 DATE 13 May 1844
+2 PLAC Pickens County, South Carolina
+1 DEAT
+2 DATE 5 Jun 1928
+1 NOTE Father of Mary C. (Rigdon) Dillard; of Pumpkintown, Pickens Co SC then Cullowhee, Jackson Co NC. 1870/1880 census with daughter Mary. | 2026-07-14: 1928 death cert (Jackson Co NC #114) -> father Josep
+1 FAMC @F145@
 1 FAMS @F129@
 0 @I258@ INDI
-1 NAME Martha M. /Rigdon/
+1 NAME Martha M. /Sitton/
 1 SEX F
 1 BIRT
-2 DATE abt 1843
+2 DATE 29 Jan 1843
 2 PLAC North Carolina
-1 NOTE Mother of Mary C. (Rigdon) Dillard; wife of John H. Rigdon. 1870/1880 census. Her own maiden name not yet found.
+1 NOTE Mother of Mary C. (Rigdon) Dillard; wife of John H. Rigdon. 1870/1880 census. Her own maiden name not yet found. | 2026-07-14: maiden name SITTON CONFIRMED (1850 Henderson Co NC census dw 400 + daught
+1 FAMC @F144@
 1 FAMS @F129@
 0 @I259@ INDI
 1 NAME John /Cope/
@@ -2516,6 +2520,7 @@
 1 DEAT
 2 DATE 18 Jul 1895
 1 NOTE Father of Ida Haney (per FS tree, unsourced); Limestone Co AL. Verify via 1880 census. | AGENT 2026-07-12c: CONFIRMED father of Ida (1880 Lauderdale AL census M4JT-6Z6; 1870 Limestone as 'Isaac T Hane
+1 FAMC @F143@
 1 FAMS @F134@
 0 @I268@ INDI
 1 NAME Nancy Jane Minerva /Legg/
@@ -2526,6 +2531,7 @@
 1 DEAT
 2 DATE 2 Jun 1909
 1 NOTE Mother of Ida Haney (per FS tree, unsourced); wife of Isaac Boyd Haney; Limestone Co AL. | AGENT 2026-07-12c: CONFIRMED mother of Ida (1880 census as 'Nancy Haney' b.1847). Maiden 'Legg' still FS-tree
+1 FAMC @F142@
 1 FAMS @F134@
 0 @I269@ INDI
 1 NAME Jack /Robinson/
@@ -2639,6 +2645,57 @@
 2 DATE 1906
 1 NOTE THIRD wife of James W. Black (the 1880 Abbeville census wife, b.~1830/32; d.1906 per FS tree 9WFK-Y2K, unsourced). Married James W. late (after Mary L. McLees d. 1860s-70s); NO children of her own => 
 1 FAMS @F141@
+0 @I282@ INDI
+1 NAME Edward /Legg/
+1 SEX M
+1 BIRT
+2 DATE abt 1815
+2 PLAC Tennessee
+1 NOTE Father of Nancy Jane Minerva Legg. Head of household, 1850 Limestone Co AL census (dw 748), a farming family in the Legg community ('Leggtown', Limestone Co); related Daniel M. Legg household on the s
+1 FAMS @F142@
+0 @I283@ INDI
+1 NAME Elizabeth Ann /Legg/
+1 SEX F
+1 BIRT
+2 DATE abt 1826
+2 PLAC South Carolina
+1 NOTE Wife of Edward Legg, mother of Nancy Jane Minerva Legg; 'Ann', 24, b. SC in the 1850 Limestone Co AL census (dw 748). Maiden name possibly ARLEDGE (FamilySearch tree, unsourced).
+1 FAMS @F142@
+0 @I284@ INDI
+1 NAME Isaac /Haney Sr/
+1 SEX M
+1 BIRT
+2 DATE abt 1799
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1854
+2 PLAC Giles County, Tennessee
+1 NOTE PROBABLE father of Isaac Boyd Haney. Head of a prosperous farming household (real estate $3000), 1850 Giles Co TN census (dw 2, indexed 'Isaac Hayney'), with a son Isaac age 12. Family migrated SC -> 
+1 FAMS @F143@
+0 @I285@ INDI
+1 NAME James /Sitton/
+1 SEX M
+1 BIRT
+2 DATE abt 1820
+2 PLAC North Carolina
+1 OCCU Cooper
+1 NOTE Father of Martha (Sitton) Rigdon. Cooper, head of household 1850 Henderson Co NC (dw 400) and 1860 Buncombe Co NC; wife Polly. FS tree 'James B. Sitton' (LDKM-BWS).
+1 FAMS @F144@
+0 @I286@ INDI
+1 NAME Mary Polly /Berry/
+1 SEX F
+1 BIRT
+2 DATE abt 1820
+2 PLAC North Carolina
+1 NOTE Wife of James Sitton, mother of Martha (Sitton) Rigdon; 'Polly Sitton', 30, in the 1850 Henderson Co NC census (dw 400). Maiden name BERRY per son John Decatur Sitton's NC death record (parents 'James
+1 FAMS @F144@
+0 @I287@ INDI
+1 NAME Joseph /Rigdon/
+1 SEX M
+1 BIRT
+2 PLAC Pickens County, South Carolina
+1 NOTE Father of John H. Rigdon, per John's 1928 NC death certificate ('Joe Rigdon,' b. Pickens SC). His wife / John's mother was recorded 'Unknown' on the certificate. John could not be placed as a child in
+1 FAMS @F145@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -3184,4 +3241,24 @@
 0 @F141@ FAM
 1 HUSB @I81@
 1 WIFE @I281@
+0 @F142@ FAM
+1 HUSB @I282@
+1 WIFE @I283@
+1 MARR
+2 PLAC Alabama
+1 CHIL @I268@
+0 @F143@ FAM
+1 HUSB @I284@
+1 CHIL @I267@
+0 @F144@ FAM
+1 HUSB @I285@
+1 WIFE @I286@
+1 MARR
+2 PLAC North Carolina
+1 CHIL @I258@
+0 @F145@ FAM
+1 HUSB @I287@
+1 MARR
+2 PLAC Pickens County, South Carolina
+1 CHIL @I257@
 0 TRLR
