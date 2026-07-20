@@ -10,5 +10,7 @@ of western North Carolina, upstate South Carolina, north Georgia, and colonial V
 
 Facts and parent-child relationships are graded separately; alternative and application-excluded
 relationships never silently replace the selected research path. Living family members are redacted.
+Proof Work covers every unresolved selected relationship displayed in The Long Climb, with
+society-specific application paths kept as separate, deduplicated preflights.
 Compiled from census images, wills & estates, Revolutionary pensions, muster rolls, and lineage-society
 records via the genealogy research database (system of record: private `family.db`).
