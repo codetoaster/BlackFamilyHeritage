@@ -2812,7 +2812,7 @@
 2 DATE 10 Apr 1873
 2 PLAC Montgomery Co, NC
 1 DEAT
-2 DATE 20 Dec 1948
+2 DATE 10 Dec 1948
 2 PLAC Rocky Springs Twp, Montgomery Co, NC
 1 BURI
 2 PLAC Candor, Montgomery Co, NC
@@ -2821,6 +2821,8 @@
 1 FAMS @F120@
 1 SOUR @S126@
 1 SOUR @S127@
+1 SOUR @S225@
+1 SOUR @S226@
 0 @I240@ INDI
 1 NAME Alonzo L. /Wilson/
 2 NICK Lonnie
@@ -2869,6 +2871,8 @@
 1 FAMS @F122@
 1 SOUR @S127@
 1 SOUR @S130@
+1 SOUR @S225@
+1 SOUR @S226@
 0 @I243@ INDI
 1 NAME Charlotte Ann /Sedberry/
 2 NICK Lottie
@@ -2884,6 +2888,8 @@
 1 FAMS @F122@
 1 SOUR @S127@
 1 SOUR @S130@
+1 SOUR @S225@
+1 SOUR @S226@
 0 @I244@ INDI
 1 NAME Reuben /Hancock/
 1 SEX M
@@ -3643,7 +3649,11 @@
 0 @F122@ FAM
 1 HUSB @I242@
 1 WIFE @I243@
+1 MARR
+2 PLAC Montgomery County, North Carolina
 1 CHIL @I239@
+1 SOUR @S225@
+1 SOUR @S226@
 0 @F123@ FAM
 1 HUSB @I244@
 1 WIFE @I245@
@@ -5056,4 +5066,12 @@
 1 TITL Estate file of David Norton, Macon County, North Carolina, 1912
 1 REPO Macon County Superior Court via FamilySearch
 1 NOTE North Carolina Estate Files, 1663-1979; FamilySearch record KFS7-1RV; DGS 005241723 images 1421-1423; first image https://www.familysearch.org/ark:/61903/3:1:33S7-L173-9X1
+0 @S225@ SOUR
+1 TITL Death certificate of Annie Elizabeth Hancock, Montgomery County, North Carolina, 1948
+1 REPO North Carolina State Board of Health via FamilySearch
+1 NOTE North Carolina certificate 15, registration district 62-06; FamilySearch record FPFY-V28; DGS 004219079; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PF-Z31Z-R
+0 @S226@ SOUR
+1 TITL 1880 United States census — Solomon Haywood household, Montgomery County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Cheek Creek Township, ED 123, page 5, dwelling/family 35, lines 30-35; FamilySearch record MCXC-Y1M; DGS 005161773; https://www.familysearch.org/ark:/61903/3:1:33S7-9YBK-958V
 0 TRLR
