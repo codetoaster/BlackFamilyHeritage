@@ -2906,8 +2906,11 @@
 1 FAMS @F123@
 1 SOUR @S127@
 1 SOUR @S154@
+1 SOUR @S156@
 1 SOUR @S228@
 1 SOUR @S229@
+1 SOUR @S230@
+1 SOUR @S231@
 0 @I245@ INDI
 1 NAME Elizabeth /Thomas/
 1 SEX F
@@ -2937,6 +2940,9 @@
 1 FAMS @F124@
 1 SOUR @S127@
 1 SOUR @S130@
+1 SOUR @S156@
+1 SOUR @S230@
+1 SOUR @S231@
 0 @I247@ INDI
 1 NAME Rebecca /Hancock/
 1 SEX F
@@ -2947,6 +2953,10 @@
 1 FAMS @F124@
 1 SOUR @S127@
 1 SOUR @S130@
+1 SOUR @S156@
+1 SOUR @S228@
+1 SOUR @S230@
+1 SOUR @S231@
 0 @I248@ INDI
 1 NAME Monroe /Wilson/
 1 SEX M
@@ -3679,6 +3689,10 @@
 1 HUSB @I246@
 1 WIFE @I247@
 1 CHIL @I244@
+1 SOUR @S156@
+1 SOUR @S228@
+1 SOUR @S230@
+1 SOUR @S231@
 0 @F125@ FAM
 1 HUSB @I248@
 1 WIFE @I249@
@@ -4808,9 +4822,9 @@
 1 REPO NARA M432 via FamilySearch
 1 NOTE Page 143, dwelling/family 587/589, lines 33-37; FamilySearch record M4B8-BGG; https://www.familysearch.org/ark:/61903/3:1:S3HT-DCS8-MB
 0 @S156@ SOUR
-1 TITL 1870 U.S. Census — Hill Township, Montgomery County, NC (Reuben Hancock household)
+1 TITL 1870 United States census — adjacent Reuben and Elijah Hancock households, Montgomery County, North Carolina
 1 REPO NARA M593 via FamilySearch
-1 NOTE Page 2, dwelling/family 4, lines 1-6; FamilySearch record MW82-DD3; https://www.familysearch.org/ark:/61903/3:1:S3HY-DTBQ-K23
+1 NOTE Hill Township, page 2, consecutive households, lines 1-11; FamilySearch records MW82-DD3 and MW82-DD7; https://www.familysearch.org/ark:/61903/3:1:S3HY-DTBQ-K23
 0 @S157@ SOUR
 1 TITL Death certificate of Louisa Jane Cope, Jackson County, North Carolina, 1925
 1 REPO North Carolina State Board of Health via FamilySearch
@@ -5103,4 +5117,12 @@
 1 TITL Marriage license of Burrell F. Hancock and Annie E. Haywood, Montgomery County, North Carolina, 1894
 1 REPO Montgomery County Register of Deeds via FamilySearch
 1 NOTE License and return dated 24 Dec 1894; FamilySearch record QP9P-1Y9F; DGS 102155867; https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS44-DP4W
+0 @S230@ SOUR
+1 TITL 1850 United States census — Elijah Hancock household, Montgomery County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Page 139, dwelling/family 531/532, lines 35-41; FamilySearch records M4BD-K8X and M4BD-K82; DGS 004203584; https://www.familysearch.org/ark:/61903/3:1:S3HT-DCS8-M1
+0 @S231@ SOUR
+1 TITL 1860 United States census — Elijah Hancock household, Montgomery County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Diffies District, page 49, dwelling/family 375, lines 16-20; FamilySearch records MD6H-MV4 and MD6H-MV8; DGS 005170496; https://www.familysearch.org/ark:/61903/3:1:33SQ-GBSZ-98TK
 0 TRLR
