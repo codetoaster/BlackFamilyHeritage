@@ -3183,18 +3183,21 @@
 1 SOUR @S251@
 1 SOUR @S252@
 0 @I264@ INDI
-1 NAME Martha Ann //
+1 NAME Martha Ann /Gaskins/
 1 SEX F
 1 BIRT
 2 DATE abt 1829
 2 PLAC North Carolina
-1 NOTE Mother of Civil Ann Jones; wife of Allen B. Jones. The 1875 deed establishes her full married name as Martha Ann Jones. Birth surname unknown; the former Runnels attachment belongs to a different Hali
+1 NOTE Mother of Civil Ann Jones and wife of Allen B. Jones. The 1850 household, 1875 co-grantor deed, and 1876 Coffield-land title recital establish her birth identity as Martha Ann Gaskins. The Runnels att
+1 FAMC @F155@
 1 FAMS @F132@
 1 SOUR @S132@
 1 SOUR @S249@
 1 SOUR @S250@
 1 SOUR @S251@
 1 SOUR @S252@
+1 SOUR @S258@
+1 SOUR @S260@
 0 @I265@ INDI
 1 NAME Joseph /Clements/
 2 NICK Joe
@@ -3616,6 +3619,51 @@
 1 FAMS @F154@
 1 SOUR @S214@
 1 SOUR @S215@
+0 @I307@ INDI
+1 NAME John /Gaskins/
+1 SEX M
+1 BIRT
+2 DATE abt 1803
+2 PLAC North Carolina
+1 DEAT
+2 DATE after 1878
+2 PLAC Harnett County, North Carolina
+1 NOTE Husband of Mary 'Polly' Coffield by the 1829 bond; head of the continued 1850 and 1860 Gaskins households. He administered Sarah Coffield's estate in 1838.
+1 FAMS @F155@
+1 SOUR @S255@
+1 SOUR @S258@
+0 @I308@ INDI
+1 NAME Mary /Coffield/
+2 NICK Polly
+1 SEX F
+1 BIRT
+2 DATE abt 1810
+1 NOTE Polly Coffield in her 1829 marriage bond and Mary in the 1850 household; the continued 1860 household uses Polly. The censuses conflict between Georgia and North Carolina for birthplace, so no preferr
+1 FAMC @F156@
+1 FAMS @F155@
+1 SOUR @S253@
+1 SOUR @S254@
+1 SOUR @S255@
+1 SOUR @S258@
+0 @I309@ INDI
+1 NAME William /Coffield/
+1 SEX M
+1 DEAT
+2 DATE 1825
+2 PLAC Cumberland County, North Carolina
+1 NOTE His 1825 will names wife Sarah and daughter Mary Coffield and appoints Sarah and son Isaac executors.
+1 FAMS @F156@
+1 SOUR @S253@
+0 @I310@ INDI
+1 NAME Sarah //
+1 SEX F
+1 DEAT
+2 DATE Jun 1838
+2 PLAC Cumberland County, North Carolina
+1 NOTE Birth surname unknown. William Coffield's 1825 will calls her his wife. The maternal conclusion for Mary is a written indirect proof combining the will, Isaac's sibling deed, and John Gaskins's 1838 a
+1 FAMS @F156@
+1 SOUR @S253@
+1 SOUR @S256@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -3935,6 +3983,30 @@
 0 @F154@ FAM
 1 HUSB @I306@
 1 WIFE @I278@
+0 @F155@ FAM
+1 HUSB @I307@
+1 WIFE @I308@
+1 MARR
+2 DATE 22 Oct 1829
+2 PLAC Cumberland County, North Carolina
+1 CHIL @I264@
+1 SOUR @S251@
+1 SOUR @S255@
+1 SOUR @S258@
+1 SOUR @S259@
+1 SOUR @S260@
+1 SOUR @S261@
+1 SOUR @S262@
+0 @F156@ FAM
+1 HUSB @I309@
+1 WIFE @I310@
+1 MARR
+2 PLAC Cumberland County, North Carolina
+1 CHIL @I308@
+1 SOUR @S253@
+1 SOUR @S254@
+1 SOUR @S255@
+1 SOUR @S256@
 0 @F16@ FAM
 1 HUSB @I50@
 1 WIFE @I49@
@@ -4830,7 +4902,7 @@
 1 NOTE Bertha Norton death FGRK-7BS/HHW7-8ZZM (mother Mary Rigdon); Alec & Joseph Connor death H4P6-ML2M/H4P3-L42M (mother Caroline Cope); Leonard & Lewis Norton death HWY7-KWPZ/HWTJ-L13Z (mother Fannie Robinson); Emma Connor NUMIDENT 6KSD-9TR8 (parents Andrew J Adams + Virginia McKinney); Rigdon 1880 MCX3-KG1 + 1870 M8RR-VL5; Cope 1870 MW8N-VD4; Adams 1900 MSBM-9RZ / 1910 ML3S-8YS.
 0 @S132@ SOUR
 1 TITL FamilySearch — Wilson/Fuquay/Jones deep, Harnett-Moore Co NC (agent research, 2026-07-12b)
-1 NOTE 1870 Monroe/Anderson Wilson adjacent households MW8S-C3T; Monroe 1850 M4B2-78R and 1860 MD63-9D1; Allen/Ann/Civil Jones 1860 MD6C-YVC; Civil Ann Jones 1870 MW8S-GQW; Allen/Martha Jones 1880 MCXY-88C; 1875 Jones/Gaskins/Johnson deed 3QSQ-G982-C5XY.
+1 NOTE Wilson/Jones census/deed cluster plus resolved Gaskins-Coffield continuation; see sources attached to relationships R310 and the four Gaskins-Coffield parent edges.
 0 @S133@ SOUR
 1 TITL FamilySearch — Black-side branches: Mollie J., Clements, Haney (agent research, 2026-07-12)
 1 NOTE Mollie J. + Vernon in 1880 census M69P-X3H; Edgar P. Black death cert JFZR-GGQ; Michigan Chandler Clements death cert JDFY-6RS (parents Joe Clements + Susie Twiggs) + FindAGrave QVKS-3VMY; Maude Woodard death JX62-J2F (ties Chandler+Ida); Ida Haney tree PW6L-LPZ.
@@ -5299,4 +5371,44 @@
 1 TITL 1860 United States census — Allen, Ann, and Civil Jones household, Wake County, North Carolina
 1 REPO United States Census Bureau via FamilySearch
 1 NOTE Southern Division, Morrisville post office, page 50, dwelling 381/family 389, lines 27-29; FamilySearch record MD6C-YVC; https://www.familysearch.org/ark:/61903/3:1:33SQ-GBSZ-96ZP
+0 @S253@ SOUR
+1 TITL Will of William Coffield, Cumberland County, North Carolina, 1825
+1 REPO Cumberland County probate records via FamilySearch
+1 NOTE Original wills, William Coffield estate folder, will dated 14 Jan 1825 and proved September term 1825; DGS 007639855, images 1659-1661; continuation https://www.familysearch.org/ark:/61903/3:1:3QS7-89GW-BBFC
+0 @S254@ SOUR
+1 TITL Deed of gift from Isaac Coffield to sisters Elizabeth and Mary Coffield, Cumberland County, 1829
+1 REPO Cumberland County Register of Deeds via FamilySearch
+1 NOTE Cumberland County deed book, pages 414-415; instrument 9 Jul 1829, recorded September term 1829; https://www.familysearch.org/ark:/61903/3:1:3QS7-99DC-8W5H
+0 @S255@ SOUR
+1 TITL Marriage bond of John Gaskins and Polly Coffield, Cumberland County, 1829
+1 REPO Cumberland County marriage bonds via FamilySearch
+1 NOTE Bond dated 22 Oct 1829; DGS 102256558-102256559; https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSHD-P8CQ
+0 @S256@ SOUR
+1 TITL Cumberland County special-court order for Sarah Coffield's estate, 1838
+1 REPO Cumberland County court minutes via FamilySearch
+1 NOTE Special court minute, 30 Jun 1838; https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSL2-W2H1
+0 @S257@ SOUR
+1 TITL Deed from Zachariah Coffield to John Gaskins, Cumberland County, 1845
+1 REPO Cumberland County Register of Deeds via FamilySearch
+1 NOTE Instrument 6 Jan 1845, registered Oct 1847, deed book pages 184-185; https://www.familysearch.org/ark:/61903/3:1:3QS7-99DC-HBQ6
+0 @S258@ SOUR
+1 TITL 1850 United States census — John, Mary, and Martha A. Gaskins household, Cumberland County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Dwelling/family 2; John record M4Y1-V3R; https://www.familysearch.org/ark:/61903/3:1:S3HT-67DS-ZXY
+0 @S259@ SOUR
+1 TITL 1860 United States census — John and Polly Gaskins household, Harnett County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE John household MD63-MV3; https://www.familysearch.org/ark:/61903/3:1:33SQ-GBSH-99MV
+0 @S260@ SOUR
+1 TITL Harnett County deed reciting Martha Ann Jones's Coffield-land interest, 1876
+1 REPO Harnett County Register of Deeds via FamilySearch
+1 NOTE Instrument 6 Apr 1876, copied Feb 1890, Deed Book B2, pages 305-306; DGS 007537943, image orders 666-667
+0 @S261@ SOUR
+1 TITL 1910 United States census — William and Deborah Johnson with Elizabeth Gaskin, Harnett County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE FamilySearch records ML3S-GP6 and ML3S-GPK; https://www.familysearch.org/ark:/61903/3:1:33SQ-GRJ5-J55
+0 @S262@ SOUR
+1 TITL Death certificate of Deborah Johnson, Harnett County, North Carolina, 1926
+1 REPO North Carolina State Board of Health via FamilySearch
+1 NOTE Death 4 Feb 1926; FamilySearch record F3ZF-GYY; https://www.familysearch.org/ark:/61903/3:1:S3HT-D1G4-5C
 0 TRLR
