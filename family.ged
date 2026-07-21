@@ -2805,6 +2805,8 @@
 1 FAMS @F120@
 1 SOUR @S126@
 1 SOUR @S127@
+1 SOUR @S228@
+1 SOUR @S229@
 0 @I239@ INDI
 1 NAME Annie Elizabeth /Haywood/
 1 SEX F
@@ -2904,6 +2906,8 @@
 1 FAMS @F123@
 1 SOUR @S127@
 1 SOUR @S154@
+1 SOUR @S228@
+1 SOUR @S229@
 0 @I245@ INDI
 1 NAME Elizabeth /Thomas/
 1 SEX F
@@ -2920,6 +2924,9 @@
 1 SOUR @S154@
 1 SOUR @S155@
 1 SOUR @S156@
+1 SOUR @S227@
+1 SOUR @S228@
+1 SOUR @S229@
 0 @I246@ INDI
 1 NAME Elijah /Hancock/
 1 SEX M
@@ -3657,7 +3664,17 @@
 0 @F123@ FAM
 1 HUSB @I244@
 1 WIFE @I245@
+1 MARR
+2 DATE 21 Dec 1865
+2 PLAC Montgomery County, North Carolina
 1 CHIL @I238@
+1 SOUR @S153@
+1 SOUR @S154@
+1 SOUR @S155@
+1 SOUR @S156@
+1 SOUR @S227@
+1 SOUR @S228@
+1 SOUR @S229@
 0 @F124@ FAM
 1 HUSB @I246@
 1 WIFE @I247@
@@ -4738,7 +4755,7 @@
 1 TITL WWII Morning Reports, 4th Base Hq & Air Base Sq, Selfridge Field MI, October 1943 (NARA RG64) — read 2026-07-13
 1 NOTE NARA Catalog naId 452789379, Roll 0232 (Oct 1943), img 01426 (16 Oct) + img 01460 (29 Oct discharge). TIFFs cached C:/Users/rmbla/.genealogy-mcp/images/oct_01426.jpg, oct_01460.jpg.
 0 @S142@ SOUR
-1 TITL FamilySearch NC County Marriages — Reuben Hancock x Elizabeth Freeman, 1865 Montgomery Co (agent, 2026-07-13)
+1 TITL FamilySearch NC County Marriages — Reuben Hancock and widow Elizabeth Freeman, 1865
 1 NOTE Index records QP9P-P28N, XF9X-X86, Q28Y-H2HK (OCR "Truman"=Freeman); underlying bond images 3:1:3Q9M-CS4F-ZSVP, 3:1:S3HT-67X9-JV9 (unread — login wall).
 0 @S143@ SOUR
 1 TITL Will of Mary Parker, Montgomery County, North Carolina, 1849
@@ -4780,20 +4797,20 @@
 1 NOTE North Carolina Standard Certificate of Death 114; death 5 Jun 1928; FamilySearch image https://www.familysearch.org/ark:/61903/3:1:S3HT-D1ZW-CDF; record F36P-QML
 0 @S153@ SOUR
 1 TITL Marriage record — Noah Freeman & Elizabeth Thomas, 1857, Montgomery County, NC
-1 REPO Montgomery County, NC (via FamilySearch)
-1 NOTE FamilySearch image ark 3:1:3QSQ-G9VH-G9NF-B; also bond 3:1:S3HT-67X9-... ; NC County Marriages
+1 REPO Montgomery County Register of Deeds via FamilySearch
+1 NOTE Minister's return, 27 Sep 1857; FamilySearch https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9VH-G9NF-B
 0 @S154@ SOUR
 1 TITL Marriage bond abstract — Reuben Hancock & Elizabeth Freeman, 1865, Montgomery County, NC
-1 REPO Montgomery County, NC (via FamilySearch)
-1 NOTE Montgomery County Marriage Bonds (abstract), p.16; FamilySearch image ark 3:1:S3HT-67X9-JV9
+1 REPO Montgomery County records abstract via FamilySearch
+1 NOTE Montgomery County Marriage Bonds abstract, page 16; bond 16 Dec 1865, marriage 21 Dec 1865; https://www.familysearch.org/ark:/61903/3:1:S3HT-67X9-JV9
 0 @S155@ SOUR
 1 TITL 1850 U.S. Census — Montgomery County, NC (John A. Barrat household, with the Thomas family)
 1 REPO NARA M432 via FamilySearch
-1 NOTE p.143, dwelling/family 587/589; FamilySearch persona 1:1:M4B8-BGG (image ark 3:1:S3HT-DCS8-MB)
+1 NOTE Page 143, dwelling/family 587/589, lines 33-37; FamilySearch record M4B8-BGG; https://www.familysearch.org/ark:/61903/3:1:S3HT-DCS8-MB
 0 @S156@ SOUR
 1 TITL 1870 U.S. Census — Hill Township, Montgomery County, NC (Reuben Hancock household)
 1 REPO NARA M593 via FamilySearch
-1 NOTE p.2, dwelling/family 4; FamilySearch persona 1:1:MW82-DD3 (image ark 3:1:S3HY-DTBQ-K23)
+1 NOTE Page 2, dwelling/family 4, lines 1-6; FamilySearch record MW82-DD3; https://www.familysearch.org/ark:/61903/3:1:S3HY-DTBQ-K23
 0 @S157@ SOUR
 1 TITL Death certificate of Louisa Jane Cope, Jackson County, North Carolina, 1925
 1 REPO North Carolina State Board of Health via FamilySearch
@@ -5074,4 +5091,16 @@
 1 TITL 1880 United States census — Solomon Haywood household, Montgomery County, North Carolina
 1 REPO United States Census Bureau via FamilySearch
 1 NOTE Cheek Creek Township, ED 123, page 5, dwelling/family 35, lines 30-35; FamilySearch record MCXC-Y1M; DGS 005161773; https://www.familysearch.org/ark:/61903/3:1:33S7-9YBK-958V
+0 @S227@ SOUR
+1 TITL 1860 United States census — Freeman and Thomas household, Montgomery County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Diffies District, pages 56-57, dwelling/family 430, page 56 line 40 through page 57 line 4; FamilySearch record MD6H-M5D; DGS 005170496; https://www.familysearch.org/ark:/61903/3:1:33SQ-GBSZ-9D9H and https://www.familysearch.org/ark:/61903/3:1:33S7-9BSZ-9Z6J
+0 @S228@ SOUR
+1 TITL 1880 United States census — Reuben Hancock household, Montgomery County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Hill Township, ED 125, page 11, lines 19-26; FamilySearch record MCXC-RHY; DGS 005161773; https://www.familysearch.org/ark:/61903/3:1:33S7-9YBK-95CX
+0 @S229@ SOUR
+1 TITL Marriage license of Burrell F. Hancock and Annie E. Haywood, Montgomery County, North Carolina, 1894
+1 REPO Montgomery County Register of Deeds via FamilySearch
+1 NOTE License and return dated 24 Dec 1894; FamilySearch record QP9P-1Y9F; DGS 102155867; https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS44-DP4W
 0 TRLR
