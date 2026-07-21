@@ -683,6 +683,7 @@
 1 SOUR @S66@
 1 SOUR @S123@
 1 SOUR @S126@
+1 SOUR @S239@
 0 @I54@ INDI
 1 NAME Edgar Pickens /Black/
 1 SEX M
@@ -2767,6 +2768,9 @@
 1 SOUR @S123@
 1 SOUR @S125@
 1 SOUR @S126@
+1 SOUR @S239@
+1 SOUR @S240@
+1 SOUR @S241@
 0 @I236@ INDI
 1 NAME Nellie Rea /Wilson/
 1 SEX F
@@ -2784,6 +2788,9 @@
 1 SOUR @S123@
 1 SOUR @S125@
 1 SOUR @S126@
+1 SOUR @S239@
+1 SOUR @S242@
+1 SOUR @S243@
 0 @I237@ INDI
 1 NAME Oneita Evelyn /Hancock/
 2 NICK Snead
@@ -2815,6 +2822,8 @@
 1 SOUR @S127@
 1 SOUR @S228@
 1 SOUR @S229@
+1 SOUR @S240@
+1 SOUR @S241@
 0 @I239@ INDI
 1 NAME Annie Elizabeth /Haywood/
 1 SEX F
@@ -2833,6 +2842,8 @@
 1 SOUR @S127@
 1 SOUR @S225@
 1 SOUR @S226@
+1 SOUR @S240@
+1 SOUR @S241@
 0 @I240@ INDI
 1 NAME Alonzo L. /Wilson/
 2 NICK Lonnie
@@ -2850,11 +2861,15 @@
 1 FAMS @F121@
 1 SOUR @S126@
 1 SOUR @S128@
+1 SOUR @S242@
+1 SOUR @S243@
+1 SOUR @S244@
+1 SOUR @S246@
 0 @I241@ INDI
 1 NAME Annie Frances /Fuquay/
 1 SEX F
 1 BIRT
-2 DATE 1 Apr 1875
+2 DATE 3 Apr 1875
 2 PLAC North Carolina
 1 DEAT
 2 DATE 3 Aug 1918
@@ -2866,6 +2881,9 @@
 1 FAMS @F121@
 1 SOUR @S126@
 1 SOUR @S128@
+1 SOUR @S242@
+1 SOUR @S243@
+1 SOUR @S245@
 0 @I242@ INDI
 1 NAME Solomon /Haywood/
 1 SEX M
@@ -2976,6 +2994,8 @@
 1 FAMS @F125@
 1 SOUR @S128@
 1 SOUR @S132@
+1 SOUR @S244@
+1 SOUR @S246@
 0 @I249@ INDI
 1 NAME Mary Elizabeth /Fuquay/
 1 SEX F
@@ -2985,14 +3005,15 @@
 1 FAMS @F125@
 1 SOUR @S128@
 1 SOUR @S132@
+1 SOUR @S244@
+1 SOUR @S246@
 0 @I250@ INDI
 1 NAME George /Fuquay/
 1 SEX M
-1 BIRT
-2 DATE abt 1859
-1 NOTE Father of Annie Frances Fuquay; Moore Co NC. Per Annie's 1918 death record. | AGENT 2026-07-12: George Fuquay (Annie Frances's father), b.~1859. Parents unresolved. DISAMBIGUATION: NOT the documented
+1 NOTE Father of Annie Frances Fuquay; Moore Co NC. Per Annie's 1918 death record. | AGENT 2026-07-12: George Fuquay is confirmed as Annie Frances's father, but his birth date and parents remain unresolved.
 1 FAMS @F126@
 1 SOUR @S128@
+1 SOUR @S245@
 0 @I251@ INDI
 1 NAME Civil Ann /Jones/
 1 SEX F
@@ -3006,6 +3027,7 @@
 1 FAMS @F126@
 1 SOUR @S128@
 1 SOUR @S132@
+1 SOUR @S245@
 0 @I252@ INDI
 1 NAME Vella Mae /Hancock/
 2 NICK Webb
@@ -3670,6 +3692,9 @@
 1 CHIL @I53@
 1 CHIL @I237@
 1 CHIL @I252@
+1 SOUR @S123@
+1 SOUR @S126@
+1 SOUR @S239@
 0 @F12@ FAM
 1 HUSB @I41@
 1 WIFE @I45@
@@ -3677,10 +3702,14 @@
 1 HUSB @I238@
 1 WIFE @I239@
 1 CHIL @I235@
+1 SOUR @S240@
+1 SOUR @S241@
 0 @F121@ FAM
 1 HUSB @I240@
 1 WIFE @I241@
 1 CHIL @I236@
+1 SOUR @S242@
+1 SOUR @S243@
 0 @F122@ FAM
 1 HUSB @I242@
 1 WIFE @I243@
@@ -3715,10 +3744,13 @@
 1 HUSB @I248@
 1 WIFE @I249@
 1 CHIL @I240@
+1 SOUR @S244@
+1 SOUR @S246@
 0 @F126@ FAM
 1 HUSB @I250@
 1 WIFE @I251@
 1 CHIL @I241@
+1 SOUR @S245@
 0 @F127@ FAM
 1 HUSB @I253@
 1 WIFE @I254@
@@ -5188,4 +5220,36 @@
 1 TITL Limestone County chancery papers — estate and heirs of I. B. Haney, 1901-1903
 1 REPO Limestone County Chancery Court via FamilySearch
 1 NOTE Nancy A. Haney amended bill and related estate pleadings, FamilySearch images 3:1:3Q9M-C3Q1-L92J-B, 3:1:3Q9M-C3Q1-L9RV-8, and 3:1:3Q9M-C3Q1-L9YN-D
+0 @S239@ SOUR
+1 TITL 1940 United States census — John and Nellie Hancock household, Richmond County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Norman, Mineral Springs Township, ED 77-12, sheet 2A, lines 23-27; https://www.familysearch.org/ark:/61903/3:1:3QS7-89MB-1NGJ
+0 @S240@ SOUR
+1 TITL 1900 United States census — Burrell and Annie Hancock household, Montgomery County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Troy Township, ED 78, sheet 21A, lines 18-21; FamilySearch record MSB7-FNW; https://www.familysearch.org/ark:/61903/3:1:S3HT-D4L9-3WT
+0 @S241@ SOUR
+1 TITL North Carolina death certificate — John David Hancock, Richmond County, 1994
+1 REPO North Carolina Division of Vital Records via FamilySearch
+1 NOTE North Carolina certificate 025537, death 7 May 1994; FamilySearch record FGF2-9B6; https://www.familysearch.org/ark:/61903/3:1:3QS7-99G8-19DT-G
+0 @S242@ SOUR
+1 TITL North Carolina death certificate — Nellie Rea Hancock, Moore County, 1975
+1 REPO North Carolina Office of Vital Statistics via FamilySearch
+1 NOTE North Carolina certificate 8943, death 11 Feb 1975; FamilySearch record FGGR-SV1; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9P2-B7Z5-P
+0 @S243@ SOUR
+1 TITL 1910 United States census — Alonzo and Annie Wilson household, Moore County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Bensalem Township, part 2, ED 65, sheet 3B, lines 92-99; FamilySearch record MLSH-BP3; https://www.familysearch.org/ark:/61903/3:1:33S7-9RVY-1L
+0 @S244@ SOUR
+1 TITL North Carolina death certificate — Alonzo Wilson, Moore County, 1942
+1 REPO North Carolina Bureau of Vital Statistics via FamilySearch
+1 NOTE North Carolina certificate 208, death 27 Aug 1942; FamilySearch record FPPH-ZQ4; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PL-HNFX
+0 @S245@ SOUR
+1 TITL North Carolina death certificate — Annie Frances Wilson, Moore County, 1918
+1 REPO North Carolina Bureau of Vital Statistics via FamilySearch
+1 NOTE North Carolina certificate 354, death 3 Aug 1918; FamilySearch record F3FX-XJV; https://www.familysearch.org/ark:/61903/3:1:S3HT-DRNQ-VLK
+0 @S246@ SOUR
+1 TITL 1870 United States census — Monroe and Elizabeth Wilson household, Harnett County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Buckhorn Township, page 19, dwelling/family 144, lines 14-17; FamilySearch record MW8S-C3T; https://www.familysearch.org/ark:/61903/3:1:S3HT-6799-BWN
 0 TRLR
