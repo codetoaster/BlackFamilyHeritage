@@ -3031,6 +3031,7 @@
 1 SOUR @S132@
 1 SOUR @S245@
 1 SOUR @S249@
+1 SOUR @S252@
 0 @I252@ INDI
 1 NAME Vella Mae /Hancock/
 2 NICK Webb
@@ -3174,24 +3175,26 @@
 1 BIRT
 2 DATE abt 1829
 2 PLAC North Carolina
-1 NOTE Father of Civil Ann Jones; husband of Martha Ann. The 1870/1880 household correlation and an 1885 deed establish the family identity; see the written indirect proof.
+1 NOTE Father of Civil Ann Jones; husband of Martha Ann. The 1860/1870/1880 household correlation and a 1875 deed establish the family identity; see the written indirect proof.
 1 FAMS @F132@
 1 SOUR @S132@
 1 SOUR @S249@
 1 SOUR @S250@
 1 SOUR @S251@
+1 SOUR @S252@
 0 @I264@ INDI
 1 NAME Martha Ann //
 1 SEX F
 1 BIRT
 2 DATE abt 1829
 2 PLAC North Carolina
-1 NOTE Mother of Civil Ann Jones; wife of Allen B. Jones. The 1885 deed establishes her full married name as Martha Ann Jones. Birth surname unknown; the former Runnels attachment belongs to a different Hali
+1 NOTE Mother of Civil Ann Jones; wife of Allen B. Jones. The 1875 deed establishes her full married name as Martha Ann Jones. Birth surname unknown; the former Runnels attachment belongs to a different Hali
 1 FAMS @F132@
 1 SOUR @S132@
 1 SOUR @S249@
 1 SOUR @S250@
 1 SOUR @S251@
+1 SOUR @S252@
 0 @I265@ INDI
 1 NAME Joseph /Clements/
 2 NICK Joe
@@ -3798,6 +3801,7 @@
 1 SOUR @S249@
 1 SOUR @S250@
 1 SOUR @S251@
+1 SOUR @S252@
 0 @F133@ FAM
 1 HUSB @I265@
 1 WIFE @I266@
@@ -4826,7 +4830,7 @@
 1 NOTE Bertha Norton death FGRK-7BS/HHW7-8ZZM (mother Mary Rigdon); Alec & Joseph Connor death H4P6-ML2M/H4P3-L42M (mother Caroline Cope); Leonard & Lewis Norton death HWY7-KWPZ/HWTJ-L13Z (mother Fannie Robinson); Emma Connor NUMIDENT 6KSD-9TR8 (parents Andrew J Adams + Virginia McKinney); Rigdon 1880 MCX3-KG1 + 1870 M8RR-VL5; Cope 1870 MW8N-VD4; Adams 1900 MSBM-9RZ / 1910 ML3S-8YS.
 0 @S132@ SOUR
 1 TITL FamilySearch — Wilson/Fuquay/Jones deep, Harnett-Moore Co NC (agent research, 2026-07-12b)
-1 NOTE 1870 Monroe/Anderson Wilson adjacent households MW8S-C3T; Monroe 1850 M4B2-78R and 1860 MD63-9D1; Civil Ann Jones 1870 MW8S-GQW; Allen/Martha Jones 1880 MCXY-88C; 1885 Jones/Gaskins/Johnson deed 3QSQ-G982-C5XY.
+1 NOTE 1870 Monroe/Anderson Wilson adjacent households MW8S-C3T; Monroe 1850 M4B2-78R and 1860 MD63-9D1; Allen/Ann/Civil Jones 1860 MD6C-YVC; Civil Ann Jones 1870 MW8S-GQW; Allen/Martha Jones 1880 MCXY-88C; 1875 Jones/Gaskins/Johnson deed 3QSQ-G982-C5XY.
 0 @S133@ SOUR
 1 TITL FamilySearch — Black-side branches: Mollie J., Clements, Haney (agent research, 2026-07-12)
 1 NOTE Mollie J. + Vernon in 1880 census M69P-X3H; Edgar P. Black death cert JFZR-GGQ; Michigan Chandler Clements death cert JDFY-6RS (parents Joe Clements + Susie Twiggs) + FindAGrave QVKS-3VMY; Maude Woodard death JX62-J2F (ties Chandler+Ida); Ida Haney tree PW6L-LPZ.
@@ -5288,7 +5292,11 @@
 1 REPO United States Census Bureau via FamilySearch
 1 NOTE Middle Creek Township, ED 201, page 61, lines 32-35; FamilySearch record MCXY-88C; https://www.familysearch.org/ark:/61903/3:1:33S7-9YB5-311
 0 @S251@ SOUR
-1 TITL Harnett County deed — Allen B. and Martha Ann Jones with Gaskins-Johnson co-grantors, 1885
+1 TITL Harnett County deed — Allen B. and Martha Ann Jones with Gaskins-Johnson co-grantors, 1875
 1 REPO Harnett County Register of Deeds via FamilySearch
-1 NOTE Harnett County deed book, pages 588-589; judicial acknowledgment 29 June 1885; https://www.familysearch.org/ark:/61903/3:1:3QSQ-G982-C5XY
+1 NOTE Harnett County deed book, pages 588-589; instrument and judicial acknowledgment 29 June 1875; copied in a volume FamilySearch dates 1885; https://www.familysearch.org/ark:/61903/3:1:3QSQ-G982-C5XY
+0 @S252@ SOUR
+1 TITL 1860 United States census — Allen, Ann, and Civil Jones household, Wake County, North Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Southern Division, Morrisville post office, page 50, dwelling 381/family 389, lines 27-29; FamilySearch record MD6C-YVC; https://www.familysearch.org/ark:/61903/3:1:33SQ-GBSZ-96ZP
 0 TRLR
