@@ -714,6 +714,7 @@
 1 SOUR @S26@
 1 SOUR @S76@
 1 SOUR @S77@
+1 SOUR @S232@
 0 @I56@ INDI
 1 NAME John Laurens /Black/
 1 SEX M
@@ -2281,6 +2282,9 @@
 1 SOUR @S76@
 1 SOUR @S77@
 1 SOUR @S133@
+1 SOUR @S233@
+1 SOUR @S234@
+1 SOUR @S235@
 0 @I195@ INDI
 1 NAME Ida /Haney/
 1 SEX F
@@ -2290,12 +2294,16 @@
 1 DEAT
 2 DATE 12 Dec 1963
 2 PLAC Athens, Limestone Co, AL
-1 NOTE Mother of Florence Rebecca Clements per FS tree (PW6L-LPZ); not yet independently corroborated. FS deeper line: Isaac Boyd Haney + Nancy Legg. | 2026-07-07 Florence's mother = father's FIRST wife, who
+1 NOTE Mother of Florence Rebecca Clements per FS tree (PW6L-LPZ); not yet independently corroborated. FS deeper line: Isaac Boyd Haney + Nancy Legg. | 2026-07-07 Florence's mother = Chandler's first documen
 1 FAMC @F134@
 1 FAMS @F99@
 1 SOUR @S76@
 1 SOUR @S133@
 1 SOUR @S136@
+1 SOUR @S233@
+1 SOUR @S236@
+1 SOUR @S237@
+1 SOUR @S238@
 0 @I196@ INDI
 1 NAME Thomas /Dillard III/
 1 SEX M
@@ -3156,10 +3164,12 @@
 1 BIRT
 2 DATE abt 1847
 2 PLAC Georgia
-1 NOTE Father of Michigan Chandler Clements; b.16 Mar 1837 Macon Co NC (family NC -> Fannin Co GA). Per Chandler's death cert JDFY-6RS. Deep Clements line above = tree-only, not entered. | CORRECTION 2026-07
+1 NOTE Father of Michigan Chandler Clements; born about 1847 in Georgia. The earlier Joseph Wilburn identity was a rejected tree misattachment. | CORRECTION 2026-07-12c: this man = JOSEPH 'JOE' CLEMENTS b.~1
 1 FAMS @F133@
 1 SOUR @S133@
 1 SOUR @S136@
+1 SOUR @S234@
+1 SOUR @S235@
 0 @I266@ INDI
 1 NAME Susan /Twiggs/
 2 NICK Susie
@@ -3167,9 +3177,11 @@
 1 BIRT
 2 DATE abt 1848
 2 PLAC Georgia
-1 NOTE Mother of Michigan Chandler Clements; wife of Joseph Wilburn Clements. Per Chandler's death cert JDFY-6RS. | AGENT 2026-07-12c: Susan 'Susie' Twiggs b.~1848 GA (1880 Fannin Co census). | AGENT 2026-07
+1 NOTE Mother of Michigan Chandler Clements; wife of Joseph 'Joe' Clements, born about 1847 in Georgia. Per Chandler's death cert JDFY-6RS. | AGENT 2026-07-12c: Susan 'Susie' Twiggs b.~1848 GA (1880 Fannin C
 1 FAMS @F133@
 1 SOUR @S133@
+1 SOUR @S234@
+1 SOUR @S235@
 0 @I267@ INDI
 1 NAME Isaac Boyd /Haney/
 1 SEX M
@@ -3184,6 +3196,8 @@
 1 SOUR @S133@
 1 SOUR @S136@
 1 SOUR @S150@
+1 SOUR @S236@
+1 SOUR @S237@
 0 @I268@ INDI
 1 NAME Nancy Jane Minerva /Legg/
 1 SEX F
@@ -3198,6 +3212,9 @@
 1 SOUR @S133@
 1 SOUR @S136@
 1 SOUR @S149@
+1 SOUR @S236@
+1 SOUR @S237@
+1 SOUR @S238@
 0 @I269@ INDI
 1 NAME Jack /Robinson/
 1 SEX M
@@ -3337,13 +3354,14 @@
 1 NOTE Father of Nancy Jane Minerva Legg. Head of household, 1850 Limestone Co AL census (dw 748), a farming family in the Legg community ('Leggtown', Limestone Co); related Daniel M. Legg household on the s
 1 FAMS @F142@
 1 SOUR @S149@
+1 SOUR @S238@
 0 @I283@ INDI
 1 NAME Elizabeth Ann /Legg/
 1 SEX F
 1 BIRT
 2 DATE abt 1826
 2 PLAC South Carolina
-1 NOTE Wife of Edward Legg, mother of Nancy Jane Minerva Legg; 'Ann', 24, b. SC in the 1850 Limestone Co AL census (dw 748). Maiden name possibly ARLEDGE (FamilySearch tree, unsourced).
+1 NOTE Wife of Edward Legg, mother of Nancy Jane Minerva Legg; 'Ann', 24, b. SC in the 1850 Limestone Co AL census (dw 748). Maiden name possibly ARLEDGE (FamilySearch tree, unsourced). | 2026-07-21 maternal
 1 FAMS @F142@
 1 SOUR @S149@
 0 @I284@ INDI
@@ -3733,10 +3751,18 @@
 1 HUSB @I265@
 1 WIFE @I266@
 1 CHIL @I194@
+1 SOUR @S234@
+1 SOUR @S235@
 0 @F134@ FAM
 1 HUSB @I267@
 1 WIFE @I268@
+1 MARR
+2 DATE 10 Aug 1863
+2 PLAC Limestone County, Alabama
 1 CHIL @I195@
+1 SOUR @S236@
+1 SOUR @S237@
+1 SOUR @S238@
 0 @F135@ FAM
 1 HUSB @I269@
 1 WIFE @I270@
@@ -3784,6 +3810,8 @@
 1 MARR
 2 PLAC Alabama
 1 CHIL @I268@
+1 SOUR @S149@
+1 SOUR @S238@
 0 @F143@ FAM
 1 HUSB @I284@
 1 CHIL @I267@
@@ -4220,7 +4248,14 @@
 0 @F99@ FAM
 1 HUSB @I194@
 1 WIFE @I195@
+1 MARR
+2 DATE 10 Apr 1893
+2 PLAC Murray County, Georgia
 1 CHIL @I55@
+1 SOUR @S77@
+1 SOUR @S232@
+1 SOUR @S233@
+1 SOUR @S238@
 0 @FR1@ FAM
 1 HUSB @I228@
 1 CHIL @I66@
@@ -4528,9 +4563,9 @@
 1 REPO FamilySearch (browser-session MCP) — collaborative tree + Historical Records index
 1 NOTE FS get-ancestors LVFH-D7B (8 gen); FS indexed death/grave records for Edgar Pickens Black (Birmingham AL, d.12 Dec 1964); FS records 'Michigan Chandler Clements' (b.1869 d.1928 Birmingham AL) and 'David L. Dillard' (Haywood Co NC, b.1815)
 0 @S77@ SOUR
-1 TITL 1910 US Census — Marion C. Clements household, Alabama (user-provided, 2026-07-07)
-1 REPO US Federal Census (via FamilySearch), relayed by user
-1 NOTE Household head 'Marion C Clements'; daughter Florence Clements age 15 (b.~1895); siblings Maud 17, Dolly 13, Eva 1; sons Joseph 9, Isam 7, Marion 5; wife Lou Ella 28. Corroborating earlier census (head indexed 'Charles Clements': Florence, Maudie, Dollie, Fulton).
+1 TITL 1910 United States census — Marion C. Clements household, Blount County, Alabama
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Enumeration District 29, sheet 19A, lines 29-37; FamilySearch record MK3L-5Y7; https://www.familysearch.org/ark:/61903/3:1:33SQ-GRFC-52G
 0 @S78@ SOUR
 1 TITL 1838 Georgia militia payroll — Capt. Samuel Patterson's Co. of Mounted Volunteers (FamilySearch full-text OCR, 2026-07-08)
 1 REPO FamilySearch full-text (OCR of unindexed images)
@@ -4794,9 +4829,9 @@
 1 REPO Montgomery County Clerk of Court / North Carolina State Archives (via FamilySearch)
 1 NOTE FamilySearch image ARKs 3:1:3Q9M-C9TK-P3QH-9, 3:1:3Q9M-C9TK-PSYG-Z, 3:1:3QS7-89CF-V24W, 3:1:3QS7-99CF-V2R1, 3:1:3QS7-99CF-G3HS (petitions); 3:1:3Q9M-C3QG-Q91N (court minutes, Jan. Term 1863, pp.122-123)
 0 @S149@ SOUR
-1 TITL 1850 U.S. Census — Limestone County, Alabama (household of Edward Legg)
-1 REPO NARA M432 via FamilySearch
-1 NOTE FamilySearch image ark 3:1:S3HY-6S2V-WM (Schedule I, sheet 53, dwelling/family 748); persona 1:1:MH5S-BG1
+1 TITL 1850 United States census — Edward Legg household, Limestone County, Alabama
+1 REPO United States Census Bureau, NARA M432, via FamilySearch
+1 NOTE Schedule I, sheet 53, dwelling/family 748; FamilySearch record MH5S-BG1; https://www.familysearch.org/ark:/61903/3:1:S3HY-6S2V-WM
 0 @S150@ SOUR
 1 TITL 1850 U.S. Census — Giles County, Tennessee, District 3 (household of Isaac Hayney)
 1 REPO NARA M432 via FamilySearch
@@ -5125,4 +5160,32 @@
 1 TITL 1860 United States census — Elijah Hancock household, Montgomery County, North Carolina
 1 REPO United States Census Bureau via FamilySearch
 1 NOTE Diffies District, page 49, dwelling/family 375, lines 16-20; FamilySearch records MD6H-MV4 and MD6H-MV8; DGS 005170496; https://www.familysearch.org/ark:/61903/3:1:33SQ-GBSZ-98TK
+0 @S232@ SOUR
+1 TITL Alabama death index — Florence Rebecca Black, St. Clair County, 1974
+1 REPO Alabama Department of Health index via FamilySearch
+1 NOTE FamilySearch record JKSW-Q6P; Alabama, Deaths, 1908-1974; indexed parents Chandler Clements and Ida Haney; underlying artifact 3:1:3Q9M-C9Y9-R3LS-T; DGS 004200752, film 2242121
+0 @S233@ SOUR
+1 TITL Murray County, Georgia marriage register — Chandler Clements and Ida Haney, 1893
+1 REPO Murray County Court via FamilySearch
+1 NOTE Register pages 184-185; license and marriage 10 Apr 1893; FamilySearch record KXV4-269; DGS 005190967, film 382547; https://www.familysearch.org/ark:/61903/3:1:33SQ-GBZN-JV2
+0 @S234@ SOUR
+1 TITL 1880 United States census — Joseph and Susan Clements household, Fannin County, Georgia
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Tenth Militia District, enumeration district 56, household continued across two images; FamilySearch record M8LT-W87; DGS 005157365, film 1254145; https://www.familysearch.org/ark:/61903/3:1:33S7-9YB9-9Z7H and https://www.familysearch.org/ark:/61903/3:1:33S7-9YB9-9CBD
+0 @S235@ SOUR
+1 TITL Alabama death index — Michigan Chandler Clements, Jefferson County, 1928
+1 REPO Alabama Department of Health index via FamilySearch
+1 NOTE FamilySearch record JDFY-6RS; Alabama, Deaths, 1908-1974; indexed parents Joe Clements and Susie Twiggs; underlying artifact 3:1:3Q9M-CS36-Q32V-8; DGS 004025712, film 1908450
+0 @S236@ SOUR
+1 TITL 1880 United States census — Boyd and Nancy Haney household, Lauderdale County, Alabama
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Green Hill, beat 5, enumeration district 178, page 33, lines 29-38; FamilySearch record M4JT-6Z6; DGS 005157237, film 1254019; https://www.familysearch.org/ark:/61903/3:1:33S7-9YBM-ZYN
+0 @S237@ SOUR
+1 TITL Alabama death index — Ida McCormick, Limestone County, 1963
+1 REPO Alabama Department of Health index via FamilySearch
+1 NOTE FamilySearch record JX5M-DSK; Alabama, Deaths, 1908-1974; death at Athens; indexed parents Boyd Haney and Nancy Legg; underlying artifact 3:1:3Q9M-C9TT-DQM2-9
+0 @S238@ SOUR
+1 TITL Limestone County chancery papers — estate and heirs of I. B. Haney, 1901-1903
+1 REPO Limestone County Chancery Court via FamilySearch
+1 NOTE Nancy A. Haney amended bill and related estate pleadings, FamilySearch images 3:1:3Q9M-C3Q1-L92J-B, 3:1:3Q9M-C3Q1-L9RV-8, and 3:1:3Q9M-C3Q1-L9YN-D
 0 TRLR
