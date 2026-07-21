@@ -404,6 +404,7 @@
 1 SOUR @S218@
 1 SOUR @S219@
 1 SOUR @S221@
+1 SOUR @S223@
 0 @I30@ INDI
 1 NAME Elizabeth /Griggs/
 1 SEX F
@@ -524,7 +525,7 @@
 1 DEAT
 2 DATE 1 Jul 1912
 2 PLAC Highlands, Macon Co, NC
-1 NOTE DAVID DANIEL NORTON. Confederate 2nd Lt, Co. B 25th NC (CA mark 1910). Son of Rodric Norton & Drucilla Burrell (CONFIRMED). m.(1) 1859/60 Mary J. Holden of Rabun GA (d. Oct 1868); m.(2) Martha (Adams)
+1 NOTE DAVID DANIEL NORTON. Confederate 2nd Lt., Co. B, 25th NC. A written conflict-aware indirect proof establishes him as the son of Rodric/Roderick Norton and Dreusilla/Drucilla Burrell; see docs/proof_ar
 1 FAMC @F23@
 1 FAMS @F11@
 1 FAMS @F12@
@@ -537,6 +538,9 @@
 1 SOUR @S23@
 1 SOUR @S27@
 1 SOUR @S109@
+1 SOUR @S222@
+1 SOUR @S223@
+1 SOUR @S224@
 0 @I42@ INDI
 1 NAME Sadie /Dillard/
 1 SEX F
@@ -763,6 +767,8 @@
 1 SOUR @S168@
 1 SOUR @S170@
 1 SOUR @S173@
+1 SOUR @S222@
+1 SOUR @S223@
 0 @I60@ INDI
 1 NAME John Burruss /Norton/
 1 SEX M
@@ -3848,10 +3854,13 @@
 1 CHIL @I60@
 1 CHIL @I61@
 1 CHIL @I79@
+1 SOUR @S159@
 1 SOUR @S182@
 1 SOUR @S183@
 1 SOUR @S184@
 1 SOUR @S185@
+1 SOUR @S222@
+1 SOUR @S223@
 0 @F24@ FAM
 1 HUSB @I41@
 1 WIFE @I62@
@@ -5035,4 +5044,16 @@
 1 TITL 1830 United States census — Walter Burrell household, Macon County, North Carolina
 1 REPO National Archives population schedule via FamilySearch
 1 NOTE Macon County, page 28; FamilySearch image https://www.familysearch.org/ark:/61903/3:1:33S7-9YTR-3C4Y; record XHP7-NBT
+0 @S222@ SOUR
+1 TITL Sybil H. Argintar, Phase Two Historic Sites Survey: Whiteside Cove & Norton Communities, Cashiers, 2014
+1 REPO North Carolina Historic Preservation Office
+1 NOTE Introduction, page 1; https://files.nc.gov/ncdcr/historic-preservation-office/survey-and-national-register/surveyreports/CashiersSurveyPhase2-2014.pdf
+0 @S223@ SOUR
+1 TITL Roderick Norton Early Settler of Norton, North Carolina, Mountain Laurel Magazine, 2011
+1 REPO Mountain Laurel Magazine article preserved through FamilySearch Memories
+1 NOTE Posted 28 Apr 2011; FamilySearch memory artifact TH-303-39379-319-53 attached to David Daniel Norton profile L7BY-7BN
+0 @S224@ SOUR
+1 TITL Estate file of David Norton, Macon County, North Carolina, 1912
+1 REPO Macon County Superior Court via FamilySearch
+1 NOTE North Carolina Estate Files, 1663-1979; FamilySearch record KFS7-1RV; DGS 005241723 images 1421-1423; first image https://www.familysearch.org/ark:/61903/3:1:33S7-L173-9X1
 0 TRLR
