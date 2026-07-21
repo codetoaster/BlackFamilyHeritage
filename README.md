@@ -4,7 +4,7 @@ Genealogy of the Black–Connor–Norton–Dillard–Adams–Burrell–Pruitt–
 of western North Carolina, upstate South Carolina, north Georgia, and colonial Virginia.
 
 - **[The Black Family Register](index.html)** (`family_tree.html`) — interactive tree: fan chart, pedigree,
-  292 people, 180 public sources, ancestor photos, and embedded evidence documents (wills, deeds, bonds, death
+  292 people, 183 public sources, ancestor photos, and embedded evidence documents (wills, deeds, bonds, death
   certificates read from the original images).
 - **[The Crossing](migration_map.html)** — the family's migration routes to and across America.
 
