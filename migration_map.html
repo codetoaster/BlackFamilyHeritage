@@ -66,13 +66,15 @@
   .aroute{fill:none;stroke:var(--ln);stroke-linecap:round;stroke-width:1.9;
     stroke-dashoffset:var(--len);
     opacity:0;visibility:hidden;transition:opacity .5s ease,stroke-width .5s ease}
-  .aroute.on{visibility:visible;opacity:.5;stroke-dashoffset:0;
+  .aroute.on{visibility:visible;opacity:.16;stroke-width:1.3;stroke-dashoffset:0;
     transition:stroke-dashoffset 1.1s cubic-bezier(.3,.7,.4,1),opacity .5s ease,
       stroke-width .5s ease}
-  .aroute.now{opacity:1;stroke-width:3.4}
+  .aroute.recent{opacity:.42;stroke-width:2}
+  .aroute.now{opacity:1;stroke-width:3.6}
+  .adot.recent{opacity:1}
+  .adot.on{opacity:.4}
   .adot{fill:var(--ln);stroke:var(--land);stroke-width:1.1;opacity:0;
     transition:opacity .5s ease}
-  .adot.on{opacity:1}
   .alabels{position:absolute;inset:0;pointer-events:none;overflow:hidden}
   .alabels i{position:absolute;font-style:normal;font-family:var(--sans);font-size:11px;
     color:var(--ink);white-space:nowrap;paint-order:stroke;
@@ -175,9 +177,11 @@
     if(!rect.width) return;
     var k = rect.width / view.w;
     var decade = D.decades[idx];
+    // Only what is moving now. Labelling four decades at once buried the
+    // decade being played under names that had stopped mattering.
     var live = {};
     D.arcs.forEach(function(a){
-      if(showAll || (a.d <= decade && a.d > decade - 40)){ live[a.f] = 1; live[a.t] = 1; }
+      if(showAll ? a.d > 0 : a.d === decade){ live[a.f] = 1; live[a.t] = 1; }
     });
     var out = [], placed = [];
     Object.keys(live).forEach(function(name){
@@ -185,9 +189,12 @@
       if(!p) return;
       var x = (p[0]-view.x)*k, y = (p[1]-view.y)*k;
       if(x < 4 || y < 4 || x > rect.width-4 || y > rect.height-4) return;
-      var ly = y;
-      for(var guard=0; guard<7 && placed.some(function(q){
-            return Math.abs(q[0]-x) < 74 && Math.abs(q[1]-ly) < 12; }); guard++){ ly += 12; }
+      var ly = y, guard = 0;
+      while(guard < 7 && placed.some(function(q){
+            return Math.abs(q[0]-x) < 74 && Math.abs(q[1]-ly) < 12; })){ ly += 12; guard++; }
+      // Nudging a label down can push it out of the frame; drop it rather than
+      // let it pile up along the bottom edge.
+      if(guard === 7 || ly > rect.height - 10) return;
       placed.push([x, ly]);
       var right = x > rect.width*0.7;
       out.push('<i style="left:'+ (right ? x-8 : x+8).toFixed(0) +'px;top:'
@@ -199,16 +206,22 @@
 
   function render(){
     var decade = D.decades[idx];
-    var crossings = 0, moves = 0;
+    var moves = 0;
     arcs.forEach(function(p){
       var d = +p.dataset.d;
       var on = showAll || d <= decade;
       p.classList.toggle('on', on);
+      // Three tiers, not two. With everything already drawn at one weight the
+      // eleven ocean crossings never stop shouting, and by the 1890s they were
+      // louder than the three moves the decade is actually about.
+      p.classList.toggle('recent', !showAll && on && d > decade - 30 && d !== decade);
       p.classList.toggle('now', !showAll && d === decade);
       if(on) moves++;
     });
     dots.forEach(function(c){
-      c.classList.toggle('on', showAll || +c.dataset.d <= decade);
+      var d = +c.dataset.d;
+      c.classList.toggle('on', showAll || d <= decade);
+      c.classList.toggle('recent', !showAll && d <= decade && d > decade - 30);
     });
     decadeOut.textContent = showAll ? 'all years' : decade + 's';
     var fresh = arcs.filter(function(p){ return +p.dataset.d === decade; }).length;
@@ -286,4 +299,4 @@
   
 </div>
 
-<!-- built from family.db - b6d73b66d75f -->
+<!-- built from family.db - 6a4d4ee65293 -->
