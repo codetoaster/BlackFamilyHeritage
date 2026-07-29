@@ -3346,6 +3346,12 @@
 1 NOTE Confirmed father of Francis (Frank) Conner from Frank's 1928 death certificate, corroborated by the 1860 Gilbert-Elizabeth-Pinkney-Francis household. The 1880 census explicitly calls Gilbert the fathe
 1 FAMS @F9@
 1 SOUR @S135@
+1 SOUR @S423@
+1 SOUR @S426@
+1 SOUR @S429@
+1 SOUR @S430@
+1 SOUR @S431@
+1 SOUR @S432@
 0 @I272@ INDI
 1 NAME Jemima /Evitt/
 1 SEX F
@@ -6633,4 +6639,44 @@
 1 TITL 1850 United States census population schedule — the Conner households of Bills Creek district, Rutherford County, North Carolina
 1 REPO National Archives population schedule via the Internet Archive
 1 NOTE Bills Creek and adjacent Mountain Creek/Montford Cove neighborhood, enumerated 14-19 September 1850 by Wm Shipp; dwellings 1369-1543; NARA M432 reel 644, Internet Archive item populationschedu0644unix, leaves 196-213
+0 @S423@ SOUR
+1 TITL Rutherford County Court minutes — Israel Robertson estate, widow Susannah, 1824-1826
+1 REPO Rutherford County Court minutes via FamilySearch
+1 NOTE Administration, April 1824, https://www.familysearch.org/ark:/61903/3:1:3QS7-99GD-X94Y; one-year support, https://www.familysearch.org/ark:/61903/3:1:3QS7-99GD-X9HC; estate sale, https://www.familysearch.org/ark:/61903/3:1:3QS7-99GD-XVV; dower approval, https://www.familysearch.org/ark:/61903/3:1:3QS7-99GD-XKT; settlement, https://www.familysearch.org/ark:/61903/3:1:3QS7-99GD-X94Z
+0 @S424@ SOUR
+1 TITL 1830 United States census — Gilbert Conner household, Rutherford County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE Manuscript page 446; FamilySearch record XHP6-97T; https://www.familysearch.org/ark:/61903/3:1:33S7-9YTB-K6P
+0 @S425@ SOUR
+1 TITL Deed of Gilbert and Susannah Conner to George Koone, Rutherford County, 1834, recorded 1836
+1 REPO Rutherford County deeds via FamilySearch
+1 NOTE Rutherford County deed book 41-42, pages 297-298, DGS 7517769, frames corresponding to APIDs TH-1961-37023-9968-75 and TH-1942-37023-9572-85; grantor index https://www.familysearch.org/ark:/61903/3:1:3QSQ-G98Q-3DS5
+0 @S426@ SOUR
+1 TITL Rutherford County Court minutes — proof of Gilbert and Susannah Conner deed, March 1836
+1 REPO Rutherford County Court minutes via FamilySearch
+1 NOTE March 1836 court minute; https://www.familysearch.org/ark:/61903/3:1:3QS7-99GD-X98S
+0 @S427@ SOUR
+1 TITL Rutherford sheriff tax-credit return — Gilbert Conner, 1849 tax year
+1 REPO Rutherford County Court minutes via FamilySearch
+1 NOTE Return of removed and insolvent persons from the 1849 tax lists, accounted for in 1850; DGS 007640781, image 593, manuscript pages 402-403; https://www.familysearch.org/ark:/61903/3:1:3QS7-L9GD-N4Q2
+0 @S428@ SOUR
+1 TITL Rutherford sheriff tax-credit return — Gilbert Conner, 1851 tax year
+1 REPO Rutherford County Court minutes via FamilySearch
+1 NOTE Return of removals and insolvents for the 1851 tax year, payable in 1852; DGS 007640780, image 70, manuscript page 121; https://www.familysearch.org/ark:/61903/3:1:3QS7-99GD-FXKX
+0 @S429@ SOUR
+1 TITL 1850 United States census — William Robeson household, Yancey County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE FamilySearch record M4BG-S9T; https://www.familysearch.org/ark:/61903/3:1:S3HY-DY73-1D5
+0 @S430@ SOUR
+1 TITL 1860 United States census — William Robertson household and Susannah Robertson, Yancey County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE South Carolina district, Ledger post office, page 61, dwelling and family 432; FamilySearch record MDD1-K1J; https://www.familysearch.org/ark:/61903/3:1:33SQ-GBSZ-7TN
+0 @S431@ SOUR
+1 TITL Henderson County deeds — Gilbert Conner residence and 180-acre Jay Freeman tract, 1850-1852
+1 REPO Henderson County deeds via FamilySearch
+1 NOTE Henderson County grantor index, DGS 7513550 frame 149, APID TH-1971-37005-15946-32; deed dated 10 June 1850, DGS 7513553 frames 560-561, APIDs TH-1961-37006-7148-5 and TH-1942-37006-6782-91; deed of trust dated 31 March 1852, DGS 7513554 frame 11, APID TH-1951-37027-4142-30; catalog https://www.familysearch.org/search/catalog/332793
+0 @S432@ SOUR
+1 TITL Marriage bond of Bush R. Conner and Masey Conner, Haywood County, 1832
+1 REPO Haywood County marriage bonds via FamilySearch
+1 NOTE Bond dated 23 July 1832; https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSC3-D2LJ
 0 TRLR
