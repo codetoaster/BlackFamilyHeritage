@@ -305,7 +305,7 @@
 1 DEAT
 2 DATE 11 Dec 1928
 1 OCCU Farmer (Mountain twp 1900)
-1 NOTE CONFIRMED father of Alec. 1880 ED 102 dw 55: 'Frank Cunner' 25, wife 'Cordine A.' 22, son Cilvestus (Sylvester) 1. NOTE: 1900 wife is Margrett (m. ~1877, so likely the same woman — 'Cordine' may be a
+1 NOTE Father of Alexander Vance Connor, confirmed by the 1900 household and Ellic Vance's death certificate. The 1860 Rutherford census records Francis, age three, with Gilbert and Elizabeth Conner. The 191
 1 FAMC @F9@
 1 FAMS @F7@
 1 SOUR @S9@
@@ -314,7 +314,6 @@
 1 SOUR @S81@
 0 @I25@ INDI
 1 NAME Margaret Caroline /Cope/
-2 NICK Cordine
 1 SEX F
 1 BIRT
 2 DATE 5 Feb 1862
@@ -323,7 +322,7 @@
 2 DATE 13 May 1907
 1 BURI
 2 PLAC Tuckasegee, Jackson Co, NC
-1 NOTE Maiden name Cope, confirmed by the full death certificate of son Alec and corroborating child records. b. Feb 1862/63 NC. Married Francis ~1877 (both marked M-23 in 1900, zoom-verified). = the wife re
+1 NOTE Margaret Caroline Cope, born about February 1862/63 in North Carolina, married Francis Conner about 1877. The original 1880 schedule records Frank's wife as Caroline A., age 22; the 1900 schedule reco
 1 FAMC @F130@
 1 FAMS @F7@
 1 SOUR @S9@
@@ -405,13 +404,14 @@
 1 SOUR @S219@
 1 SOUR @S221@
 1 SOUR @S223@
+1 SOUR @S350@
 0 @I30@ INDI
 1 NAME Elizabeth /Griggs/
 1 SEX F
 1 BIRT
 2 DATE abt 1821
 2 PLAC North Carolina
-1 NOTE Frank Connor's widowed mother, living in his household 1910 (age blank). 10 children born, 9 living. = 4th-great-grandmother of the user. Husband (Alec's grandfather) died before 1910; find in 1880 ce
+1 NOTE Confirmed mother of Francis (Frank) Conner. The original 1910 Jackson County census explicitly records widowed Elizabeth Connor as Frank's mother and says she had ten children, nine living. The 1860 R
 1 FAMS @F9@
 1 SOUR @S11@
 1 SOUR @S135@
@@ -626,7 +626,7 @@
 2 PLAC South Carolina
 1 DEAT
 2 DATE 9 Dec 1892
-1 NOTE Banister's wife in 1880; died before his 1894 remarriage. Probable grandmother of Emma Molly Adams. | 2026-07-08 Name corrected Lucinda -> CLARINDA (census 1870/1880 'Clarinda'/'Cerinda', b.~1831 SC).
+1 NOTE Wife of Banister Adams and mother of their children. Her grave gives the name Clara Evitt and dates 7 October 1834-9 December 1892; the 1850 census records Clarinda, age 20 and born South Carolina, in
 1 FAMC @F136@
 1 FAMS @F14@
 1 SOUR @S14@
@@ -667,6 +667,7 @@
 1 SOUR @S72@
 1 SOUR @S76@
 1 SOUR @S83@
+1 SOUR @S370@
 0 @I53@ INDI
 1 NAME Lucretia Elon /Hancock/
 1 SEX F
@@ -700,6 +701,7 @@
 1 SOUR @S36@
 1 SOUR @S66@
 1 SOUR @S76@
+1 SOUR @S287@
 0 @I55@ INDI
 1 NAME Florence /Clements/
 1 SEX F
@@ -771,6 +773,7 @@
 1 SOUR @S173@
 1 SOUR @S222@
 1 SOUR @S223@
+1 SOUR @S406@
 0 @I60@ INDI
 1 NAME John Burruss /Norton/
 1 SEX M
@@ -819,7 +822,7 @@
 1 DEAT
 2 DATE 1 Sep 1869
 2 PLAC Cove, Haywood Co, NC
-1 NOTE Father of Rodric Norton; Norton-community namesake patriarch. Family in Pickens District SC until ~1821, then Cashiers country. PROBABLE 1860 census match: 'B. Norton, 88, farmer, $300/$50, b. SC' — J
+1 NOTE Father of Rodric Norton and early Whiteside Cove settler. The 1829 Pickens District real-estate proceeding and newspaper notice place Barak among the legatees of William Norton's estate, supporting Wi
 1 FAMC @F42@
 1 FAMS @F25@
 1 SOUR @S32@
@@ -827,6 +830,8 @@
 1 SOUR @S76@
 1 SOUR @S84@
 1 SOUR @S109@
+1 SOUR @S404@
+1 SOUR @S406@
 0 @I64@ INDI
 1 NAME Mary B. /Nicholson/
 1 SEX F
@@ -842,6 +847,7 @@
 1 SOUR @S32@
 1 SOUR @S71@
 1 SOUR @S109@
+1 SOUR @S406@
 0 @I65@ INDI
 1 NAME Walter Neal /Burrell/
 1 SEX M
@@ -883,23 +889,22 @@
 2 PLAC Greenville District, SC
 1 DEAT
 2 DATE bef Nov 1850 (last tallied 1830; window 1830-1850)
-1 NOTE PROBABLE mother of Drucilla; maiden name PRUITT now corroborated by the Enos Hooper letter to Bright Burrell ('Feebe Burrell the onley Lawful heir Grand father Prewet had') - a family letter in a lega
+1 NOTE Phoebe Pruitt is a probable daughter/legal heir of Michael Pruitt. Two independent compilations name the relationship; Enos Hooper's paired family-letter transcripts say Feebe Burrell was Grandfather
 1 FAMC @FR1@
 1 FAMS @F26@
 1 SOUR @S32@
 1 SOUR @S37@
 1 SOUR @S69@
 1 SOUR @S75@
-1 SOUR @S99@
 1 SOUR @S104@
 1 SOUR @S114@
-1 SOUR @S158@
 1 SOUR @S162@
 1 SOUR @S163@
 1 SOUR @S165@
 1 SOUR @S167@
 1 SOUR @S174@
 1 SOUR @S175@
+1 SOUR @S347@
 0 @I67@ INDI
 1 NAME Richard Jackson /Holden/
 1 SEX M
@@ -913,7 +918,6 @@
 1 FAMC @F96@
 1 FAMS @F27@
 1 SOUR @S32@
-1 SOUR @S88@
 1 SOUR @S112@
 1 SOUR @S122@
 1 SOUR @S206@
@@ -977,12 +981,15 @@
 1 NAME Vernon E. /Black/
 1 SEX M
 1 BIRT
-2 DATE Jan 1880
+2 DATE 5 Jan 1880
 2 PLAC South Carolina
 1 NOTE Son of John L. & Mollie J. Black. 1880: age 5/12, b. Jan 1880 (unambiguous fractional age) — the 1900 schedule's 'Jan 1870, 30' was an enumerator/reading error for 1880/20. Eugene Pickens Sr.'s full b
 1 FAMC @F29@
 1 SOUR @S36@
 1 SOUR @S38@
+1 SOUR @S275@
+1 SOUR @S282@
+1 SOUR @S287@
 0 @I76@ INDI
 1 NAME James C. /Black/
 1 SEX M
@@ -1015,16 +1022,21 @@
 1 SOUR @S37@
 1 SOUR @S96@
 0 @I80@ INDI
-1 NAME Mollie J. /(Black, first wife)/
+1 NAME Mary E. /Black/
+2 NICK Mollie
 1 SEX F
 1 BIRT
 2 DATE abt 1852
 2 PLAC South Carolina
 1 DEAT
 2 DATE bef 1897
-1 NOTE John Laurens Black's FIRST wife (1850/1860 as the mother in James W.'s... no — she is JOHN L.'s wife: 1880 Abbeville dw 201, 'Mollie J.' 28, mother of Vernon E. (b.1880) and Eugene Pickens (b.1881). D
+1 NOTE Mary E. Black, the Antreville bride who married John L. Black on 13 Feb 1879, is the Mollie J. of his 1880 household and a daughter of Joseph Ramsay Black and Catharine/Charlotte C. Cobb. A 1902 reuni
+1 FAMC @F157@
 1 FAMS @F29@
 1 SOUR @S38@
+1 SOUR @S274@
+1 SOUR @S275@
+1 SOUR @S287@
 0 @I81@ INDI
 1 NAME James William /Black/
 1 SEX M
@@ -1049,6 +1061,7 @@
 1 SOUR @S66@
 1 SOUR @S146@
 1 SOUR @S204@
+1 SOUR @S416@
 0 @I82@ INDI
 1 NAME Wesley Alexander /Black/
 1 SEX M
@@ -1185,6 +1198,8 @@
 1 SOUR @S49@
 1 SOUR @S66@
 1 SOUR @S109@
+1 SOUR @S288@
+1 SOUR @S289@
 0 @I101@ INDI
 1 NAME Elizabeth /Brownlee/
 1 SEX F
@@ -1202,7 +1217,6 @@
 1 SOUR @S46@
 1 SOUR @S47@
 1 SOUR @S66@
-1 SOUR @S89@
 1 SOUR @S94@
 0 @I102@ INDI
 1 NAME Eliza A. /Black/
@@ -1217,6 +1231,7 @@
 1 SOUR @S46@
 1 SOUR @S49@
 1 SOUR @S50@
+1 SOUR @S187@
 0 @I103@ INDI
 1 NAME Joseph Ramsay /Black/
 1 SEX M
@@ -1225,12 +1240,14 @@
 2 PLAC South Carolina
 1 DEAT
 2 DATE 1891
-1 NOTE Son of Elizabeth Black, living 1867; in the maintenance trust with brother James W. James W.'s brother. [FAG: = JOSEPH RAMSEY Black (FAG); m. 1st Catherine Cobb, 2nd Mary Tribble.] | 2026-07-07 CWSS c
+1 NOTE Son of Elizabeth Black, living 1867; in the maintenance trust with brother James W. James W.'s brother. [FAG: = JOSEPH RAMSEY Black (FAG); m. 1st Catharine/Charlotte C. Cobb, 2nd Margaret Tribble.] |
 1 FAMC @F34@
+1 FAMS @F157@
 1 SOUR @S47@
 1 SOUR @S49@
 1 SOUR @S50@
 1 SOUR @S63@
+1 SOUR @S187@
 0 @I104@ INDI
 1 NAME John C. /Black/
 1 SEX M
@@ -1240,6 +1257,7 @@
 1 FAMC @F34@
 1 SOUR @S47@
 1 SOUR @S49@
+1 SOUR @S187@
 0 @I105@ INDI
 1 NAME Dr. William P. /Black/
 1 SEX M
@@ -1254,6 +1272,7 @@
 1 SOUR @S49@
 1 SOUR @S50@
 1 SOUR @S109@
+1 SOUR @S187@
 0 @I106@ INDI
 1 NAME Mary /Black/
 1 SEX F
@@ -1263,6 +1282,7 @@
 1 FAMC @F34@
 1 SOUR @S47@
 1 SOUR @S49@
+1 SOUR @S187@
 0 @I107@ INDI
 1 NAME Sarah L. /Black/
 1 SEX F
@@ -1271,6 +1291,7 @@
 1 NOTE Daughter of Elizabeth Black; wife of A. Milton BLAKE. James W.'s sister.
 1 FAMC @F34@
 1 SOUR @S47@
+1 SOUR @S187@
 0 @I108@ INDI
 1 NAME James Augustus /Black/
 1 SEX M
@@ -1289,7 +1310,6 @@
 1 FAMS @F35@
 1 SOUR @S48@
 1 SOUR @S66@
-1 SOUR @S89@
 1 SOUR @S94@
 0 @I110@ INDI
 1 NAME Joseph Augustus /Black/
@@ -1315,6 +1335,11 @@
 1 SOUR @S66@
 1 SOUR @S82@
 1 SOUR @S109@
+1 SOUR @S288@
+1 SOUR @S289@
+1 SOUR @S290@
+1 SOUR @S291@
+1 SOUR @S295@
 0 @I111@ INDI
 1 NAME Mary /Burnett/
 1 SEX F
@@ -1323,7 +1348,6 @@
 1 DEAT
 2 DATE 31 Aug 1845
 1 NOTE MARY BURNETT, 1766-1845 (Find A Grave); wife of Joseph Augustus Black. Her surname Burnett passed as the middle name of son John Burnette Black. 5th-great-grandmother. Burnett family of the Abbeville/
-1 FAMC @F47@
 1 FAMS @F36@
 1 SOUR @S49@
 1 SOUR @S50@
@@ -1362,6 +1386,7 @@
 1 SOUR @S49@
 1 SOUR @S50@
 1 SOUR @S109@
+1 SOUR @S187@
 0 @I115@ INDI
 1 NAME Martha A. /Black/
 1 SEX F
@@ -1444,7 +1469,6 @@
 2 PLAC Mecklenburg Co, NC (bur. Old Rocky River Graveyard, Concord, Cabarrus Co NC)
 1 OCCU Farmer; Revolutionary War militia (Salisbury District, NC)
 1 NOTE JAMES (THOMAS) BLACK, d. ~1818 — user's 6th-great-grandfather via Joseph Augustus Black. **CONFIDENCE DOWNGRADED confirmed->PROBABLE (2026-07-07 review): the record rests on Find A Grave + FamilySearc
-1 FAMC @F40@
 1 FAMS @F38@
 1 SOUR @S51@
 1 SOUR @S52@
@@ -1455,6 +1479,10 @@
 1 SOUR @S62@
 1 SOUR @S66@
 1 SOUR @S109@
+1 SOUR @S292@
+1 SOUR @S293@
+1 SOUR @S294@
+1 SOUR @S295@
 0 @I122@ INDI
 1 NAME Samuel /Black/
 1 SEX M
@@ -1506,15 +1534,17 @@
 1 SOUR @S55@
 1 SOUR @S56@
 0 @I128@ INDI
-1 NAME Elizabeth /Russell/
+1 NAME Elizabeth /Rogers/
 1 SEX F
-1 NOTE LEADING candidate for the wife of James (Thomas) Black / mother of Joseph Augustus Black. Named as Joseph's mother in SAR app #571039 (1928): 'Elizabeth Russell.' Corroborated by the 'David Russell pa
+1 NOTE ELIZABETH ROGERS, wife of James Black and mother of Joseph Augustus Black by documented indirect proof. The 1896 published translation of Rev. John Casper Stoever's contemporary register records James
 1 FAMS @F38@
 1 SOUR @S58@
 1 SOUR @S59@
 1 SOUR @S61@
 1 SOUR @S62@
 1 SOUR @S73@
+1 SOUR @S292@
+1 SOUR @S295@
 0 @I129@ INDI
 1 NAME Samuel Russell /Black/
 1 SEX M
@@ -1543,6 +1573,15 @@
 1 NOTE Father of Barak Pickeral Norton (WikiTree). b.1740 Virginia — the first American-born Norton generation. | 2026-07-08 Son of Edward Norton the immigrant (named 'William' in Edward's will + a 1762 Quak
 1 FAMC @F43@
 1 FAMS @F42@
+1 FAMS @FR10@
+1 FAMS @FR11@
+1 FAMS @FR12@
+1 FAMS @FR13@
+1 FAMS @FR5@
+1 FAMS @FR6@
+1 FAMS @FR7@
+1 FAMS @FR8@
+1 FAMS @FR9@
 1 SOUR @S64@
 1 SOUR @S84@
 1 SOUR @S92@
@@ -1595,11 +1634,12 @@
 1 DEAT
 2 DATE 12 Jun 1798
 2 PLAC Abbeville District, SC
-1 NOTE BROWNLEE IMMIGRANT (WikiTree): b.1724 ARMAGH, ULSTER, IRELAND -> d. Abbeville SC. Scots-Irish (ARP Covenanter, Due West). Arrived ~1730s-40s. Deeper WikiTree line runs to Peeblesshire & Midlothian, SC
+1 NOTE Probable identity of the 32-year-old James Brownlee in Revill's published transcription of the February 1768 South Carolina Council Journal list. A 4 March 1768 colonial plat places a same-name man on
 1 FAMS @F46@
 1 SOUR @S64@
 1 SOUR @S66@
 1 SOUR @S89@
+1 SOUR @S401@
 0 @I136@ INDI
 1 NAME Thomas /Pruitt (immigrant, 1616)/
 1 SEX M
@@ -1625,17 +1665,10 @@
 1 SOUR @S64@
 1 SOUR @S86@
 0 @I138@ INDI
-1 NAME William Patrick /Burnett (b.1739)/
+1 NAME William /Burnett/
 1 SEX M
-1 BIRT
-2 DATE 1739
-2 PLAC Virginia (probably; 'Talbot Co MD' is likely a misread of a 1738 MARRIAGE place)
-1 DEAT
-2 PLAC Hanover, Virginia
-1 NOTE Father of Mary Burnett (WikiTree). b.1739 TALBOT CO, MARYLAND — American-born; the Burnett immigrant is deeper & unidentified (English/Scottish -> Maryland tidewater, pre-1739). | 2026-07-07 CORRECTIO
-1 FAMS @F47@
-1 SOUR @S64@
-1 SOUR @S73@
+1 NOTE Historical tree-conflation candidate retained for audit only. WikiTree Burnett-1805 was imported from an Ancestry member tree, is explicitly unsourced, and says the source phrase was 'William of Patri
+1 SOUR @S390@
 0 @I139@ INDI
 1 NAME Elizabeth /Bright/
 1 SEX F
@@ -2149,7 +2182,7 @@
 2 PLAC North Carolina
 1 DEAT
 2 PLAC North Carolina
-1 NOTE Father of Francis Conner (WikiTree Conner-2771). b.1802 NC. [speculative]
+1 NOTE DETACHED 2026-07-28. This person is a superseded duplicate and is NOT connected to this family. The claim that he fathered Francis Conner came from WikiTree Conner-2771 and was REJECTED (relationship
 1 FAMC @F94@
 1 FAMS @F93@
 1 SOUR @S68@
@@ -2160,7 +2193,7 @@
 2 DATE abt 1754
 1 DEAT
 2 PLAC North Carolina
-1 NOTE Father of Gilbert Conner (WikiTree). ~1754 NC. The deepest reachable Conner on WikiTree — the immigrant is beyond it. [speculative]
+1 NOTE DETACHED 2026-07-28. NOT connected to this family. He was entered from WikiTree as the father of Gilbert Conner (person 184), and person 184's own link to Francis Conner has since been rejected, so th
 1 FAMS @F94@
 1 SOUR @S68@
 0 @I186@ INDI
@@ -2171,7 +2204,7 @@
 2 PLAC North Carolina
 1 DEAT
 2 PLAC Rutherford Co, NC
-1 NOTE Wife of James Conner / mother of Gilbert (WikiTree). [speculative]
+1 NOTE DETACHED 2026-07-28. NOT connected to this family. Entered from WikiTree as the wife of James Conner (person 185) and mother of the superseded Gilbert (person 184), whose link to Francis Conner was re
 1 FAMS @F94@
 1 SOUR @S68@
 0 @I187@ INDI
@@ -2184,6 +2217,13 @@
 2 PLAC Pendleton District, SC (Cornhouse Mill Creek, West Fork Little River)
 1 NOTE Father of Mary B. Nicholson; well-attested (NC Civil War Center 'Grandmother Norton' article, FindAGrave 102271081, Geni, WikiTree Nicholson-327). Among the first European settlers of Pendleton Distri
 1 FAMS @F95@
+1 FAMS @FR14@
+1 FAMS @FR15@
+1 FAMS @FR16@
+1 FAMS @FR17@
+1 FAMS @FR18@
+1 FAMS @FR19@
+1 FAMS @FR20@
 1 SOUR @S71@
 1 SOUR @S87@
 1 SOUR @S91@
@@ -2204,7 +2244,7 @@
 1 DEAT
 2 DATE 6 Aug 1842
 2 PLAC Habersham Co, GA
-1 NOTE Father of Mary J. Holden (David Norton's 1st wife) and Richard Jackson Holden (per WikiTree Holden-394 structure — not yet primary-verified; confirm via a Habersham/Rabun GA estate or Bible). Chatham
+1 NOTE Proposed father of Richard Jackson Holden, not father of Mary J. Holden; Mary is Richard Jackson's daughter and the legacy direct 189-to-62 parent edge is rejected. The 189-to-67 hypothesis is not pri
 1 FAMC @F97@
 1 FAMS @F96@
 1 SOUR @S71@
@@ -2323,6 +2363,8 @@
 1 SOUR @S110@
 1 SOUR @S115@
 1 SOUR @S118@
+1 SOUR @S363@
+1 SOUR @S369@
 0 @I197@ INDI
 1 NAME Dorcas /Love/
 1 SEX F
@@ -2336,6 +2378,9 @@
 1 SOUR @S102@
 1 SOUR @S106@
 1 SOUR @S115@
+1 SOUR @S369@
+1 SOUR @S370@
+1 SOUR @S373@
 0 @I198@ INDI
 1 NAME Elizabeth /Brown/
 1 SEX F
@@ -2382,7 +2427,7 @@
 1 DEAT
 2 DATE 1820s
 2 PLAC Franklin Co, GA
-1 NOTE Davis #6/#71. m. Margaret Wilson. Father of James (b.1792). (This is the 'William Henry Billingsley 1762' of the FS lead — confirmed via Davis.)
+1 NOTE Davis no. 71 gives William's birth in Randolph County in September 1762, names Margaret Wilson as his wife, and lists James (born December 1792) as a child. Its pedigree names Henry as William's fathe
 1 FAMC @F106@
 1 FAMS @F105@
 1 FAMS @F107@
@@ -2396,13 +2441,13 @@
 1 DEAT
 2 DATE abt 1804
 2 PLAC Franklin Co, GA
-1 NOTE Davis #5. Wife Sarah (Allen?). Father of William (b.1762).
+1 NOTE Davis no. 71 explicitly pedigrees William (born 1762) as Henry's son, but the entry cites no contemporary record for the assertion. The legacy identification of Henry's wife as Sarah (Allen?) remains
 1 FAMS @F106@
 1 SOUR @S86@
 0 @I204@ INDI
 1 NAME Margaret /Wilson/
 1 SEX F
-1 NOTE Wife of William Billingsley (b.1762); later m. Jacob Weems. Davis.
+1 NOTE Davis no. 71 names Margaret Wilson as William Billingsley's wife before listing James among their children. The authored genealogy cites no original for the marriage or maternity. The reported later m
 1 FAMS @F107@
 1 SOUR @S86@
 0 @I205@ INDI
@@ -2421,19 +2466,22 @@
 2 DATE Dec 1792
 2 PLAC Pendleton District, SC
 1 DEAT
-2 DATE 1861/1869
+2 DATE Dec 1869
 2 PLAC Rabun Co, GA
-1 NOTE Davis #7/#183 = FATHER OF NANCY ANN (id 68). Davis lists his daughter as 'Mary A. b.1823 SC, m. a Holden, resided Rabun Co GA, dau. Mary J. Holden b.1841' — an exact match for our Nancy Ann + Mary J.
+1 NOTE Davis nos. 71 and 183 explicitly pedigree James as William's son and list him among William and Margaret Wilson's children, but cite no original. Davis calls James's wife Martha Ginshaw, while a publi
 1 FAMC @F107@
 1 FAMS @F108@
 1 SOUR @S86@
+1 SOUR @S402@
+1 SOUR @S403@
 0 @I207@ INDI
-1 NAME Sarah /Langston/
+1 NAME Sarah //
 1 SEX F
-1 NOTE Wife of Richard Holden (b.1777); mother of Richard Jackson Holden. Holden DNA Project / documented lineages.
+1 NOTE Proposed wife of Richard Holden born 1777 and proposed mother of Richard Jackson Holden. Don C. Holden's authored genealogy is accessible only through a catalog description, which calls her Sarah Lang
 1 FAMS @F96@
-1 SOUR @S88@
-1 SOUR @S112@
+1 SOUR @S379@
+1 SOUR @S380@
+1 SOUR @S381@
 0 @I208@ INDI
 1 NAME Mary /Cowan/
 1 SEX F
@@ -2441,19 +2489,20 @@
 2 DATE abt 1765
 1 DEAT
 2 DATE 1839
-1 NOTE Wife of William Brownlee (b.1770); mother of Elizabeth Brownlee. Her own will: Abbeville Box 13 Pkg 263. | 2026-07-08 CONFIRMED as William Brownlee's wife: his 1833 will names 'my dearly beloved wife
+1 NOTE Wife of William Brownlee and daughter of Andrew Cowan. Andrew's 1786 will names daughter Mary; John Cowan's 1804 will calls William Brownlee a brother-in-law; David H. Hathorn's 1815 estate identifies
 1 FAMC @F117@
 1 FAMS @F35@
-1 SOUR @S89@
 1 SOUR @S94@
 1 SOUR @S113@
 1 SOUR @S120@
+1 SOUR @S284@
+1 SOUR @S285@
+1 SOUR @S386@
 0 @I209@ INDI
 1 NAME Sarah /Trimble/
 1 SEX F
 1 NOTE Wife of the immigrant James Brownlee; mother of William Brownlee (b.1770).
 1 FAMS @F46@
-1 SOUR @S89@
 0 @I210@ INDI
 1 NAME Thomas /Holden (c.1694)/
 1 SEX M
@@ -2602,6 +2651,7 @@
 1 SOUR @S162@
 1 SOUR @S165@
 1 SOUR @S172@
+1 SOUR @S358@
 0 @I221@ INDI
 1 NAME Col. Thomas (Jr.) /Dillard/
 1 SEX M
@@ -2620,6 +2670,9 @@
 1 SOUR @S110@
 1 SOUR @S115@
 1 SOUR @S118@
+1 SOUR @S362@
+1 SOUR @S363@
+1 SOUR @S375@
 0 @I222@ INDI
 1 NAME Martha /Webb/
 1 SEX F
@@ -2630,6 +2683,8 @@
 1 FAMS @F112@
 1 SOUR @S101@
 1 SOUR @S102@
+1 SOUR @S371@
+1 SOUR @S372@
 0 @I223@ INDI
 1 NAME Thomas (Sr.) /Dillard/
 1 SEX M
@@ -2644,23 +2699,23 @@
 1 FAMS @F113@
 1 SOUR @S101@
 1 SOUR @S105@
+1 SOUR @S362@
 0 @I224@ INDI
 1 NAME Winifred /Nalle/
 1 SEX F
 1 BIRT
 2 DATE abt 1710
-1 NOTE Recorded wife of Thomas Dillard Sr.; identity rests on compiled/WikiTree sources only -> SPECULATIVE pending primary VA records. Evidence is COMPILED/secondary (Love-family notes + corroborating sheet
+1 NOTE Proposed mother of Col. Thomas Dillard Jr. Dorman's visually inspected 1961 abstract of Essex WBI 4:301 records Thomas and Winifred Dillard together on 11 July 1729, defeating a newer derivative infer
 1 FAMS @F113@
 1 SOUR @S101@
+1 SOUR @S375@
+1 SOUR @S396@
 0 @I225@ INDI
 1 NAME Edward /Dillard/
 1 SEX M
 1 BIRT
 2 DATE abt 1680
-1 DEAT
-2 DATE abt 1770
-2 PLAC Pittsylvania Co., Virginia
-1 NOTE Deep progenitor claim -- proposed father of Thomas Dillard Sr. SPECULATIVE (compiled only; the 'colonial VA George/Edward Dillard' layer is unverified). Evidence is COMPILED/secondary (Love-family not
+1 NOTE Proposed deep progenitor and possible father of Thomas Dillard Sr. This row represents the elder Edward recorded with 150 acres on the 1704 King and Queen County quit-rent roll and possibly the Edward
 1 FAMS @F114@
 1 SOUR @S101@
 0 @I226@ INDI
@@ -2670,22 +2725,24 @@
 2 DATE abt 1728
 2 PLAC Virginia
 1 DEAT
-2 DATE after 1816
+2 DATE 10 Nov 1804 (reported)
 2 PLAC Knox Co., Tennessee
-1 NOTE Father of Dorcas Love (id 197); brother of Samuel Love; married Mary Taze. Children incl. Ester (m. William Steele 1788), Polly (m. 'Stuttering Bill' Calhoun), a son k. at King's Mountain, William (k.
+1 NOTE Probable father of Dorcas Love and husband of Mary Teas/Taze. Authored Love histories directly name Dorcas as their child, but no located original record does. Robert A. Love's 1959 publication report
 1 FAMS @F115@
 1 SOUR @S101@
 1 SOUR @S106@
 1 SOUR @S110@
 1 SOUR @S115@
+1 SOUR @S373@
 0 @I227@ INDI
 1 NAME Mary /Taze/
 1 SEX F
 1 BIRT
 2 DATE abt 1730
-1 NOTE Wife of Joseph Love, mother of Dorcas Love (id 197). Maiden surname rendered Taze / Tase / Teas across the sheets (uncertain spelling). PROBABLE. Evidence is COMPILED/secondary (Love-family notes + co
+1 NOTE Wife of Joseph Love; probable mother of Dorcas Love (id 197). Maiden surname rendered Taze / Tase / Teas across the sheets (uncertain spelling). PROBABLE. Evidence is COMPILED/secondary (Love-family n
 1 FAMS @F115@
 1 SOUR @S101@
+1 SOUR @S374@
 0 @I228@ INDI
 1 NAME Michael /Pruitt/
 1 SEX M
@@ -2693,15 +2750,21 @@
 2 DATE abt 1750
 2 PLAC Virginia
 1 DEAT
-2 DATE after 1813
+2 DATE after 9 Jan 1813; probably bef 2 Dec 1830
 2 PLAC Greenville District, South Carolina
-1 NOTE Father of Phoebe Pruitt (id 66) per the Douglass genealogy AND the independent Walter Burrell <-> Michael Pruitt joint-land pattern (father-in-law/son-in-law). Independently documented: Halifax Co VA
+1 NOTE Michael Pruitt is independently documented in Virginia and Greenville land records. He is Phoebe's probable father through two independent compilations plus Enos Hooper's paired Pruitt-heirship transc
 1 FAMC @F118@
 1 FAMS @F48@
 1 FAMS @FR1@
 1 SOUR @S104@
 1 SOUR @S114@
 1 SOUR @S175@
+1 SOUR @S347@
+1 SOUR @S348@
+1 SOUR @S349@
+1 SOUR @S359@
+1 SOUR @S360@
+1 SOUR @S361@
 0 @I229@ INDI
 1 NAME David /Pruitt/
 1 SEX M
@@ -2713,20 +2776,23 @@
 1 SOUR @S104@
 1 SOUR @S114@
 0 @I230@ INDI
-1 NAME Andrew Mathew /Cowan/
+1 NAME Andrew /Cowan/
 1 SEX M
 1 DEAT
 2 DATE 1789
 2 PLAC Abbeville / 96 District, South Carolina
-1 NOTE Father of Mary (Cowan) Brownlee (id 208); Abbeville SC probate Box 18 Pkg 388 (d.1789). Wife Ann Moore; son Capt. John Cowan (d.1805, will Box 105 Pkg 2749). PROBABLE (compiled genealogy double-verifi
+1 NOTE Original 1786 will and 1789 probate establish Andrew Cowan of Abbeville and name wife Ann and children John, William, Isaac, Mary, Elizabeth, Ann, and Leaney. Identity of daughter Mary with Mary Cowan
 1 FAMS @F117@
 1 SOUR @S113@
+1 SOUR @S284@
 0 @I231@ INDI
 1 NAME Ann /Moore/
 1 SEX F
-1 NOTE Wife of Andrew Mathew Cowan; mother of Mary (Cowan) Brownlee (id 208). PROBABLE (same compiled, double-verified source). [2026-07-09 Cowan walk-up]
+1 NOTE Original wills identify her only as Ann Cowan: Andrew's wife in 1786 and John's mother in 1804. The birth surname Moore is a compiled lead not verified by these originals. Her maternity of Mary remain
 1 FAMS @F117@
 1 SOUR @S113@
+1 SOUR @S284@
+1 SOUR @S285@
 0 @I232@ INDI
 1 NAME Thomas /Pruitt/
 2 NICK Sr.
@@ -2746,10 +2812,11 @@
 0 @I234@ INDI
 1 NAME Tobias /Bright/
 1 SEX M
-1 NOTE Father of Elizabeth Bright (139); documented father-in-law of Michael Pruitt (228) -- Michael's 1772 Old Craven 300-ac grant 'delivered to Tobias Bryght', and in 1799 Tobias Bright sold 50 ac of Micha
+1 NOTE Compiled father of Elizabeth Bright (139), not yet documented. Richard A. Prewitt states the relationship, but original Spartanburg Book 1K:515-516 only shows Tobias selling land derived from Michael
 1 FAMS @F49@
 1 FAMS @FR2@
 1 SOUR @S114@
+1 SOUR @S359@
 0 @I235@ INDI
 1 NAME John David /Hancock/
 1 SEX M
@@ -2943,7 +3010,7 @@
 1 BIRT
 2 DATE abt 1841
 2 PLAC North Carolina
-1 NOTE Wife of Reuben Hancock, mother of Burrell Franklin Hancock (1880 census, Hill Twp Montgomery Co). Maiden name not yet found. | AGENT 2026-07-12: maiden name PROBABLY FREEMAN (FS tree K8WL-DH5 unsource
+1 NOTE Confirmed wife of Reuben Hancock and mother of Burrell Franklin Hancock. Her birth surname was Thomas: she married Noah Freeman in 1857, appears as Elizabeth Freeman in 1860, and married Reuben Hancoc
 1 FAMC @F146@
 1 FAMS @F123@
 1 FAMS @F147@
@@ -3070,12 +3137,12 @@
 1 SOUR @S134@
 1 SOUR @S148@
 0 @I255@ INDI
-1 NAME John /Sedberry/
+1 NAME John B. /Sedberry/
 1 SEX M
 1 BIRT
 2 DATE abt 1813
 2 PLAC North Carolina
-1 NOTE John Sedberry, born about 1813, lived with wife Jemima and their children in Montgomery County in 1850 and 1860. Daughter Charlotte is documented by census and marriage records. An older Elizabeth Sed
+1 NOTE John B. Sedberry, born about 1813, lived with wife Jemima and their children in Montgomery County in 1850 and 1860. His 1882 will directly names Charlotte Haywood, wife of Solomon Haywood, as his daug
 1 FAMC @F140@
 1 FAMS @F128@
 1 SOUR @S130@
@@ -3083,16 +3150,18 @@
 1 SOUR @S143@
 1 SOUR @S193@
 0 @I256@ INDI
-1 NAME Mirna /Sedberry/
-2 NICK Jemima
+1 NAME Jemima /Pool/
 1 SEX F
 1 BIRT
 2 DATE abt 1826
 2 PLAC North Carolina
-1 NOTE Mother of Charlotte 'Lottie' Ann Sedberry; wife of John Sedberry. Named in daughter's marriage record F8HK-H5N. | AGENT 2026-07-12c: 'Mirna' = JEMIMA Sedberry, b.~1826 NC (1860 census MD6H-MWG). Mothe
+1 NOTE Wife of John B. Sedberry and mother of Charlotte Ann Sedberry. The 1873 partition and 1874 distribution directly identify her as a child of Colwell/Caswell Pool. Colwell's 1857 will names wife Charlot
+1 FAMC @F159@
 1 FAMS @F128@
 1 SOUR @S130@
 1 SOUR @S134@
+1 SOUR @S306@
+1 SOUR @S341@
 0 @I257@ INDI
 1 NAME John H. /Rigdon/
 1 SEX M
@@ -3128,7 +3197,7 @@
 1 BIRT
 2 DATE abt 1838
 2 PLAC North Carolina
-1 NOTE PROBABLE father of Margaret Caroline (Cope) Conner; Webster Twp, Jackson Co NC (1870 census, dau 'M C Cope' b.1863). Wife 'L.J.' Verify via Conner-Cope marriage record. | AGENT 2026-07-12c: CONFIRMED
+1 NOTE Confirmed son of Andrew Cope. Jackson County deed book 11 explicitly lists John among Andrew's children, heirs, and legal representatives and records the other heirs conveying John's partitioned Cope
 1 FAMC @F137@
 1 FAMS @F130@
 1 SOUR @S131@
@@ -3231,7 +3300,7 @@
 2 PLAC Alabama
 1 DEAT
 2 DATE 18 Jul 1895
-1 NOTE Father of Ida Haney (per FS tree, unsourced); Limestone Co AL. Verify via 1880 census. | AGENT 2026-07-12c: CONFIRMED father of Ida (1880 Lauderdale AL census M4JT-6Z6; 1870 Limestone as 'Isaac T Hane
+1 NOTE Father of Ida Haney, confirmed by the 1880 Lauderdale census, Ida's death index, and I. B. Haney estate papers. The 1870 original calls him Isaac T. Haney, age 33, born Tennessee; wife Nancy and the c
 1 FAMC @F143@
 1 FAMS @F134@
 1 SOUR @S133@
@@ -3247,7 +3316,7 @@
 2 PLAC Alabama
 1 DEAT
 2 DATE 2 Jun 1909
-1 NOTE Mother of Ida Haney (per FS tree, unsourced); wife of Isaac Boyd Haney; Limestone Co AL. | AGENT 2026-07-12c: CONFIRMED mother of Ida (1880 census as 'Nancy Haney' b.1847). Maiden 'Legg' still FS-tree
+1 NOTE Wife of Isaac Boyd Haney and mother of Ida Haney. Her chancery pleading states that her maiden name was Legg, records her 1863 marriage, identifies Edward Legg as her father, and enumerates the Haney
 1 FAMC @F142@
 1 FAMS @F134@
 1 SOUR @S133@
@@ -3274,7 +3343,7 @@
 1 BIRT
 2 DATE abt 1810
 2 PLAC North Carolina
-1 NOTE Father of Francis 'Frank' Conner; husband of Elizabeth Griggs; Rutherford Co NC -> Jackson Co (1860 census MD6Q-2VG; Frank's death cert names him).
+1 NOTE Confirmed father of Francis (Frank) Conner from Frank's 1928 death certificate, corroborated by the 1860 Gilbert-Elizabeth-Pinkney-Francis household. The 1880 census explicitly calls Gilbert the fathe
 1 FAMS @F9@
 1 SOUR @S135@
 0 @I272@ INDI
@@ -3283,16 +3352,19 @@
 1 BIRT
 2 DATE abt 1804
 2 PLAC South Carolina
-1 NOTE Mother of Clarinda (Evitt) Adams; widowed by the 1850 Macon Co NC census (M4BD-LQR). Her husband (Clarinda's father) died before 1850, name not yet found.
+1 NOTE Probable mother of Clarinda Evitt by indirect evidence. Clarinda and a name cluster closely matching the 1844 Evitt deed are in Jemima Evat's 1850 household; that census states no relationships. In he
 1 FAMS @F136@
 1 SOUR @S135@
+1 SOUR @S342@
 0 @I273@ INDI
 1 NAME Andrew /Cope/
 1 SEX M
 1 BIRT
 2 DATE abt 1809
 2 PLAC North Carolina
-1 NOTE INFERENTIAL/PROBABLE father of John Cope: 1850 Haywood Co NC census (M4BC-F41) household w/ John Cope b.1838; Jackson Co formed from Haywood 1851. Pre-1850-style inference (ages+geography). | 2026-07-
+1 DEAT
+2 DATE bef 13 Dec 1876
+1 NOTE Confirmed father of John Cope. Jackson County deed book 11 states that Andrew Cope died intestate leaving John and named siblings as his children, heirs, and legal representatives; those heirs conveye
 1 FAMS @F137@
 1 SOUR @S137@
 0 @I274@ INDI
@@ -3301,7 +3373,7 @@
 1 BIRT
 2 DATE abt 1810
 2 PLAC North Carolina
-1 NOTE INFERENTIAL/PROBABLE mother of John Cope (1850 Haywood Co census, wife of Andrew Cope). | 2026-07-14: John Cope->Andrew strengthened to PROBABLE -- 1850 Haywood household + an 1885 Jackson Co deed cro
+1 NOTE Probable mother of John Cope by indirect evidence. The 1850 Haywood census places Anny, age 41, with Andrew, John, and a child-age Cope group whose names overlap Andrew's later documented heirs. The 1
 1 FAMS @F137@
 1 SOUR @S137@
 0 @I275@ INDI
@@ -3310,10 +3382,13 @@
 1 BIRT
 2 DATE abt 1800
 2 PLAC South Carolina
-1 NOTE INFERENTIAL/PROBABLE father of Clarinda (Evitt) Adams; husband of Jemima Evat. Only Evatt head in 1840 Macon Co NC census (XHYZ-GW2); died ~1842-1850 (Jemima widowed by 1850). Eldest son also William.
+1 DEAT
+2 DATE Mar 1865
+1 NOTE Probable father of Clarinda Evitt by indirect evidence. The original 1840 Macon census records William with an adult woman and a large child-age household. His Entry 1481/Grant 381 file and 1843 deed
 1 FAMS @F136@
 1 SOUR @S137@
 1 SOUR @S194@
+1 SOUR @S342@
 0 @I276@ INDI
 1 NAME James /Haywood/
 2 NICK Sr.
@@ -3402,7 +3477,7 @@
 1 BIRT
 2 DATE abt 1826
 2 PLAC South Carolina
-1 NOTE Wife of Edward Legg, mother of Nancy Jane Minerva Legg; 'Ann', 24, b. SC in the 1850 Limestone Co AL census (dw 748). Maiden name possibly ARLEDGE (FamilySearch tree, unsourced). | 2026-07-21 maternal
+1 NOTE Elizabeth Ann Arledge, wife of Edward Legg and mother of Nancy Jane Minerva Legg. A typed Limestone marriage-book abstract records her 1845 marriage to Edward; the 1850 census records Ann with Edward,
 1 FAMS @F142@
 1 SOUR @S149@
 0 @I284@ INDI
@@ -3414,7 +3489,7 @@
 1 DEAT
 2 DATE 1854
 2 PLAC Giles County, Tennessee
-1 NOTE PROBABLE father of Isaac Boyd Haney. Head of a prosperous farming household (real estate $3000), 1850 Giles Co TN census (dw 2, indexed 'Isaac Hayney'), with a son Isaac age 12. Family migrated SC ->
+1 NOTE Probable father of Isaac Boyd Haney. Original 1840 and 1850 Giles County censuses place a compatible male under five and then a named Isaac age 12, born Tennessee, in his household. The 1870 Limestone
 1 FAMS @F143@
 1 SOUR @S150@
 0 @I285@ INDI
@@ -3447,12 +3522,12 @@
 1 FAMS @F145@
 1 SOUR @S152@
 0 @I288@ INDI
-1 NAME Elizabeth Thomas //
+1 NAME Elizabeth /Thomas/
 1 SEX F
 1 BIRT
 2 DATE abt 1800
 2 PLAC North Carolina
-1 NOTE Mother of Elizabeth (Thomas) Freeman-Hancock. Widowed by 1850, living in the John A. Barrat household, Montgomery Co NC (1850 census) with children John A. Thomas (b.~1836) and Elizabeth (b.~1841); la
+1 NOTE Probable mother of the younger Elizabeth Thomas who later used the married surnames Freeman and Hancock. In 1850 the elder Elizabeth, age 60, appears with John A. Thomas, 14, and the younger Elizabeth
 1 FAMS @F146@
 1 SOUR @S155@
 0 @I289@ INDI
@@ -3588,9 +3663,10 @@
 2 PLAC North Carolina
 1 DEAT
 2 DATE bef 1880 (Benjamin widowed, 1880 Tallulah, Rabun Co GA)
-1 NOTE DOCUMENTED Burrell bride: m. Benjamin Holland, bond 12 Dec 1844 Macon Co NC (abstract p.46, bm Wm Garland). 1850 Union GA dw 1080 (next door to Bright Burrell); 1860 Tallulah, Rabun GA. Sons WALTER M.
+1 NOTE Documented Burrell bride who married Benjamin Holland under an original Macon County bond dated 12 Dec 1844. The 1850 Union County, Georgia and 1860 Rabun County censuses continue the couple and ident
 1 FAMS @F153@
 1 SOUR @S174@
+1 SOUR @S317@
 0 @I304@ INDI
 1 NAME Benjamin /Holland/
 1 SEX M
@@ -3652,18 +3728,263 @@
 2 DATE 1825
 2 PLAC Cumberland County, North Carolina
 1 NOTE His 1825 will names wife Sarah and daughter Mary Coffield and appoints Sarah and son Isaac executors.
+1 FAMC @FR3@
 1 FAMS @F156@
 1 SOUR @S253@
+1 SOUR @S263@
+1 SOUR @S265@
 0 @I310@ INDI
-1 NAME Sarah //
+1 NAME Sarah /Phelps/
+2 NICK Sally
 1 SEX F
 1 DEAT
 2 DATE Jun 1838
 2 PLAC Cumberland County, North Carolina
-1 NOTE Birth surname unknown. William Coffield's 1825 will calls her his wife. The maternal conclusion for Mary is a written indirect proof combining the will, Isaac's sibling deed, and John Gaskins's 1838 a
+1 NOTE The 1790 Bertie marriage-bond transcript names William Coffield and Sally Phelps; James Phelps Sr.'s 1794 original will directly names daughter Sally Coffield. William is documented in Cumberland by a
+1 FAMC @FR4@
 1 FAMS @F156@
 1 SOUR @S253@
 1 SOUR @S256@
+1 SOUR @S263@
+1 SOUR @S264@
+0 @I311@ INDI
+1 NAME James /Phelps/
+1 SEX M
+1 DEAT
+2 DATE 1794
+2 PLAC Gates County, North Carolina
+1 NOTE His original will dated 21 April 1794 directly names daughter Sally Coffield. The will also names wife Dorothy and seven sons, but it does not state that Dorothy was Sally's mother.
+1 FAMS @FR4@
+1 SOUR @S264@
+0 @I312@ INDI
+1 NAME William /Coffield/
+1 SEX M
+1 DEAT
+2 DATE Feb 1812
+2 PLAC Bertie County, North Carolina
+1 NOTE A distinct older Bertie County man, not Cumberland William (died 1825) and not John Coffield's Chowan son William. His original will was dated 6 December 1811 and proved February 1812. It names sons J
+1 FAMS @FR3@
+1 SOUR @S266@
+1 SOUR @S268@
+0 @I313@ INDI
+1 NAME Catharine C. /Cobb/
+1 SEX F
+1 BIRT
+2 DATE abt 1826
+1 DEAT
+2 DATE 17 Jan 1858
+1 NOTE First wife of Joseph Ramsay Black. Her 1858 obituary calls her Catharine C.; 1843-1845 equity papers use Catherine and Charlotte C. Original court papers identify her as a daughter of James and Charlo
+1 FAMC @F158@
+1 FAMS @F157@
+1 SOUR @S278@
+1 SOUR @S280@
+0 @I314@ INDI
+1 NAME James /Cobb/
+1 SEX M
+1 DEAT
+2 DATE bef 1843
+1 NOTE Deceased husband of widow Charlotte Cobb and father of Charlotte/Catharine C., directly identified in the Abbeville equity bill.
+1 FAMS @F158@
+1 SOUR @S280@
+0 @I315@ INDI
+1 NAME Charlotte /Cobb/
+1 SEX F
+1 NOTE Widow and complainant in the Abbeville equity bill; the bill names her deceased husband James Cobb and their children.
+1 FAMS @F158@
+1 SOUR @S280@
+0 @I316@ INDI
+1 NAME Caswell /Pool/
+1 SEX M
+1 DEAT
+2 DATE bet 16 Nov 1857 and 27 Jan 1858
+2 PLAC Montgomery County, North Carolina
+1 NOTE Confirmed father of Jemima Pool Sedberry. The 1873 partition and 1874 distribution name Jemima among Colwell/Caswell Pool's children. His recorded will, dated 16 November 1857, names wife Charlotte an
+1 FAMS @F159@
+1 SOUR @S306@
+1 SOUR @S336@
+1 SOUR @S337@
+1 SOUR @S341@
+0 @I317@ INDI
+1 NAME Charlotte /Blake/
+1 SEX F
+1 BIRT
+2 DATE abt 1791
+2 PLAC North Carolina
+1 DEAT
+2 DATE bet 1860 and 1873
+2 PLAC Montgomery County, North Carolina
+1 NOTE Confirmed wife of Colwell/Caswell Pool: his recorded 1857 will names his beloved wife Charlotte, the 1850 census places Charlotte with him, and she appears independently in Montgomery County in 1860.
+1 FAMC @F160@
+1 FAMS @F159@
+1 SOUR @S336@
+1 SOUR @S338@
+1 SOUR @S340@
+0 @I318@ INDI
+1 NAME Thomas /Blake/
+1 SEX M
+1 BIRT
+2 DATE abt 1745
+2 PLAC North Carolina
+1 DEAT
+2 DATE aft 1 Jun 1840
+2 PLAC Montgomery County, North Carolina
+1 NOTE Revolutionary War pensioner of Montgomery County. His visually inspected 1832 declaration says he was about 86, had lived in Southampton County, Virginia, and had married with one or two unnamed child
+1 FAMS @F160@
+1 SOUR @S339@
+1 SOUR @S340@
+1 SOUR @S395@
+0 @I319@ INDI
+1 NAME William F. /Evitt/
+1 SEX M
+1 BIRT
+2 DATE abt 1837
+2 PLAC North Carolina
+1 DEAT
+2 DATE 27 Apr 1865
+2 PLAC Mississippi River (steamer Sultana)
+1 OCCU Private, Company H, 3rd Tennessee Cavalry (Union)
+1 NOTE Jemima Evitt's federal mother's pension directly identifies W. F. Evitt as the son of William and Jemima Evitt, born during their marriage. He is the William F. Evitt named with Clarinda in Jonathan E
+1 FAMC @F136@
+1 SOUR @S342@
+0 @I320@ INDI
+1 NAME Agnes /Glenn/
+1 SEX F
+1 NOTE Candidate mother of James Black of Rocky River, retained only from Annie Laurie Spencer's 1967 derivative family history. Spencer reports a family tradition that the four immigrant Black brothers' mot
+1 SOUR @S82@
+0 @I321@ INDI
+1 NAME Edward /Norton (son of William b.1740)/
+1 SEX M
+1 NOTE Distinguished by surname qualifier from the earlier Edward Nortons in this tree, the immigrant of 1718 and the Edward of Armagh; this is a third man. Administrator of his father William Norton's estat
+1 FAMC @FR5@
+0 @I322@ INDI
+1 NAME Jephtha /Norton/
+1 SEX M
+1 BIRT
+2 DATE abt 1770
+1 NOTE Named among his father's legal heirs in the 1829 partition and one of the three who acknowledged service of the summons on 2 November 1829. Birth year about 1770 from WikiTree Norton-14102, tertiary a
+1 FAMC @FR6@
+0 @I323@ INDI
+1 NAME Lydia /Norton/
+1 SEX F
+1 NOTE Named among her father's legal heirs in the 1829 partition, which records the 650-acre tract as the land 'whereon Lydia Norton now lives'; she acknowledged service by her mark on 2 November 1829. She
+1 FAMC @FR7@
+0 @I324@ INDI
+1 NAME Susannah /Norton/
+1 SEX F
+1 NOTE Named in the 1829 partition through her husband, as 'Albert Robbins in right of his wife Susannah'. Albert Robbins also bought at the 1821 estate sale and acknowledged service of the summons. He is no
+1 FAMC @FR8@
+1 FAMS @F161@
+0 @I325@ INDI
+1 NAME Elizabeth /Norton/
+1 SEX F
+1 NOTE Named in the 1829 partition through her husband, as 'David McCoy in right of his wife Elizabeth'. McCoy is not yet added as a person. No dates established.
+1 FAMC @FR9@
+1 FAMS @F162@
+0 @I326@ INDI
+1 NAME Katharine /Norton/
+1 SEX F
+1 NOTE Named in the 1829 partition through her husband, as 'William Bevert in right of his wife Katharine'. William Beveart bought at the 1821 estate sale and was the defendant in Barak Norton's 1827-29 laws
+1 FAMC @FR10@
+1 FAMS @F163@
+0 @I327@ INDI
+1 NAME Henry /Norton/
+1 SEX M
+1 DEAT
+2 DATE bef 2 Nov 1829
+1 NOTE Predeceased his father's partition: the 1829 summons names 'Heirs of Henry Norton Decd' rather than Henry himself, so he died before 2 November 1829 leaving issue. Those heirs are not individually nam
+1 FAMC @FR11@
+0 @I328@ INDI
+1 NAME Gideon /Norton/
+1 SEX M
+1 BIRT
+2 DATE abt 1774
+1 DEAT
+2 DATE bef 2 Nov 1829
+1 NOTE Predeceased his father's partition, which names a woman 'in right of her husband Gideon', so his widow represented his share; the OCR renders her given name 'Lathe' and it is unreliable. He bought at
+1 FAMC @FR12@
+0 @I329@ INDI
+1 NAME Sampson /Norton/
+1 SEX M
+1 BIRT
+2 DATE abt 1778
+1 DEAT
+2 DATE bef 2 Nov 1829
+1 NOTE Predeceased his father's partition: the 1829 summons names 'Heirs of Sampson Norton Deceased'. WikiTree Norton-12700 gives b.1778 d.1829 at Pendleton, tertiary and unverified, which would place his de
+1 FAMC @FR13@
+0 @I330@ INDI
+1 NAME Sarah /Nicholson/
+1 SEX F
+1 NOTE Named in her father's 1820 will as 'my daughter sarah Nicholson', given an enslaved girl named Loosey together with a horse and saddle, bed and furniture, clothes and two cows and calves. She is absen
+1 FAMC @FR14@
+0 @I331@ INDI
+1 NAME Martha /Nicholson/
+1 SEX F
+1 BIRT
+2 DATE abt 1802
+1 NOTE Named in her father's 1820 will as 'my daughter Martha', given an enslaved girl named Viney and a portion equivalent to Sarah's. She shares her given name with her mother, which is why the library ind
+1 FAMC @FR15@
+0 @I332@ INDI
+1 NAME Harriet /Nicholson/
+1 SEX F
+1 NOTE Named in her father's 1820 will as 'my daughter Harriet', given an enslaved girl named Sarah and a portion equal to her sister Sarah's. She is absent from the WikiTree child list for this family, whic
+1 FAMC @FR16@
+0 @I333@ INDI
+1 NAME Belinda /Nicholson/
+1 SEX F
+1 BIRT
+2 DATE abt 1809
+1 NOTE Named in her father's 1820 will as 'my daughter Belinda', given an enslaved girl named Ony and a portion equal to that of the other girls. WikiTree Nicholson-9078 gives Belinda R. Nicholson b.1809 d.1
+1 FAMC @FR17@
+0 @I334@ INDI
+1 NAME William /Nicholson (son of the testator)/
+1 SEX M
+1 BIRT
+2 DATE abt 1800
+1 NOTE Named in his father's 1820 will as 'my son William Nicholson', given the part of the plantation across the creek from the house, and appointed an executor jointly with his mother and his brother Evan.
+1 FAMC @FR18@
+0 @I335@ INDI
+1 NAME Lemuel /Nicholson/
+1 SEX M
+1 BIRT
+2 DATE abt 1811
+1 NOTE Named in his father's 1820 will as 'my son Lemuel Nicholson', given the part of the plantation on the house side of the creek together with three tracts on the waters of Craven's Creek. He witnessed t
+1 FAMC @FR19@
+0 @I336@ INDI
+1 NAME Evan /Nicholson/
+1 SEX M
+1 BIRT
+2 DATE abt 1790
+1 NOTE Named in his father's 1820 will, which appoints 'my Sons Evan & William Nicholson' executors jointly with their mother. He bought at William Norton's 1821 estate sale, which places him with his sister
+1 FAMC @FR20@
+0 @I337@ INDI
+1 NAME Albert /Robbins/
+1 SEX M
+1 NOTE Named in the 1829 Pickens partition summons as 'Albert Robbins in right of his wife Susannah', which identifies him as a son-in-law of William Norton deceased. He was one of the three parties who ackn
+1 FAMS @F161@
+1 SOUR @S415@
+0 @I338@ INDI
+1 NAME David /McCoy/
+1 SEX M
+1 NOTE Named in the 1829 Pickens partition summons as taking 'in right' of his wife Elizabeth, which identifies him as a son-in-law of William Norton deceased. He does not appear among the buyers at the 1821
+1 FAMS @F162@
+1 SOUR @S415@
+0 @I339@ INDI
+1 NAME William /Bevert/
+1 SEX M
+1 NOTE Named in the 1829 Pickens partition summons as taking 'in right' of his wife Katharine, which identifies him as a son-in-law of William Norton deceased. He is the William Beveart who bought at the 182
+1 FAMS @F163@
+1 SOUR @S415@
+0 @I340@ INDI
+1 NAME Sarah Whiteside /Norton/
+1 SEX F
+1 BIRT
+2 DATE 8 Aug 1828
+2 PLAC Jackson County, North Carolina
+1 DEAT
+2 DATE 10 Mar 1902
+2 PLAC Jackson County, North Carolina
+1 NOTE Sarah Whiteside Norton, named for Whiteside Mountain in Jackson County. She is the SARAH W. ALLEY who on 23 May 1879 swore that her transcription was a true copy of the family record of Barak Norton,
+1 FAMC @F25@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -3686,6 +4007,8 @@
 1 HUSB @I196@
 1 WIFE @I197@
 1 CHIL @I50@
+1 SOUR @S369@
+1 SOUR @S370@
 0 @F101@ FAM
 1 HUSB @I200@
 1 CHIL @I132@
@@ -3700,14 +4023,18 @@
 0 @F106@ FAM
 1 HUSB @I203@
 1 CHIL @I202@
+1 SOUR @S86@
 0 @F107@ FAM
 1 HUSB @I202@
 1 WIFE @I204@
 1 CHIL @I206@
+1 SOUR @S86@
 0 @F108@ FAM
 1 HUSB @I206@
 1 WIFE @I205@
 1 CHIL @I68@
+1 SOUR @S86@
+1 SOUR @S206@
 0 @F109@ FAM
 1 HUSB @I210@
 1 CHIL @I190@
@@ -3730,21 +4057,38 @@
 1 HUSB @I221@
 1 WIFE @I222@
 1 CHIL @I196@
+1 SOUR @S101@
+1 SOUR @S102@
+1 SOUR @S118@
+1 SOUR @S363@
+1 SOUR @S371@
+1 SOUR @S372@
 0 @F113@ FAM
 1 HUSB @I223@
 1 WIFE @I224@
 1 CHIL @I221@
+1 SOUR @S362@
+1 SOUR @S375@
+1 SOUR @S396@
 0 @F114@ FAM
 1 HUSB @I225@
 1 CHIL @I223@
+1 SOUR @S399@
 0 @F115@ FAM
 1 HUSB @I226@
 1 WIFE @I227@
 1 CHIL @I197@
+1 SOUR @S101@
+1 SOUR @S106@
+1 SOUR @S369@
+1 SOUR @S373@
 0 @F117@ FAM
 1 HUSB @I230@
 1 WIFE @I231@
 1 CHIL @I208@
+1 SOUR @S284@
+1 SOUR @S285@
+1 SOUR @S311@
 0 @F118@ FAM
 1 HUSB @I232@
 1 WIFE @I233@
@@ -3819,10 +4163,17 @@
 1 HUSB @I253@
 1 WIFE @I254@
 1 CHIL @I242@
+1 SOUR @S148@
+1 SOUR @S307@
+1 SOUR @S308@
+1 SOUR @S309@
+1 SOUR @S310@
 0 @F128@ FAM
 1 HUSB @I255@
 1 WIFE @I256@
 1 CHIL @I243@
+1 SOUR @S305@
+1 SOUR @S306@
 0 @F129@ FAM
 1 HUSB @I257@
 1 WIFE @I258@
@@ -3835,6 +4186,12 @@
 1 HUSB @I259@
 1 WIFE @I260@
 1 CHIL @I25@
+1 SOUR @S9@
+1 SOUR @S15@
+1 SOUR @S157@
+1 SOUR @S196@
+1 SOUR @S303@
+1 SOUR @S304@
 0 @F131@ FAM
 1 HUSB @I261@
 1 WIFE @I262@
@@ -3875,10 +4232,26 @@
 1 HUSB @I275@
 1 WIFE @I272@
 1 CHIL @I48@
+1 CHIL @I319@
+1 SOUR @S194@
+1 SOUR @S202@
+1 SOUR @S322@
+1 SOUR @S323@
+1 SOUR @S324@
+1 SOUR @S325@
+1 SOUR @S326@
+1 SOUR @S342@
+1 SOUR @S343@
+1 SOUR @S344@
+1 SOUR @S345@
+1 SOUR @S346@
 0 @F137@ FAM
 1 HUSB @I273@
 1 WIFE @I274@
 1 CHIL @I259@
+1 SOUR @S333@
+1 SOUR @S334@
+1 SOUR @S335@
 0 @F138@ FAM
 1 HUSB @I276@
 1 WIFE @I277@
@@ -3911,13 +4284,23 @@
 1 HUSB @I282@
 1 WIFE @I283@
 1 MARR
-2 PLAC Alabama
+2 DATE 11 Sep 1845
+2 PLAC Limestone County, Alabama
 1 CHIL @I268@
 1 SOUR @S149@
 1 SOUR @S238@
+1 SOUR @S314@
+1 SOUR @S315@
+1 SOUR @S316@
 0 @F143@ FAM
 1 HUSB @I284@
 1 CHIL @I267@
+1 SOUR @S150@
+1 SOUR @S236@
+1 SOUR @S318@
+1 SOUR @S319@
+1 SOUR @S320@
+1 SOUR @S321@
 0 @F144@ FAM
 1 HUSB @I285@
 1 WIFE @I286@
@@ -3939,6 +4322,11 @@
 0 @F146@ FAM
 1 WIFE @I288@
 1 CHIL @I245@
+1 SOUR @S153@
+1 SOUR @S154@
+1 SOUR @S155@
+1 SOUR @S156@
+1 SOUR @S227@
 0 @F147@ FAM
 1 HUSB @I289@
 1 WIFE @I245@
@@ -3974,6 +4362,8 @@
 0 @F152@ FAM
 1 HUSB @I302@
 1 CHIL @I296@
+1 SOUR @S170@
+1 SOUR @S173@
 0 @F153@ FAM
 1 HUSB @I304@
 1 WIFE @I303@
@@ -4001,12 +4391,43 @@
 1 HUSB @I309@
 1 WIFE @I310@
 1 MARR
-2 PLAC Cumberland County, North Carolina
+2 DATE 10 Jul 1790
+2 PLAC Bertie County, North Carolina
 1 CHIL @I308@
 1 SOUR @S253@
 1 SOUR @S254@
 1 SOUR @S255@
 1 SOUR @S256@
+0 @F157@ FAM
+1 HUSB @I103@
+1 WIFE @I313@
+1 MARR
+2 DATE bef 1843
+2 PLAC Abbeville District, South Carolina
+1 CHIL @I80@
+1 SOUR @S274@
+1 SOUR @S275@
+1 SOUR @S276@
+1 SOUR @S277@
+1 SOUR @S278@
+1 SOUR @S279@
+1 SOUR @S287@
+0 @F158@ FAM
+1 HUSB @I314@
+1 WIFE @I315@
+1 MARR
+2 PLAC South Carolina
+1 CHIL @I313@
+1 SOUR @S280@
+0 @F159@ FAM
+1 HUSB @I316@
+1 WIFE @I317@
+1 CHIL @I256@
+1 SOUR @S306@
+1 SOUR @S336@
+1 SOUR @S338@
+1 SOUR @S340@
+1 SOUR @S341@
 0 @F16@ FAM
 1 HUSB @I50@
 1 WIFE @I49@
@@ -4014,6 +4435,21 @@
 1 SOUR @S16@
 1 SOUR @S17@
 1 SOUR @S200@
+0 @F160@ FAM
+1 HUSB @I318@
+1 CHIL @I317@
+1 SOUR @S338@
+1 SOUR @S339@
+1 SOUR @S340@
+0 @F161@ FAM
+1 HUSB @I337@
+1 WIFE @I324@
+0 @F162@ FAM
+1 HUSB @I338@
+1 WIFE @I325@
+0 @F163@ FAM
+1 HUSB @I339@
+1 WIFE @I326@
 0 @F19@ FAM
 1 HUSB @I15@
 1 WIFE @I53@
@@ -4070,6 +4506,14 @@
 1 HUSB @I63@
 1 WIFE @I64@
 1 CHIL @I59@
+1 CHIL @I340@
+1 SOUR @S296@
+1 SOUR @S297@
+1 SOUR @S298@
+1 SOUR @S299@
+1 SOUR @S300@
+1 SOUR @S406@
+1 SOUR @S417@
 0 @F26@ FAM
 1 HUSB @I65@
 1 WIFE @I66@
@@ -4083,15 +4527,19 @@
 1 CHIL @I220@
 1 CHIL @I292@
 1 CHIL @I294@
+1 SOUR @S69@
 1 SOUR @S96@
 1 SOUR @S99@
 1 SOUR @S158@
 1 SOUR @S159@
 1 SOUR @S161@
 1 SOUR @S162@
+1 SOUR @S166@
 1 SOUR @S218@
 1 SOUR @S219@
 1 SOUR @S220@
+1 SOUR @S347@
+1 SOUR @S350@
 0 @F27@ FAM
 1 HUSB @I67@
 1 WIFE @I68@
@@ -4104,10 +4552,16 @@
 0 @F29@ FAM
 1 HUSB @I56@
 1 WIFE @I80@
+1 MARR
+2 DATE 13 Feb 1879
+2 PLAC Abbeville County, South Carolina
 1 CHIL @I54@
 1 CHIL @I75@
 1 SOUR @S36@
 1 SOUR @S191@
+1 SOUR @S275@
+1 SOUR @S282@
+1 SOUR @S287@
 0 @F3@ FAM
 1 HUSB @I7@
 1 WIFE @I8@
@@ -4153,6 +4607,7 @@
 1 HUSB @I109@
 1 WIFE @I208@
 1 CHIL @I101@
+1 SOUR @S273@
 0 @F36@ FAM
 1 HUSB @I110@
 1 WIFE @I111@
@@ -4161,6 +4616,10 @@
 1 CHIL @I118@
 1 CHIL @I119@
 1 CHIL @I129@
+1 SOUR @S82@
+1 SOUR @S272@
+1 SOUR @S288@
+1 SOUR @S289@
 0 @F37@ FAM
 1 HUSB @I81@
 1 WIFE @I112@
@@ -4172,10 +4631,20 @@
 0 @F38@ FAM
 1 HUSB @I121@
 1 WIFE @I128@
+1 MARR
+2 DATE 7 Oct 1756
+2 PLAC Hanover Township, Lancaster County, Pennsylvania
 1 CHIL @I110@
 1 CHIL @I122@
 1 CHIL @I126@
 1 CHIL @I127@
+1 SOUR @S55@
+1 SOUR @S58@
+1 SOUR @S62@
+1 SOUR @S82@
+1 SOUR @S292@
+1 SOUR @S293@
+1 SOUR @S294@
 0 @F4@ FAM
 1 HUSB @I10@
 1 WIFE @I11@
@@ -4188,7 +4657,6 @@
 0 @F40@ FAM
 1 HUSB @I124@
 1 WIFE @I125@
-1 CHIL @I121@
 0 @F41@ FAM
 1 HUSB @I129@
 1 WIFE @I130@
@@ -4196,10 +4664,21 @@
 1 HUSB @I131@
 1 WIFE @I199@
 1 CHIL @I63@
+1 SOUR @S368@
+1 SOUR @S378@
+1 SOUR @S397@
+1 SOUR @S413@
+1 SOUR @S415@
 0 @F43@ FAM
 1 HUSB @I132@
 1 WIFE @I198@
 1 CHIL @I131@
+1 SOUR @S92@
+1 SOUR @S364@
+1 SOUR @S365@
+1 SOUR @S366@
+1 SOUR @S367@
+1 SOUR @S368@
 0 @F44@ FAM
 1 HUSB @I133@
 1 CHIL @I65@
@@ -4210,9 +4689,9 @@
 1 HUSB @I135@
 1 WIFE @I209@
 1 CHIL @I109@
-0 @F47@ FAM
-1 HUSB @I138@
-1 CHIL @I111@
+1 SOUR @S286@
+1 SOUR @S301@
+1 SOUR @S302@
 0 @F48@ FAM
 1 HUSB @I228@
 1 WIFE @I139@
@@ -4343,7 +4822,13 @@
 1 HUSB @I271@
 1 WIFE @I30@
 1 CHIL @I24@
+1 SOUR @S9@
 1 SOUR @S188@
+1 SOUR @S196@
+1 SOUR @S327@
+1 SOUR @S328@
+1 SOUR @S329@
+1 SOUR @S330@
 0 @F90@ FAM
 1 HUSB @I181@
 0 @F91@ FAM
@@ -4360,10 +4845,15 @@
 1 HUSB @I187@
 1 WIFE @I188@
 1 CHIL @I64@
+1 SOUR @S300@
+1 SOUR @S378@
+1 SOUR @S411@
+1 SOUR @S412@
 0 @F96@ FAM
 1 HUSB @I189@
 1 WIFE @I207@
 1 CHIL @I67@
+1 SOUR @S379@
 0 @F97@ FAM
 1 HUSB @I190@
 1 CHIL @I189@
@@ -4386,9 +4876,101 @@
 0 @FR1@ FAM
 1 HUSB @I228@
 1 CHIL @I66@
+1 SOUR @S69@
+1 SOUR @S114@
+1 SOUR @S162@
+1 SOUR @S347@
+0 @FR10@ FAM
+1 HUSB @I131@
+1 CHIL @I326@
+1 SOUR @S415@
+0 @FR11@ FAM
+1 HUSB @I131@
+1 CHIL @I327@
+1 SOUR @S415@
+0 @FR12@ FAM
+1 HUSB @I131@
+1 CHIL @I328@
+1 SOUR @S415@
+0 @FR13@ FAM
+1 HUSB @I131@
+1 CHIL @I329@
+1 SOUR @S415@
+0 @FR14@ FAM
+1 HUSB @I187@
+1 CHIL @I330@
+1 SOUR @S383@
+1 SOUR @S411@
+0 @FR15@ FAM
+1 HUSB @I187@
+1 CHIL @I331@
+1 SOUR @S383@
+1 SOUR @S411@
+0 @FR16@ FAM
+1 HUSB @I187@
+1 CHIL @I332@
+1 SOUR @S383@
+1 SOUR @S411@
+0 @FR17@ FAM
+1 HUSB @I187@
+1 CHIL @I333@
+1 SOUR @S383@
+1 SOUR @S411@
+0 @FR18@ FAM
+1 HUSB @I187@
+1 CHIL @I334@
+1 SOUR @S411@
+0 @FR19@ FAM
+1 HUSB @I187@
+1 CHIL @I335@
+1 SOUR @S411@
 0 @FR2@ FAM
 1 HUSB @I234@
 1 CHIL @I139@
+1 SOUR @S114@
+0 @FR20@ FAM
+1 HUSB @I187@
+1 CHIL @I336@
+1 SOUR @S411@
+0 @FR3@ FAM
+1 HUSB @I312@
+1 CHIL @I309@
+1 SOUR @S263@
+1 SOUR @S265@
+1 SOUR @S266@
+1 SOUR @S267@
+1 SOUR @S268@
+1 SOUR @S269@
+1 SOUR @S270@
+1 SOUR @S271@
+1 SOUR @S312@
+0 @FR4@ FAM
+1 HUSB @I311@
+1 CHIL @I310@
+1 SOUR @S253@
+1 SOUR @S263@
+1 SOUR @S264@
+1 SOUR @S265@
+0 @FR5@ FAM
+1 HUSB @I131@
+1 CHIL @I321@
+1 SOUR @S415@
+0 @FR6@ FAM
+1 HUSB @I131@
+1 CHIL @I322@
+1 SOUR @S415@
+0 @FR7@ FAM
+1 HUSB @I131@
+1 CHIL @I323@
+1 SOUR @S415@
+0 @FR8@ FAM
+1 HUSB @I131@
+1 CHIL @I324@
+1 SOUR @S415@
+0 @FR9@ FAM
+1 HUSB @I131@
+1 CHIL @I325@
+1 SOUR @S415@
 0 @S1@ SOUR
 1 TITL 1950 US Census, NC, Jackson Co, ED 50-24, sheet 11 (Norton household)
 1 REPO NARA 1950 census / s3://nara-1950-census
@@ -4446,8 +5028,8 @@
 1 NOTE NARA T9 roll 969, ED 111, dwelling 91; https://archive.org/details/10thcensus0969unit/page/n175/mode/1up and page/n176/mode/1up
 0 @S15@ SOUR
 1 TITL 1880 US Census, NC, Jackson Co, ED 102 (Frank Conner dw 55)
-1 REPO NARA T9 roll 969 via Internet Archive
-1 NOTE archive.org 10thcensus0969unit leaf 47
+1 REPO National Archives population schedule via Internet Archive
+1 NOTE NARA T9 roll 969, ED 102, dwelling 55/family 64, lines 15-17; Internet Archive 10thcensus0969unit leaf 47
 0 @S16@ SOUR
 1 TITL 1880 United States census — Edith Dillard household, Webster Township, Jackson County, North Carolina
 1 REPO National Archives population schedule via Internet Archive
@@ -4604,7 +5186,7 @@
 0 @S55@ SOUR
 1 TITL Revolutionary War Pension File S.21646 — Joseph Black (NARA, RG15, M804 roll 0252)
 1 REPO NARA RG 15 (Dept. of Veterans Affairs), Revolutionary War Pension & Bounty Land Warrant Application Files (M804)
-1 NOTE NARA catalog naId 53978663; M804_0252; images 4153997_00351-00391; Fold3-digitized; read directly 2026-07-07
+1 NOTE NARA catalog NAID 53978663; M804 roll 0252; 36 pages; declaration page 4, https://catalog.archives.gov/id/53978663?objectPage=4; Veterans Administration summary page 35, https://catalog.archives.gov/id/53978663?objectPage=35
 0 @S56@ SOUR
 1 TITL SC Revolutionary patriot roster (carolana.com) — Joseph Black & Thomas Black, Burns/Wade Hampton
 1 REPO Carolana (compiled from SC Audited Accounts / stub indents)
@@ -4658,13 +5240,13 @@
 1 REPO WikiTree (tertiary)
 1 NOTE api.wikitree.com getAncestors Conner-2771; 2026-07-07
 0 @S69@ SOUR
-1 TITL Lorraine Adams Douglass, Burrell Family Genealogy (3rd/4th/5th generation) — rootsweb, 2000-2002
-1 REPO compiled genealogy (WELL-SOURCED: census page-tallies 1810-1920, War of 1812 muster rolls, marriage records, Dawes applications, cemeteries)
-1 NOTE rootsweb ~brendelforum Burrell genealogy; 3rd gen entry #5 (Walter N. Burrell Jr + Phoebe Pruitt) lists Dreusilla as child #15; user-relayed 2026-07-07
+1 TITL Compiled Children of Walter N. Burrell (attributed to Lorraine Adams Douglass)
+1 REPO RootsWeb compilation and FamilySearch Memories
+1 NOTE RootsWeb Brendel Forum, generation 3 entry 5 and generation 4 entry 15; FamilySearch memory 112707257 / TH-904-101515-3870-99, contributed by Donna Snelling
 0 @S70@ SOUR
 1 TITL NARA War of 1812 service index — Walter Burrell, Ewing's NC Militia (naId 70891617)
-1 REPO National Archives (NARA)
-1 NOTE catalog.archives.gov/id/70891617; NARA M602 Index to CSRs, War of 1812; RG94
+1 REPO National Archives and Records Administration, RG 94
+1 NOTE NARA Catalog NAID 70891617; image object 70891618; M602 roll 30 (Burg-Burr), card image 2411, https://catalog.archives.gov/medialz/microfilm-publications/M602_WarOf1812_ServRec_Index/M602_0030/images/2411.jpg; Internet Archive item indextocompileds30unit, PDF page 2410
 0 @S71@ SOUR
 1 TITL Research team — Nicholson & Holden lines (2026-07-07)
 1 REPO compiled + Y-DNA project
@@ -4710,9 +5292,9 @@
 1 REPO FamilySearch Historical Records + full-text OCR
 1 NOTE 1900 US Census, Mountain Twp, Jackson Co NC (household of Francis Conner: wife Margrett b.Feb 1863 + children incl. Alec b.Apr 1897); FS full-text Laurens District SC 1815 (Mark Killingsworth admr of Samuel Salsbury's estate, id 3:1:939L-JDS5-6N) and 1834 deed to 'my son James Killingsworth' (id 3:1:3Q9M-C34D-ZGGD)
 0 @S82@ SOUR
-1 TITL Published Black genealogy + DAR application forms (FamilySearch full-text, 2026-07-08)
-1 REPO FamilySearch full-text (OCR of compiled genealogies / DAR forms)
-1 NOTE FS full-text: 1967 periodical genealogy (id 3:1:3Q9M-CSSD-L9CM-S) and DAR/lineage forms (ids 3:1:3QHV-B3RG-F8HT, 3QHK-93RG-FNJT) for Joseph Black b.1763 d.1843 Columbia SC
+1 TITL Published Black genealogy and NSDAR lineage forms
+1 REPO FamilySearch images of published genealogy and NSDAR/GRC forms
+1 NOTE Annie Laurie Spencer, 'Blacks of Arkansas, Ancestors and Descendants,' Arkansas Family Historian 5, no. 4 (1967), 105-108, FamilySearch image 3:1:3Q9M-CSSD-L9CM-S; NSDAR/GRC images 3:1:3QHV-B3RG-F8HT and 3:1:3QHK-93RG-FNJT
 0 @S83@ SOUR
 1 TITL Dillard-Love: Haywood Co NC deeds 1809-1811 + Love-family genealogy (FamilySearch full-text, 2026-07-08)
 1 REPO FamilySearch full-text (OCR of deeds/genealogies) + census
@@ -4726,29 +5308,29 @@
 1 REPO FamilySearch full-text (Laurens & Richland Co SC probate images)
 1 NOTE FS full-text: Samuel Salsbery estate, Laurens SC 7 Jan 1815 (Mark Killingsworth admr, sureties Robert Allison & Charles Williams, ord. David Anderson); Mark's 1816 Laurens deed from John Cochran; 1841 Laurens litigation (widow Nancy + son James); Pettigrew Salisbury will, Richland Dist SC, proved 1 Jan 1794
 0 @S86@ SOUR
-1 TITL The Billingsley Family in America — Harry Alexander Davis (1936)
-1 REPO published genealogy (primary-record-cited)
-1 NOTE archive.org billingsleyfamil00davi_0; Davis #71 (William 6 -> James 7) and #183 (James 7's daughter 'Mary A.' b.1823 SC, m. a Holden, Rabun Co GA, dau. Mary J. Holden b.1841 = our Nancy Ann id 68 + Mary J. Holden id 62)
+1 TITL Harry Alexander Davis, The Billingsley Family (Billingsly-Billingslea) in America (1936)
+1 REPO Internet Archive; Billingsley family website
+1 NOTE Internet Archive scan: https://archive.org/details/billingsleyfamil00davi_0; searchable PDF: https://billingsley.us/wp-content/uploads/2020/08/The-Billingsley-Book.pdf; William entry no. 71, printed pp. 148-150; James entry no. 183, printed pp. 352-353
 0 @S87@ SOUR
 1 TITL Albemarle Parish Register, Surry & Sussex Cos., VA
 1 REPO Albemarle Parish Register (published)
 1 NOTE baptism of William Nicholson, 16 Dec 1765, son of John & Elizabeth Nicholson; siblings Buckner 1767, Benjamin 1768, John 1772, Susanna 1773
 0 @S88@ SOUR
-1 TITL Holden Surname DNA Project (subgroup B2) + line reconciliation (research team, 2026-07-08)
-1 REPO familytreedna Holden Surname Project + documented lineages
-1 NOTE Holden Y-DNA Project subgroup B2: participants 005 (via son Isaac) & 021 (via son Joseph) exact 37/37 match, validating Richard Holden (b.1777) as patriarch; B2-vs-Justinian(Watertown MA) genetic distance 12/37
+1 TITL Holden Surname DNA Project subgroup B2 — marker comparison and participant pedigrees
+1 REPO FamilyTreeDNA Holden Surname Project
+1 NOTE Subgroup B2 participants 005 (submitted descent through Isaac) and 021 (submitted descent through Joseph), reported 37/37 match; reported B2-to-Justinian/Watertown comparison genetic distance 12/37
 0 @S89@ SOUR
-1 TITL Brownlee wills + immigrant ship list (research team, 2026-07-08)
-1 REPO Abbeville Co SC probate + Revill immigrant lists
-1 NOTE William Brownlee will, Abbeville District SC, Box 4 Pkg 72 (1833/1834), names daughter Elizabeth b.28 Nov 1791, John Burnette Black executor; Mary Cowan will Box 13 Pkg 263; Janie Revill, Original Lists of Protestant Immigrants to SC 1763-1773 (ship Lord Dungannon, Belfast->Charleston, arr. 1 Feb 1768)
+1 TITL Janie Revill, A Compilation of the Original Lists of Protestant Immigrants to South Carolina — Brownlee entries, 1768
+1 REPO HathiTrust / Google Books scan of Janie Revill's published transcription
+1 NOTE Janie Revill, compiler, A Compilation of the Original Lists of Protestant Immigrants to South Carolina, 1763-1773 (Columbia, S.C.: State Company, 1939), 104-107, especially 105; Council Journal 34 transcription; HathiTrust sequence 108: https://babel.hathitrust.org/cgi/pt?id=mdp.39015008986799&seq=108; Google Books volume 1K6bDoMlAoYC, PA105
 0 @S90@ SOUR
 1 TITL Estate of Jacob Killingsworth — Richland District partition record, 1843-1844
 1 REPO Richland District Court of Ordinary via FamilySearch
 1 NOTE Richland District Court of Ordinary; FamilySearch images https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9P1-24JG and https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9P1-24GJ
 0 @S91@ SOUR
-1 TITL William Nicholson — Pendleton District SC land deeds (FS full-text, 2026-07-08)
-1 REPO FamilySearch full-text (Anderson/Pendleton Co SC deed books)
-1 NOTE FS full-text: William Nicholson land conveyances, Pendleton District SC — 1803, 1807, 1804-1809 (ids 3:1:3Q9M-CS73-MS2G-R, MSY8-X, MSY1-D); 1826 as 'William Nicholson J.P.' (id 3Q9M-CSKW-99JC-6, with Harriet Nicholson)
+1 TITL William Nicholson — Pendleton/Pickens deed abstract bundle, 1803, 1807, and 1820
+1 REPO FamilySearch full-text; Old Pendleton District newsletter
+1 NOTE FamilySearch full-text identifiers 3:1:3Q9M-CS73-MS2G-R (1803) and 3:1:3Q9M-CS73-MSY8-X (1807); Pickens District Deed Book A-1:91-92, William Nicholson to John Corbin, dated 18 Mar 1820, proved 12 Aug 1820, recorded 9 Mar 1829, abstract at https://www.oldpendleton.scgen.org/newsletters/1995/1995-09.pdf
 0 @S92@ SOUR
 1 TITL Cane Creek Monthly Meeting minutes — 'Edward Norton and son William' (2026-07-08)
 1 REPO Cane Creek Monthly Meeting minutes (Quaker) / Hinshaw
@@ -4778,9 +5360,9 @@
 1 REPO FamilySearch (census + Macon Co., North Carolina Deed Book D, verified images)
 1 NOTE Walter N. Burrell head-of-household census: 1810 Buncombe NC (XH26-851), 1820 Haywood NC (XHGS-967), 1830 Macon NC (XHP7-NBT). Macon Co NC Deed Bk D: Walter Burrell->Wm Barns (~100/133 ac, head of Big Creek; ark 3:1:3QS7-898G-KW3K, Bk D p.51) and Walter Burrell->Wm Brown (123 ac, dated 1838; ark 3:1:3QS7-L983-XWHC), both proven Sept 1840 term by oath of son Jesse Burrell. Mark Burrell (son) 'of Union County, Georgia' land assignment 1 Feb 1838 (ark 3:1:3QS7-9983-DCCW).
 0 @S99@ SOUR
-1 TITL Lorraine Adams Douglass, Burrell Family Genealogy, Walter Burrell family
-1 REPO RootsWeb and FamilySearch Memories
-1 NOTE RootsWeb Brendel Forum, generation 3 entry 5 and generation 4 entry 15; FamilySearch memory copy TH-7771-127821-3322-90
+1 TITL Susan Lewis Koyle, Walter Burrell Family Complete
+1 REPO Burrell family papers, shared through FamilySearch Memories
+1 NOTE FamilySearch memory artifact TH-7771-127821-3322-90
 0 @S100@ SOUR
 1 TITL Macon Co., N.C. Court of Pleas & Quarter Sessions Minute Docket 1838-55 — image browse (FS DGS 007513756, 2026-07-09)
 1 REPO FamilySearch — Macon County, North Carolina CPQS Minute Docket (browsed images)
@@ -4839,8 +5421,8 @@
 1 NOTE Mary (Cowan) BROWNLEE, will Abbeville District SC Box 13 Pkg 263, dated 10 Jun 1836 (indexed under BROWNLEE, not Cowan), b.~1765, d. Oct 1839. Parents: Andrew Mathew Cowan (d.1789, probate Abbeville Box 18 Pkg 388) + Ann Moore; brother Capt. John Cowan (d.1805, will Box 105 Pkg 2749). The compiled blog independently reproduces TWO of our primary-proven facts: William Brownlee's will = Box 4 Pkg 72 (our confirmed #7) and Elizabeth Brownlee b.28 Nov 1791 m. John Burnette Black 21 Feb 1811 (our DB) -- double verification.
 0 @S114@ SOUR
 1 TITL Prewitt-Pruitt Records of South Carolina (Richard A. Prewitt, 1995) — deed-cited Pruitt reference
-1 REPO Prewitt-Pruitt Records of South Carolina (1995), compiled deed-cited genealogy
-1 NOTE Thomas Pruitt Sr. + Mary (Chastain) Ducray -> sons David (Prewitt H16, b~1731) AND Michael (H17, b~1735), BROTHERS. Michael (H17) = Phoebe's father, of GREENVILLE District SC; m1 Elizabeth Bright (dau. of Tobias Bright); children Phoebe (m. Walter Burrell), a dau. (m. Abner Center), Rebecca (m. John Braswell), Bright; the Walter-Burrell title chain 1799-1805; divested everything to the Ericksons (2nd wife's stepchildren) 1813 -> NO estate. David (H16) = Michael's brother; his son Michael (H166, b~1772) = the 1812 deed-of-gift / Anderson 1820 (adjoining Drury) / Gwinnett GA 1823 man; David's daughter m. Jesse Burrell (the OTHER Pruitt-Burrell marriage). Bright docs: Michael's 1772 Old Craven 300-ac grant 'delivered to Tobias Bryght'; 1799 Tobias Bright sold 50 ac of Michael Pruitt's land (Bk K p.515).
+1 REPO Richard A. Prewitt's published Pruitt research, author-hosted PDF
+1 NOTE Richard A. Prewitt, Prewitt-Pruitt Records of South Carolina (Des Moines, Iowa, 1995), H17 Michael Pruitt entry, printed pp. 39-40 (PDF pp. 41-42); http://dna.pruiett.net/RAPrewittBooks/Prewitt-Pruitt%20Records%20of%20South%20Carolina.pdf
 0 @S115@ SOUR
 1 TITL Dillard Jr. 1784 guardianship (Robert Love) + Joseph Love Knox lifespan — Washington Co TN Archives index + martygrant + Knox Cross Index
 1 REPO Washington Co TN Archives probate index (wctnarchives.org) + martygrant.com + Knox Co TN Cross Index
@@ -4854,17 +5436,17 @@
 1 REPO FamilySearch — Habersham Co GA Ordinary minutes (image read by lead)
 1 NOTE Habersham Co GA Court of Ordinary minutes (FS full-text arks 3:1:3Q9M-CS4R-9318-9 + adjacent; images research/james_adams_will_p1.jpg): will of Jeptha Freeman, 3 Jan 1839, names 'my three daughters Lydia Hunt, THENA ADAMS, and Elizabeth Catlett' and 'EDIETH ADAMS daughter of JAMES W ADAMS and Thena his wife' (Edieth to receive $80 more than 'any of her other children' -- i.e. Thena had several children by 1839). Proven 13 Jul 1840.
 0 @S118@ SOUR
-1 TITL Thomas Dillard -> Robert Love deed, Washington Co. TN, 10 Feb 1797 — heir-recital CONFIRMS Thomas III as son/devisee of Col. Thomas Dillard Jr. (image read & verified)
-1 REPO FamilySearch — Washington Co., Tennessee deed books (image read)
-1 NOTE Recorded deed, 10 Feb 1797, Thomas Dillard of Washington Co TN to Robert Love (ark 3:1:3Q9M-CSKX-KJ5R; DGS 008151248 frames 299-300; images research/dillard_deed_1797*.jpg). Verbatim recital (verified on image by lead): conveys part of a tract 'Containing By Estimation 400 acres ... in the County of Washington ... and Being Devided By Thomas Dillard Deceast to Him the sd Thomas Dillard and John Dillard their Heirs and assigns forever.' Witnesses: MARTHA DILLARD (the testator's widow), Charles Hutchings, Wm Gray. Grantee Robert Love = the 1784 will's co-executor/guardian and grantor's brother-in-law.
+1 TITL Thomas Dillard to Robert Love deed, Washington County, Tennessee, 1797 — recites division by Thomas Dillard deceased
+1 REPO Washington County, Tennessee deed books, digital images via FamilySearch
+1 NOTE Washington County deed book, pp. 111-112; deed dated 10 Feb 1797; FamilySearch ARK 3:1:3Q9M-CSKX-KJ5R, DGS 008151248 frames 299-300
 0 @S119@ SOUR
 1 TITL Marriage of Eli Carnes & Clarissa Adams, Rabun Co GA, 9 Nov 1831 (image read) — candidate elder sister of Emly/Banister
 1 REPO FamilySearch — Rabun Co GA Marriage Book A (image read)
 1 NOTE Rabun Co GA Marriage Book A (Marriage Licenses) 1820-1850, book p.16, license & return 9 Nov 1831, Eli Carnes to Miss Clarissa Adams, solemnized by John Derrick J.P. (FS DGS 005190959, image 005190959_00028, ark 3:1:33S7-9BZF-ZYD; GA Archives roll RHS 3497; groom index 'Carnes Eli p.16'). Local image research/rabun_mar_028_1831.jpg.
 0 @S120@ SOUR
-1 TITL Will of Mary Brownlee (widow of William), Abbeville District SC, Box 13 Pkg 263 — dated 10 Jun 1836, proven 19 Oct 1839 (image read)
-1 REPO FamilySearch — Abbeville SC loose-papers estate typescripts (image read)
-1 NOTE Abbeville estate Box 13 Package 263 (FS full-text ark 3:1:939L-F6X3-Z, WPA typescript volume; image research/mary_cowan_brownlee_will_1836.jpg). Names son John Brownlee (executor; gets the cotton gin, screw & thrashing machine), grandchildren Arabella & Sarah Jane (daughters of deceased son James) and grandson William (son of John). Signed by mark; witnesses Wm E. Daniel, Mary L. Campbell.
+1 TITL WPA typescript of Mary Brownlee's will, Abbeville District, Box 13, Package 263
+1 REPO FamilySearch — South Carolina probate loose-papers transcription volume
+1 NOTE Abbeville District probate, Box 13, Package 263; WPA typescript of will dated 10 Jun 1836 and proved 19 Oct 1839; FamilySearch ARK https://www.familysearch.org/ark:/61903/3:1:939L-F6X3-Z
 0 @S121@ SOUR
 1 TITL Eli/Elias Carnes & Clarissa (Adams) Carnes household trace, 1840 GA - 1860 TN
 1 REPO FamilySearch (US censuses 1840-1860, indexed + read)
@@ -5024,9 +5606,9 @@
 1 REPO NARA M432 via archive.org
 1 NOTE archive.org 7thcensus0066unix, Union Co = leaves 91-258 (all read); key pages cached: C:\Users\rmbla\.genealogy-mcp\images850-UnionCoGA-BurrellCluster-BrightBurrell-dw1078-leaf249.jpg, -JesseCenterButler-dw1083-1090-leaf250.jpg, -EnosHooper-dw903-leaf223.jpg (raw leaves 91-260 also cached)
 0 @S166@ SOUR
-1 TITL Haywood Co NC marriage bond (WPA abstract): Enos Hopper x Tildy Burrell 'd. of Walles [Walter?]', 19 Jan 1822 — bondsman JESSE BURRELL
-1 REPO State Archives of North Carolina (original); WPA abstract via FS Digital Library/Internet Archive
-1 NOTE Historical Records Survey (WPA)/NYA, 'Early Marriage Bonds of Haywood County, N.C., 1808-1870', checked by Mary Jones Jeffreys, NC Historical Commission, p.43; FS Digital Library book 330804 / IA zearly-marriage-bonds-of-haywood-county-n.-c.-1808-1870; page image cached C:\Users\rmbla\.genealogy-mcp\images\haywood_abstract_leaf0043.jpg (full PDF haywood_bonds_abstract.pdf). Original bond: State Archives of NC (FS film 418147 / DGS 004364065 - affiliate-access only).
+1 TITL Haywood County marriage-bond abstract — Enos Hopper and Tildy Burrell, 19 January 1822
+1 REPO North Carolina State Archives abstract, typed by the Genealogical Society of Utah from original Haywood County bonds
+1 NOTE North Carolina State Archives, Haywood County Marriage Bonds Abstract, 1808-1868, p. 43; FamilySearch DGS 102329445, alternate copy p. 47, image https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSC3-D95D-G; indexed record QP9G-L426
 0 @S167@ SOUR
 1 TITL 1850 US census mortality schedule (Schedule 3), Union County, Georgia — read in full: NO Burrell/Hooper/Pruitt deaths
 1 REPO NARA T655 (GA mortality schedules) via FamilySearch
@@ -5061,8 +5643,8 @@
 1 NOTE 'Abstracts of Macon County Marriage Bonds 1828-1868' (NC Archives C.061.60001, DGS 102380344, image 53 = p.46; ThemisPrmAnyone); LEAD-VERIFIED image C:\Users\rmbla\.genealogy-mcp\images\Macon_NC_marriage_bond_abstracts_p46_HOLLAND_BenjaminxPhebeBurrell_1844_NCArchives_C061-60001.jpg; pages 3,5,6,11,12,38,46,66,71,72 read (partial bride sweep)
 0 @S175@ SOUR
 1 TITL Greenville Co SC deeds IMAGE-READ: the Pruitt-Burrell Tyger River land web confirmed (1795 Bright Prewit->Walter; 1804 Michael->Walter; 1805 Walter->Gosnell) — arm's-length sales, NO kinship recital, NO dower
-1 REPO Greenville Co SC Register of Mesne Conveyance (transcript books) via FamilySearch
-1 NOTE Bk D p.92, 21 Mar 1795, Bright Prewit -> Walter Burrell, 89ac Sink Hole Fork of Tygar R. (film 007856793 img 58, ark 3:1:3Q9M-CS7S-99B6-T); Bk H p.69, 17 Sep 1804, Michael Pruett -> Walter, $117.93, 50ac Lynch tract + 126ac of Michael's own 28 May 1799 grant (film 007856794 img 330, ark 3:1:3Q9M-CS7S-995C-S); Bk H fol.428, 27 Jan 1805, Walter -> Joshua Gosnell, $100, both tracts (img 229, ark 3:1:3Q9M-CS7S-995K-1). Cached C:\Users\rmbla\.genealogy-mcp\images\greenville_1795_*.jpg, greenville_1804_*.jpg, greenville_1805_*.jpg
+1 REPO Greenville County, South Carolina, Register of Deeds Digital Archive
+1 NOTE Greenville County recorded deeds, official county images: Book D:92, https://www.greenvillecounty.org/apps/DirectoryListings/ROD_DirectoryListing/Details.aspx?f=%5C%5Csynapi.greenvillecounty.org%5Crod%5Crod%5CWebaccess%5CDeeds%5CBooks%20_A-%20Z%5CBook%20D%5C0110.pdf; Book E:271-272, https://www.greenvillecounty.org/apps/DirectoryListings/ROD_DirectoryListing/Details.aspx?f=%5C%5Csynapi.greenvillecounty.org%5Crod%5Crod%5CWebaccess%5CDeeds%5CBooks%20_A-%20Z%5CBook%20E%5C0146.pdf and https://www.greenvillecounty.org/apps/DirectoryListings/ROD_DirectoryListing/Details.aspx?f=%5C%5Csynapi.greenvillecounty.org%5Crod%5Crod%5CWebaccess%5CDeeds%5CBooks%20_A-%20Z%5CBook%20E%5C0147.pdf; Book E:319-320, https://www.greenvillecounty.org/apps/DirectoryListings/ROD_DirectoryListing/Details.aspx?f=%5C%5Csynapi.greenvillecounty.org%5Crod%5Crod%5CWebaccess%5CDeeds%5CBooks%20_A-%20Z%5CBook%20E%5C0170.pdf and https://www.greenvillecounty.org/apps/DirectoryListings/ROD_DirectoryListing/Details.aspx?f=%5C%5Csynapi.greenvillecounty.org%5Crod%5Crod%5CWebaccess%5CDeeds%5CBooks%20_A-%20Z%5CBook%20E%5C0171.pdf; Book H:69-70, https://www.greenvillecounty.org/apps/DirectoryListings/ROD_DirectoryListing/Details.aspx?f=%5C%5Csynapi.greenvillecounty.org%5Crod%5Crod%5CWebaccess%5CDeeds%5CBooks%20_A-%20Z%5CBook%20H%5C0086.pdf and https://www.greenvillecounty.org/apps/DirectoryListings/ROD_DirectoryListing/Details.aspx?f=%5C%5Csynapi.greenvillecounty.org%5Crod%5Crod%5CWebaccess%5CDeeds%5CBooks%20_A-%20Z%5CBook%20H%5C0087.pdf; Book H:428, https://www.greenvillecounty.org/apps/DirectoryListings/ROD_DirectoryListing/Details.aspx?f=%5C%5Csynapi.greenvillecounty.org%5Crod%5Crod%5CWebaccess%5CDeeds%5CBooks%20_A-%20Z%5CBook%20H%5C0445.pdf. Parallel FamilySearch images remain identified in the source note.
 0 @S176@ SOUR
 1 TITL 1930 US Census, AL, Jefferson Co, Birmingham, ED 37-22 (Edgar P. Black household)
 1 REPO NARA T626 via FamilySearch
@@ -5110,7 +5692,7 @@
 0 @S187@ SOUR
 1 TITL Estate of John B. Black, partition proceeding, Abbeville District, SC, 1845
 1 REPO Abbeville District Court of Ordinary via FamilySearch
-1 NOTE Abbeville Court of Ordinary, DGS 008196594, image 63; https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSLK-X985-6
+1 NOTE Abbeville Court of Ordinary, recorded proceedings pp. 73-74, DGS 008196594; image 62 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSLK-X98T-V; image 63 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSLK-X985-6
 0 @S188@ SOUR
 1 TITL North Carolina death certificate — Frank C. Connor, Jackson County, 1928
 1 REPO North Carolina State Board of Health via FamilySearch
@@ -5411,4 +5993,644 @@
 1 TITL Death certificate of Deborah Johnson, Harnett County, North Carolina, 1926
 1 REPO North Carolina State Board of Health via FamilySearch
 1 NOTE Death 4 Feb 1926; FamilySearch record F3ZF-GYY; https://www.familysearch.org/ark:/61903/3:1:S3HT-D1G4-5C
+0 @S263@ SOUR
+1 TITL Bertie County marriage-bond transcript — William Coffield and Sally Phelps, 1790
+1 REPO Bertie County marriage bonds transcript via FamilySearch
+1 NOTE Genealogical Society of Utah, typed transcript of Bertie County marriage bonds, page 15; 10 Jul 1790; DGS 004264878, image order 121; FamilySearch indexed record https://www.familysearch.org/ark:/61903/1:1:F8TS-DBQ
+0 @S264@ SOUR
+1 TITL Will of James Phelps Sr., Gates County, North Carolina, 1794
+1 REPO Gates County original wills via FamilySearch
+1 NOTE Original will dated 21 Apr 1794; https://www.familysearch.org/ark:/61903/3:1:3QS7-89G4-MXDT
+0 @S265@ SOUR
+1 TITL Deed from James Atkins to William Coffield, Cumberland County, North Carolina, 1802
+1 REPO Cumberland County Register of Deeds via FamilySearch
+1 NOTE Instrument dated 1 Aug 1802, acknowledged March term 1810, deed book page 363; https://www.familysearch.org/ark:/61903/3:1:3QS7-L98M-VQ1V
+0 @S266@ SOUR
+1 TITL Will of William Coffield, Bertie County, North Carolina, 1811
+1 REPO Bertie County original wills via FamilySearch
+1 NOTE Original will dated 6 Dec 1811 and proved February term 1812; https://www.familysearch.org/ark:/61903/3:1:3QS7-L9G4-9CG1
+0 @S267@ SOUR
+1 TITL Division of the estate of William Coffield, Bertie County, 1813
+1 REPO Bertie County estate papers via FamilySearch
+1 NOTE Commissioners' division dated 9 Nov 1813; DGS 004854043, image order 1347; https://www.familysearch.org/ark:/61903/3:1:33S7-9PR1-S7QR
+0 @S268@ SOUR
+1 TITL Deed from William Coffield Sr. to David Ryan, Bertie County, 1796
+1 REPO Bertie County Register of Deeds via FamilySearch
+1 NOTE Instrument dated 30 Jul 1796, proved February term 1797, deed book R, page 324; https://www.familysearch.org/ark:/61903/3:1:3QS7-L9Z1-JQLP
+0 @S269@ SOUR
+1 TITL Sale of Lamb Hardy estate, Bertie County, 1799
+1 REPO Bertie County estate records via FamilySearch
+1 NOTE Account of sale dated March 1799, recorded estate-sale pages 133-138; DGS 007639712; start https://www.familysearch.org/ark:/61903/3:1:3QS7-89GW-YQTW; page 134 https://www.familysearch.org/ark:/61903/3:1:3QS7-89GW-YQRK
+0 @S270@ SOUR
+1 TITL Will of John Coffield, Chowan County, North Carolina, 1817
+1 REPO Chowan County original wills via FamilySearch
+1 NOTE Original will dated 29 Dec 1817 and proved March term 1818; https://www.familysearch.org/ark:/61903/3:1:939L-J69S-H9
+0 @S271@ SOUR
+1 TITL Deed from William Coffield of Chowan County to Timothy Walton Jr., 1819
+1 REPO Gates County Register of Deeds via FamilySearch
+1 NOTE Instrument dated 14 Dec 1819 and acknowledged in 1820; Gates County deed record; https://www.familysearch.org/ark:/61903/3:1:3QS7-L98J-9PHM
+0 @S272@ SOUR
+1 TITL NSDAR Genealogical Research System — Joseph Black A010650 lineage to John Black
+1 REPO National Society Daughters of the American Revolution, Genealogical Research System
+1 NOTE https://services.dar.org/Public/DAR_Research/search/?Tab_ID=0; ancestor A010650; member national no. 76115; lineage display 'Child/Child: JOHN / [1] ELIZABETH BROWNLEE'; accessed 21 Jul 2026
+0 @S273@ SOUR
+1 TITL Estate of William Brownlee — original will and 1868 land settlement
+1 REPO Abbeville District Court of Ordinary original estate papers via FamilySearch
+1 NOTE Abbeville District probate, Box 4, Package 72; original will dated 23 May 1833, FamilySearch DGS 004752780 image 724, https://www.familysearch.org/ark:/61903/3:1:939L-FDFB-M; original executor's settlement dated 22 Dec 1868, images 729-730, https://www.familysearch.org/ark:/61903/3:1:939L-FDND-J
+0 @S274@ SOUR
+1 TITL Marriage notice of John L. Black and Mary E. Black, Abbeville County, 1879
+1 REPO University of South Carolina Libraries, Historical Newspapers of South Carolina
+1 NOTE The Abbeville Press and Banner, 5 Mar 1879, p. 4; marriage 13 Feb 1879; https://historicnewspapers.sc.edu/lccn/sn84026853/1879-03-05/ed-1/seq-4/
+0 @S275@ SOUR
+1 TITL 1880 United States census — John L. and Mollie Black household, Abbeville County, South Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Diamond Hill Township, Abbeville County; FamilySearch records M69P-X3W, M69P-X34, M69P-X3H; DGS 005162320 image 408; https://www.familysearch.org/ark:/61903/3:1:33S7-9YBV-9T72
+0 @S276@ SOUR
+1 TITL 1860 United States census — Joseph R. Black household, Abbeville County, South Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Abbeville County; FamilySearch Mary Black MZTW-QHS and Joseph Black MZTW-Q4Y; DGS 005171211 image 214; https://www.familysearch.org/ark:/61903/3:1:33S7-9BS6-BSC
+0 @S277@ SOUR
+1 TITL 1870 United States census — J. R. Black household, Diamond Hill, Abbeville County, South Carolina
+1 REPO United States Census Bureau via FamilySearch
+1 NOTE Diamond Hill Township; FamilySearch Mary Black M8T9-N4C and household M8T9-N4W; DGS 004276502 image 307; https://www.familysearch.org/ark:/61903/3:1:S3HT-6WS9-CXV
+0 @S278@ SOUR
+1 TITL Death notice of Catharine C. Black, Abbeville District, 1858
+1 REPO University of South Carolina Libraries, Historical Newspapers of South Carolina
+1 NOTE The Abbeville Banner, 11 Feb 1858, p. 2; https://historicnewspapers.sc.edu/lccn/sn85026945/1858-02-11/ed-1/seq-2/
+0 @S279@ SOUR
+1 TITL Marriage notice of J. Ramsey Black and Margaret Tribble, Abbeville District, 1858
+1 REPO University of South Carolina Libraries, Historical Newspapers of South Carolina
+1 NOTE The Independent Press, 13 Aug 1858, p. 3; marriage 5 Aug 1858; https://historicnewspapers.sc.edu/lccn/sn93067882/1858-08-13/ed-1/seq-3/
+0 @S280@ SOUR
+1 TITL Charlotte Cobb equity bill and Black-Cobb party notices, Abbeville District, 1843-1845
+1 REPO Abbeville District Court of Equity via FamilySearch
+1 NOTE Abbeville equity papers; DGS 008153560; bill https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKK-ZSZT-N; party notice https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKK-ZSZR-8; related 1843 subpoena 3:1:3Q9M-CSKK-ZSZP-M
+0 @S281@ SOUR
+1 TITL Probate index entries for J. Ramsey Black estate and Black guardianships, Abbeville County
+1 REPO Abbeville County Probate Court via FamilySearch
+1 NOTE J. Ramsey Black estate, administrator J. E. Lomax, Box 239, Package 5966; Vernon E. and Edgar P. Black guardianship, guardian J. L. Black, Box 243, Package 6025; DGS 004752777 image 75; https://www.familysearch.org/ark:/61903/3:1:939L-F85S-D
+0 @S282@ SOUR
+1 TITL Social Security NUMIDENT record of Vernon Eugene Black
+1 REPO Social Security Administration NUMIDENT via FamilySearch
+1 NOTE FamilySearch record 6K3W-WNJ5; SSN 295-07-9181; application Nov 1937
+0 @S283@ SOUR
+1 TITL World War I draft registration card of Vernon Eugene Black, Birmingham, Alabama
+1 REPO National Archives and Records Administration via FamilySearch
+1 NOTE FamilySearch record K3PZ-CTV; https://www.familysearch.org/ark:/61903/3:1:33SQ-GYTJ-971T
+0 @S284@ SOUR
+1 TITL Will and estate inventory of Andrew Cowan, Abbeville County, 1786-1789
+1 REPO Abbeville County Probate Court via FamilySearch
+1 NOTE Will dated 6 Nov 1786, proved 7 Apr 1789; recorded will DGS 004752968 image 35, https://www.familysearch.org/ark:/61903/3:1:939L-FX4M-N; loose estate Box 18 Package 388, DGS 004752786 images 489-493, will/inventory image 490, https://www.familysearch.org/ark:/61903/3:1:939L-F89L-88
+0 @S285@ SOUR
+1 TITL Will of John Cowan, Abbeville District, 1804
+1 REPO Abbeville County Probate Court via FamilySearch
+1 NOTE Will dated 18 Sep 1804; FamilySearch DGS 004752828 image 215; https://www.familysearch.org/ark:/61903/3:1:939L-F6ZM-3
+0 @S286@ SOUR
+1 TITL Finding aid for Brownlee Family Papers, Accession 525 - M224 (271), Winthrop University
+1 REPO Louise Pettus Archives and Special Collections, Winthrop University
+1 NOTE https://digitalcommons.winthrop.edu/manuscriptcollection_findingaids/447/
+0 @S287@ SOUR
+1 TITL J. Ramsey Black family reunion at W. F. McCord's home, 1902
+1 REPO University of South Carolina Libraries, Historical Newspapers of South Carolina
+1 NOTE The Abbeville Press and Banner, 14 Jan 1903, p. 1; reunion 27 Dec 1902; https://historicnewspapers.sc.edu/lccn/sn84026853/1903-01-14/ed-1/seq-1/
+0 @S288@ SOUR
+1 TITL William Patton estate schedule of notes and debts, Abbeville District, 1833
+1 REPO Abbeville District Court of Ordinary via FamilySearch
+1 NOTE Return dated 12 Aug 1833; DGS 004752811 image 137; https://www.familysearch.org/ark:/61903/3:1:939L-FZDK-G
+0 @S289@ SOUR
+1 TITL Dr. John de la Howe estate schedules of bonds, notes, and judgments, 1830-1834
+1 REPO Abbeville District Court of Ordinary via FamilySearch
+1 NOTE DGS 004752867 images 179 and 43; 7 Jun 1830 schedule https://www.familysearch.org/ark:/61903/3:1:939L-F89M-8R; 1 Apr 1834 schedule https://www.familysearch.org/ark:/61903/3:1:939L-F816-Q
+0 @S290@ SOUR
+1 TITL Michael Heckleman estate inventory and note schedule, Abbeville District, 1809
+1 REPO Abbeville District Court of Ordinary via FamilySearch
+1 NOTE Box 46, Package 1148; note dated 25 Dec 1807; DGS 004752798 image 137; https://www.familysearch.org/ark:/61903/3:1:939L-F898-3B
+0 @S291@ SOUR
+1 TITL John Burnett v. John Cunningham and Joseph Black, Abbeville equity package 3386, 1839
+1 REPO Abbeville District Court of Equity via FamilySearch
+1 NOTE Abbeville equity loose papers, Box 66, Package 3386, DGS 008196601 images 112-117; deed image 116 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSLK-D3GZ-S
+0 @S292@ SOUR
+1 TITL Records of Rev. John Casper Stoever, marriage entry for James Black and Elizabetha Rogers, 1756
+1 REPO Published translation of Stoever manuscript; Library of Congress scan via Wikimedia Commons
+1 NOTE F. J. F. Schantz, trans., Records of Rev. John Casper Stoever: Baptismal and Marriage, 1730-1779 (Harrisburg, 1896), p. 66; public-domain scan p. 68 https://upload.wikimedia.org/wikipedia/commons/1/1c/Records_of_Rev._John_Casper_Stoever_-_baptismal_and_marriage%2C_1730-1779_%28IA_recordsofrevjohn02stoe%29.pdf#page=68
+0 @S293@ SOUR
+1 TITL David Oliphant to James Black deed and court acknowledgment, Mecklenburg County, NC, 1779
+1 REPO Mecklenburg County deed books and court minutes via FamilySearch
+1 NOTE Deed dated 9 Jun 1779, Book 10:232-233, https://www.familysearch.org/ark:/61903/3:1:3QS7-L983-Z35X; July 1779 court minutes https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSVB-2BS5
+0 @S294@ SOUR
+1 TITL James Black to John Black deed, Cabarrus County, NC, 1813 (recorded 1830)
+1 REPO Cabarrus County Register of Deeds via FamilySearch
+1 NOTE Deed dated 31 Jul 1813, recorded Apr 1830, Deed Book 11:282; DGS 007560391 image 146; https://www.familysearch.org/ark:/61903/3:1:3QS7-L967-93H8
+0 @S295@ SOUR
+1 TITL Kyle J. Wear, The Family and Descendants of Robert Rodgers and Margaret Thornton
+1 REPO Marty Grant genealogy publications
+1 NOTE pp. 18 and 61, accessed 21 Jul 2026; https://www.martygrant.com/books/rodgers/The%20Family%20of%20Robert%20Rodgers%20and%20Margaret%20Thornton.pdf
+0 @S296@ SOUR
+1 TITL 1810 US Census, SC, Pendleton District (Barak Norton household)
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE FamilySearch record XH2Y-ZCV; image https://www.familysearch.org/ark:/61903/3:1:33SQ-GYBM-SQH
+0 @S297@ SOUR
+1 TITL 1820 US Census, SC, Pendleton District (Barack Norton household)
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE FamilySearch record XHG6-SGK; image https://www.familysearch.org/ark:/61903/3:1:33SQ-GYYT-98NQ
+0 @S298@ SOUR
+1 TITL 1830 US Census, NC, Macon County (Berrick Norton household)
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE FamilySearch record XHP7-NFV; image https://www.familysearch.org/ark:/61903/3:1:33SQ-GYTR-3FDD
+0 @S299@ SOUR
+1 TITL Obituary of Mary Nicholson Norton, Blue Ridge Enterprise, 5 April 1883
+1 REPO North Carolina Digital Heritage Center
+1 NOTE Highlands, North Carolina, page 2, column 5; https://newspapers.digitalnc.org/lccn/sn91068715/1883-04-05/ed-1/seq-2/
+0 @S300@ SOUR
+1 TITL Dallas R. Reese Jr., Glory, Glory, Glory: The Story of Grandmother Norton (24 Nov 2020)
+1 REPO North Carolina History Center on the Civil War, Emancipation and Reconstruction
+1 NOTE Published 24 Nov 2020; https://nccivilwarcenter.org/glory-glory-glory-the-story-of-grandmother-norton/
+0 @S301@ SOUR
+1 TITL Will of James Brownlee, Abbeville District, South Carolina, 1789/1798
+1 REPO Abbeville County probate original estate papers via FamilySearch
+1 NOTE Abbeville probate Box 105, Packet 2676; will dated 20-21 Jul 1789, proved 12 Jun 1798, recorded Will Book I, page 216; FamilySearch DGS 004752827 image 449; https://www.familysearch.org/ark:/61903/3:1:939L-FD9H-GS
+0 @S302@ SOUR
+1 TITL James and Sarah Brownlee conveyance of Hugh Trimble land, Laurens County, 1796
+1 REPO Laurens County deed records via FamilySearch Full-Text Search
+1 NOTE Laurens County deed book, conveyance dated 8 Mar 1796 and recorded 14 Aug 1796; FamilySearch DGS 007856801 image 561, APID TH-909-58589-24407-32; https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7S-1Y3J
+0 @S303@ SOUR
+1 TITL 1870 United States census — John Cope household, Webster Township, Jackson County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE Webster Township, page 13, dwelling 77, family 81, lines 13-18; FamilySearch DGS 004277620 image 623, APID TH-267-11690-41544-97; https://www.familysearch.org/ark:/61903/3:1:S3HY-D129-NQ5
+0 @S304@ SOUR
+1 TITL 1880 United States census — John Cope household, Quallatown Township, Jackson County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE Quallatown Township, source sheet 255, lines 52-55; FamilySearch DGS 005161769 image 49, APID TH-1942-25160-13886-77; https://www.familysearch.org/ark:/61903/3:1:33SQ-GYB2-FDT
+0 @S305@ SOUR
+1 TITL Will of John B. Sedberry, Montgomery County, North Carolina, 1882
+1 REPO Montgomery County recorded wills via FamilySearch
+1 NOTE Montgomery County will book, pages 134-135; signed 26 May 1882; FamilySearch DGS 004779284 image 210, APID TH-1941-20061-22141-15; https://www.familysearch.org/ark:/61903/3:1:33SQ-LGHL-5V9
+0 @S306@ SOUR
+1 TITL Caswell Pool estate partition petition identifying Jemima Pool Sedberry and her children, Montgomery County, 1873
+1 REPO Montgomery County Superior Court via FamilySearch
+1 NOTE Montgomery County Superior Court partition petition; FamilySearch DGS 007393113 images 307-308, APIDs TH-1942-35570-22997-37 and TH-1942-35570-22828-27; https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9CF-2RNJ and https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9CF-2RZB
+0 @S307@ SOUR
+1 TITL Marriage index entry for Solomon Haywood and Charlotte Sedberry, Montgomery County, 1871
+1 REPO FamilySearch EASY marriage index
+1 NOTE Marriage 23 Feb 1871; FamilySearch collection North Carolina, Marriages, 1759-1979; record ARK 1:2:MX3W-PMT; bride record F8HK-H5N; DGS 007610731, film 433513, record 621
+0 @S308@ SOUR
+1 TITL 1850 United States census — James D. Haywood household, Montgomery County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE Page 121, dwelling 252, lines 30-34; FamilySearch DGS 004203584 image 250, APID TH-266-11072-9784-83; https://www.familysearch.org/ark:/61903/3:1:S3HT-DCSZ-TQ
+0 @S309@ SOUR
+1 TITL 1860 United States census — James D. Haywood household, Brutons District, Montgomery County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE Page 17, dwelling/family 123, lines 15-24; FamilySearch DGS 005170496 image 326, APID TH-1951-25270-36170-90; https://www.familysearch.org/ark:/61903/3:1:33S7-9BSZ-9Z72
+0 @S310@ SOUR
+1 TITL Death certificate of George R. Haywood, Montgomery County, North Carolina, 1948
+1 REPO North Carolina State Board of Health via FamilySearch
+1 NOTE North Carolina certificate 15851; death 9 Feb 1948; FamilySearch DGS 004181614 image 1391, APID TH-909-48159-14531-75; record FGJD-X6V; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PF-CNQ8
+0 @S311@ SOUR
+1 TITL Estate administration and sale of David H. Hathorn, Abbeville District, 1815
+1 REPO Abbeville County Probate Court via FamilySearch
+1 NOTE Loose estate citation dated 1 Aug 1815, DGS 004752797 image 273, https://www.familysearch.org/ark:/61903/3:1:939L-FD9B-7Z; sale headed as David H. Hathorn's goods sold at his dwelling house in October 1815, DGS 004752797 images 264-270; image 265 https://www.familysearch.org/ark:/61903/3:1:939L-FD9B-BC; image 270 https://www.familysearch.org/ark:/61903/3:1:939L-FD9B-GG
+0 @S312@ SOUR
+1 TITL Will of Jethro Coffield, Bertie County, North Carolina, 1824-1825
+1 REPO Bertie County original wills via FamilySearch
+1 NOTE Original will dated 4 Jun 1824 and proved August term 1825; first page https://www.familysearch.org/ark:/61903/3:1:3QS7-L9G4-981T; second page FamilySearch APID TH-1971-47011-10714-15
+0 @S313@ SOUR
+1 TITL Power of attorney by heirs of Benjamin Coffield, Bertie County, 1821
+1 REPO Bertie County estate and land records via FamilySearch
+1 NOTE Original instrument dated 1821; https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSG4-SG7C
+0 @S314@ SOUR
+1 TITL Typed abstracts of Limestone County marriage records, pages 488 and 796
+1 REPO Limestone County marriage-record compilation via FamilySearch
+1 NOTE Abstract page 63, original register page 488: license issued 8 Sep 1845 and marriage solemnized 11 Sep 1845, https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9R1-QQ2; abstract page 68, original register page 796: license issued 12 Jan 1857 and marriage solemnized 15 Jan 1857, https://www.familysearch.org/ark:/61903/3:1:3Q9M-C953-79BY-V
+0 @S315@ SOUR
+1 TITL Certified copy of Edward Legg administration appointment, Limestone County, 1854
+1 REPO Limestone County Chancery Court papers via FamilySearch
+1 NOTE Probate Court minute book 3, page 235, 2 Nov 1854; certified copy dated 31 Oct 1900 filed as Exhibit A; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C3Q1-L9PP-9
+0 @S316@ SOUR
+1 TITL Deposition of Andrew C. Legg in Nancy A. Haney v. Joel C. Haney et al., 1900
+1 REPO Limestone County Chancery Court papers via FamilySearch
+1 NOTE Sworn deposition beginning 28 Nov 1900, https://www.familysearch.org/ark:/61903/3:1:3Q9M-C3Q1-L95D-H; continuations FamilySearch APIDs TH-909-85491-49152-4 and TH-909-85491-44943-11
+0 @S317@ SOUR
+1 TITL Marriage bond of Benjamin Holland and Phebe Burrell, Macon County, 1844
+1 REPO North Carolina State Archives marriage bonds via FamilySearch
+1 NOTE Original bond dated 12 Dec 1844; FamilySearch DGS 007741981, image 414; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91Z-4GK3
+0 @S318@ SOUR
+1 TITL 1840 U.S. census - Isaac Haney household, Giles County, Tennessee
+1 REPO NARA M704 via FamilySearch
+1 NOTE Giles County census page; FamilySearch DGS 005154900 image 301, https://www.familysearch.org/ark:/61903/3:1:33S7-9YB3-638
+0 @S319@ SOUR
+1 TITL Alabama marriage index - Isaac Haney and Elizabeth Legg, Limestone County, 1846
+1 REPO Alabama marriage records indexed by FamilySearch
+1 NOTE Marriage 8 Jun 1846; FamilySearch couple record https://www.familysearch.org/ark:/61903/1:2:9MHL-57TT; Isaac persona V5Z7-Z2D and Elizabeth persona V5Z7-Z28
+0 @S320@ SOUR
+1 TITL Giles County deeds concerning Isaac Haney land, 1853-1856
+1 REPO Giles County Register of Deeds via FamilySearch
+1 NOTE Giles County deed books Y-Z, FamilySearch DGS 008264672; Ira T. Haney to Daniel Coleman, deed dated 20 Dec 1854 and recorded 23 May 1856, image 147, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS5Q-NS3W-1; John G. and William C. Haney to Daniel Coleman, deed dated 3 Mar 1856 and recorded 8 Aug 1856, book page 288, image 177, https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS5Q-NS3W-8
+0 @S321@ SOUR
+1 TITL 1870 U.S. census - Isaac and Nancy Haney household, Limestone County, Alabama
+1 REPO NARA M593 via FamilySearch
+1 NOTE Township Range 6, Limestone County, page 36, dwelling/family 296; FamilySearch record MHKX-5K9; DGS 004257601 image 357; https://www.familysearch.org/ark:/61903/3:1:S3HT-DC6S-FCF
+0 @S322@ SOUR
+1 TITL 1840 U.S. census - William Evatt household, Macon County, North Carolina
+1 REPO NARA M704 via FamilySearch
+1 NOTE Macon County schedule; FamilySearch persona XHYZ-GW2; https://www.familysearch.org/ark:/61903/3:1:33SQ-GYY8-9SPZ
+0 @S323@ SOUR
+1 TITL 1850 U.S. census - Jemima Evat household, Macon County, North Carolina
+1 REPO NARA M432 via FamilySearch
+1 NOTE Tennessee Valley, dwelling 910, family 905; FamilySearch personas M4BD-LQP and M4BD-LQR; https://www.familysearch.org/ark:/61903/3:1:S3HY-6QR9-3F7
+0 @S324@ SOUR
+1 TITL Jonathan Evitt deed to Clarinda and other Evitts, Macon County, executed 1844
+1 REPO Macon County Register of Deeds via FamilySearch
+1 NOTE Deed executed 28 February 1844, proved March 1844, originally Book D page 256; re-registered in Book G pages 338-339 in May 1854; FamilySearch DGS 007513714 image 176; https://www.familysearch.org/ark:/61903/3:1:3QS7-9983-X8QK
+0 @S325@ SOUR
+1 TITL 1880 U.S. census - Gimima and Marion Evitt household, Macon County, North Carolina
+1 REPO NARA T9 via FamilySearch
+1 NOTE Sugar Fork, enumeration district 112, household 58; FamilySearch persona MCXW-Y7K; https://www.familysearch.org/ark:/61903/3:1:33S7-9YBH-PXN
+0 @S326@ SOUR
+1 TITL Jackson County death index - Sarah Ann Bennett, 1925
+1 REPO North Carolina vital statistics index via FamilySearch
+1 NOTE General Index to Vital Statistics - Deaths - Jackson County, death 6 August 1925, volume 12 page 43; FamilySearch personas QPLV-JRD3 and QPLV-JRD9; https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSCZ-RSTZ
+0 @S327@ SOUR
+1 TITL 1860 U.S. census - Gilbert and Elizabeth Conner household, Rutherford County, North Carolina
+1 REPO NARA M653 via FamilySearch
+1 NOTE Buffalo District, page 189, dwelling/family 1367; FamilySearch personas MD6Q-2VG and MD6Q-2VR; https://www.familysearch.org/ark:/61903/3:1:33S7-9BS6-3ZH
+0 @S328@ SOUR
+1 TITL 1910 U.S. census - Frank and Elizabeth Connor household, Jackson County, North Carolina
+1 REPO NARA T624 via FamilySearch
+1 NOTE Mountain Township, ED 70, sheet 3B, dwelling/family 42, lines 66-73; FamilySearch persona ML3S-36Q; https://www.familysearch.org/ark:/61903/3:1:33SQ-GRJ5-K5J
+0 @S329@ SOUR
+1 TITL 1880 U.S. census - G. Pinkny and Gilbert Conner household, Rutherford County, North Carolina
+1 REPO NARA T9 via FamilySearch
+1 NOTE Chimney Rock Township, ED 187, page 15, dwelling 134/family 141; FamilySearch personas MCXG-2JX and MCXG-2JN; https://www.familysearch.org/ark:/61903/3:1:33S7-9YBF-985
+0 @S330@ SOUR
+1 TITL Death certificate of Pink Conner, Haywood County, North Carolina, 1929
+1 REPO North Carolina State Board of Health via FamilySearch
+1 NOTE North Carolina certificate 4, Hazelwood, death 7 May 1929; FamilySearch persona F38Z-7DX; https://www.familysearch.org/ark:/61903/3:1:S3HY-DRC3-3LY
+0 @S331@ SOUR
+1 TITL Buncombe County male marriage register - Gilbert Conner and Betsey Mathis, 1855
+1 REPO Buncombe County marriage records via FamilySearch
+1 NOTE Marriage 4 March 1855; male register entry references R. B. Vance no. 289; FamilySearch DGS 007611812 image 110; extracted personas F8KV-G4N and F8KV-G4F
+0 @S332@ SOUR
+1 TITL Marriage bond and license of Gilbert Conner and Mary Frady, Rutherford County, 1858
+1 REPO Rutherford County marriage bonds via FamilySearch
+1 NOTE Bond and license dated 29 May 1858; R. H. Robertson bondsman; FamilySearch https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91C-43N2-Y
+0 @S333@ SOUR
+1 TITL 1850 U.S. census - Andrew, Anny, and John Cope household, Haywood County, North Carolina
+1 REPO NARA M432 via FamilySearch
+1 NOTE Haywood County, page 41, dwelling 879, family 903, lines 14-23; FamilySearch persona M4BC-F41; https://www.familysearch.org/ark:/61903/3:1:S3HT-6LD7-Z52
+0 @S334@ SOUR
+1 TITL Deed from Andrew Cope's heirs to John Cope, Jackson County, North Carolina, 1876/1885
+1 REPO Jackson County Register of Deeds via FamilySearch
+1 NOTE Jackson County Deed Book 11, pages 573-574; deed dated 13 December 1876, acknowledged 19 December 1885, registered 19 December 1885; FamilySearch DGS 007526544 images 328-329, APIDs TH-1961-37072-17919-38 and TH-1971-37072-16361-44
+0 @S335@ SOUR
+1 TITL Jackson County probate-of-deeds docket - Cope heir conveyances, 1885
+1 REPO Jackson County Clerk of Superior Court via FamilySearch
+1 NOTE Probate of Deeds, page 37; John Cope from Wm. Cope and other heirs, deed dated 13 December 1876 and filed 19 December 1885; FamilySearch DGS 007640499 image 67, APID TH-1961-47108-489-12
+0 @S336@ SOUR
+1 TITL Recorded will of Colwell Pool naming wife Charlotte and executors John Pool and John Sedberry, 1857
+1 REPO Montgomery County probate records via FamilySearch
+1 NOTE Montgomery County will book, pp. 84-85; will dated 16 Nov 1857; FamilySearch DGS 004779267, image 3:1:33S7-9GHL-P2B; https://www.familysearch.org/ark:/61903/3:1:33S7-9GHL-P2B
+0 @S337@ SOUR
+1 TITL Colwell Pool estate inventory and sale, Montgomery County, 27 January 1858
+1 REPO Montgomery County probate records via FamilySearch
+1 NOTE Montgomery County estate account book, pp. 469-470; FamilySearch DGS 004779267, image 263, ARK 3:1:33S7-9GHL-7W7; https://www.familysearch.org/ark:/61903/3:1:33S7-9GHL-7W7
+0 @S338@ SOUR
+1 TITL 1850 federal census household of Colwell and Charlotte Pool, Montgomery County, North Carolina
+1 REPO FamilySearch; United States Census Bureau
+1 NOTE FamilySearch household record M4B8-GRP; Charlotte record M4B8-GR5; https://www.familysearch.org/ark:/61903/1:1:M4B8-GRP
+0 @S339@ SOUR
+1 TITL 1840 Census of Pensioners entry placing Thomas Blake in Colwell Pool's household
+1 REPO United States Department of State / Government Publishing Office; FamilySearch
+1 NOTE A Census of Pensioners for Revolutionary or Military Services, 1841, North Carolina, Montgomery County, p. 139; FamilySearch record 7JKY-WMT2; https://www.familysearch.org/ark:/61903/1:1:7JKY-WMT2; https://www.govinfo.gov/content/pkg/GOVPUB-C3-PURL-LPS48227/pdf/GOVPUB-C3-PURL-LPS48227.pdf
+0 @S340@ SOUR
+1 TITL The Thomas Blake Family, Montgomery County heritage account
+1 REPO Montgomery County heritage compilation / archived Blake family research
+1 NOTE The Blandford Series, vol. 47, p. 344, search-accessible text; parallel Blake-family compilation at https://www.oocities.org/heartland/shores/9446/TheBlakeFami.html
+0 @S341@ SOUR
+1 TITL Colwell Pool estate distribution account naming John Sedberry and wife Jemima, 1874
+1 REPO Montgomery County probate records via FamilySearch
+1 NOTE Montgomery County estate file, image 277; FamilySearch DGS 007393113, ARK 3:1:3QSQ-G9CF-LC2; https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9CF-LC2
+0 @S342@ SOUR
+1 TITL Jemima Evitt mother's pension file for William F. Evitt, WC 122226
+1 REPO National Archives pension files via FamilySearch
+1 NOTE Mother's pension certificate WC 122226, application 145002; declaration 4 April 1867; NARA pension file via FamilySearch DGS 124063747, images 3-5, 8, 19, and 21; https://www.familysearch.org/ark:/61903/3:1:3QHK-M7RM-X9DF-B and https://www.familysearch.org/ark:/61903/3:1:3QHV-K7RM-3SKS-H
+0 @S343@ SOUR
+1 TITL William Evitt Entry 1481 and North Carolina Grant 381, Macon County
+1 REPO North Carolina land grants via FamilySearch
+1 NOTE Entry 1481, entered 23 January 1838; survey dated 5 March 1839; Grant 381 issued 24 November 1840, Grant Book 146 page 327; FamilySearch DGS 007164869 images 359-362 and DGS 007513712 image 165; https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9WK-ZQB3; https://www.familysearch.org/ark:/61903/3:1:3QS7-L9WK-ZQNN; https://www.familysearch.org/ark:/61903/3:1:3QS7-89WK-ZQKN; https://www.familysearch.org/ark:/61903/3:1:3QS7-9983-DJNK
+0 @S344@ SOUR
+1 TITL William Evitt deed to Jonathan Evitt, Macon County, executed 1843
+1 REPO Macon County Register of Deeds via FamilySearch
+1 NOTE Deed executed 3 May 1843 and registered 5 September 1843; FamilySearch DGS 007513712 images 261-262, cumulative pages 1621-1622; https://www.familysearch.org/ark:/61903/3:1:3QSQ-G983-DJF3
+0 @S345@ SOUR
+1 TITL 1870 U.S. census - Jemimia, James M., and Emaline Evitt household
+1 REPO NARA M593 via FamilySearch
+1 NOTE Sugar Fork Township, Macon County, page 9, dwelling 56, family 61; https://www.familysearch.org/ark:/61903/3:1:S3HT-6P6Q-CHL
+0 @S346@ SOUR
+1 TITL Estate of Sarah E. Evitt naming heirs of Clara Adams, Macon County
+1 REPO Macon County Superior Court estate records via FamilySearch
+1 NOTE Application for letters of administration dated 19 March 1896, FamilySearch DGS 005241719 image 333, https://www.familysearch.org/ark:/61903/3:1:33S7-9172-5D1; administration book page 231, DGS 008669020 image 150, https://www.familysearch.org/ark:/61903/3:1:3QHV-F3CR-492T-C; final settlement, Macon County settlement book pages 254-255, FamilySearch DGS 004779584 image 164, https://www.familysearch.org/ark:/61903/3:1:33S7-9GHG-XYT
+0 @S347@ SOUR
+1 TITL Transcript of Enos Hooper's letter to Bright Burrell identifying Grandfather Pruet as Michael Pruet, 30 April 1882
+1 REPO Burrell family papers, transcription shared through FamilySearch Memories
+1 NOTE Robbinsville, Graham County, North Carolina, 30 Apr 1882; FamilySearch memory 181967757 / artifact TH-7725-128271-6536-88
+0 @S348@ SOUR
+1 TITL Deed of gift — Michael and Rachel Pruitt to Prudence and John Erickson, Greenville District, 9 January 1813
+1 REPO Greenville District Register of Mesne Conveyance via FamilySearch
+1 NOTE Greenville District recorded-deed pages 173-174; recorded 1 Mar 1813; FamilySearch images https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7S-M912-J and https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7S-M91G-F
+0 @S349@ SOUR
+1 TITL Deed — Rachel Pruitt, Prudence Erickson, and John Erickson to Jesse Center, Greenville District, 2 December 1830
+1 REPO Greenville District Register of Mesne Conveyance via FamilySearch
+1 NOTE Deed dated 2 Dec 1830, proved 19 Jan 1842, recorded 18 Dec 1855; FamilySearch image https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7S-ZC67
+0 @S350@ SOUR
+1 TITL Bright Burrell's letter to cousin Samuel Burrell naming the older Burrell connection, 20 August 1881
+1 REPO Burrell family papers, original-letter scans shared through FamilySearch Memories
+1 NOTE Rabun County, Georgia, 20 Aug 1881; FamilySearch memory artifact TH-7721-128270-4321-73; matching full transcript artifact TH-301-37686-136-44
+0 @S351@ SOUR
+1 TITL Greenville District equity-record indexes — complete P-surname search, 1822-1869
+1 REPO South Carolina Department of Archives and History microfilm via FamilySearch
+1 NOTE South Carolina Court of Equity, Greenville District, Index to equity records, volume B, 1822-1850 and companion index 1823-1869; FamilySearch DGS 7900587, image group TH-909-60960-146893-95, direct-index frames 52-53 and companion-index frame 93; catalog https://www.familysearch.org/search/catalog/467559
+0 @S352@ SOUR
+1 TITL Greenville County Court of Common Pleas judgment-roll index — complete P-surname search, 1792-1890
+1 REPO South Carolina Department of Archives and History microfilm via FamilySearch
+1 NOTE Index to judgment rolls 1792-1890, FamilySearch catalog 2440875, DGS 8305794; complete P section at images 102-106 (DAS image group dgs:008305794)
+0 @S353@ SOUR
+1 TITL Deed — William Pruitt to Jesse Center, 200 acres on Morgan Creek, Greenville District, 22 February 1828
+1 REPO Greenville District Register of Mesne Conveyance via FamilySearch
+1 NOTE Deed dated 22 Feb 1828, proved 10 Jul 1841, recorded 18 Dec 1855; recorded-deed page 473, FamilySearch image https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7S-ZC67
+0 @S354@ SOUR
+1 TITL Deed — Dicey Center to George W. Center, seven tracts including the William Pruitt tract, Greenville District, 11 March 1859
+1 REPO Greenville County Register of Deeds Digital Archive
+1 NOTE Greenville Deed Book Z:52-53, executed 11 Mar 1859, recorded 1 Feb 1861; Greenville County Register of Deeds Digital Archive, https://www.greenvillecounty.org/apps/DirectoryListings/ROD_DirectoryListing/
+0 @S355@ SOUR
+1 TITL George W. Center Morgan Creek conveyances, Greenville County, 1868-1881
+1 REPO Greenville County Register of Deeds Digital Archive
+1 NOTE Greenville Deed Books CC:373, HH:742, KK:23, and LL:598-600; Greenville County Register of Deeds Digital Archive, https://www.greenvillecounty.org/apps/DirectoryListings/ROD_DirectoryListing/
+0 @S356@ SOUR
+1 TITL Deeds — W. P. Hart to Joseph Burrell and Joseph Burrell to George W. Center, 40 acres on Morgan Creek, Greenville District, 1862
+1 REPO Greenville County Register of Deeds Digital Archive
+1 NOTE Greenville Deed Book Z:566-567 and 570; deeds executed 1 Jan and 20 Oct 1862, both recorded 1 Jul 1863; Greenville County Register of Deeds Digital Archive, https://www.greenvillecounty.org/apps/DirectoryListings/ROD_DirectoryListing/
+0 @S357@ SOUR
+1 TITL 1830 United States census — Abner Center household, Habersham County, Georgia
+1 REPO National Archives population schedule via Internet Archive
+1 NOTE Habersham County, handwritten page 50; NARA microfilm publication M19, roll 18; Internet Archive item populationsc18300018unit, leaf 0099; https://archive.org/details/populationsc18300018unit/page/n99/mode/1up
+0 @S358@ SOUR
+1 TITL 1830 United States census — Bright Burrell household, Macon County, North Carolina
+1 REPO National Archives population schedule via Internet Archive
+1 NOTE Macon County, handwritten page 13; NARA microfilm publication M19, roll 123; Internet Archive item populationsc18300123unit, leaf 0025; https://archive.org/details/populationsc18300123unit/page/n25/mode/1up
+0 @S359@ SOUR
+1 TITL Deed — Tobias Bright to James Bright Jr., 50 acres derived from Michael Pruitt's 1772 grant, Spartanburg District, 1799
+1 REPO Spartanburg County Register of Deeds historical deed books
+1 NOTE Spartanburg County Deed Book 1K:515-516; deed dated 1 Feb 1799, Rachel Bright dower release, recorded 7 Apr 1807; official full-volume scan https://www.spartanburgcounty.gov/DocumentCenter/View/106572/Deed-Book-1K
+0 @S360@ SOUR
+1 TITL Colonial plat — Michael Pruett, 300 acres on Thomsons Branch of Tyger River, Craven County, 1770
+1 REPO South Carolina Department of Archives and History
+1 NOTE South Carolina Colonial Plat Books (Copy Series), S213184, vol. 19, p. 291, item 01; survey dated 6 Nov 1770, certified 11 Feb 1771; official image https://www.archivesindex.sc.gov/ArchivesImages/S213184/S21318400190029101/images/S21318400190029101.jpg
+0 @S361@ SOUR
+1 TITL Royal grant — Michael Pruitt, 300 acres on Thomsons Branch of Tyger River, Craven County, 1772
+1 REPO South Carolina Department of Archives and History
+1 NOTE South Carolina Colonial Land Grants (Copy Series), S213019, vol. 25, p. 393, item 000; grant dated 15 May 1772; official image https://www.archivesindex.sc.gov/ArchivesImages/S213019/S213019002500393000/images/S213019002500393000.jpg
+0 @S362@ SOUR
+1 TITL Will of Thomas Dillard, Pittsylvania County, Virginia, 1774 — names son Thomas
+1 REPO Pittsylvania County Circuit Court records, digital image via FamilySearch
+1 NOTE Pittsylvania County Will Book 1:409-410; will dated 4 May 1774, proved 23 June 1774; FamilySearch image ARKs 3:1:3Q9M-C9PX-G9N3-K and 3:1:3Q9M-C9PX-G9N3-C
+0 @S363@ SOUR
+1 TITL Will of Col. Thomas Dillard, Washington County, North Carolina, 1784 — names sons Thomas and John
+1 REPO Washington County, Tennessee predecessor court records, digital image via FamilySearch
+1 NOTE Washington County Will Book, will dated 13 May 1784, schedule/codicil dated 23 Sep 1784; FamilySearch ARK 3:1:3QSQ-2R1B-Y9, DGS 004776240
+0 @S364@ SOUR
+1 TITL Hiram H. Hilty, Toward Freedom for All — William Norton disownment, New Garden MM, 1768
+1 REPO Digital Quaker Collection / Friends United Press
+1 NOTE Hiram H. Hilty, Toward Freedom for All: North Carolina Quakers and Slavery (Friends United Press, 1984), p. 21 and note 32; note cites New Garden Monthly Meeting Minutes, 30 July 1768; https://divinityarchive.com/bitstream/handle/11258/11621/towardfreedomfor00hilt.pdf?isAllowed=y&sequence=1
+0 @S365@ SOUR
+1 TITL Montgomery County, Virginia personal property tax list, 1782 — Norton entries
+1 REPO New River Notes; original Virginia local tax list
+1 NOTE New River Notes transcription, Montgomery County Personal Property Tax List 1782; https://www.newrivernotes.com/montgomery-personal-property-tax-list-1782/
+0 @S366@ SOUR
+1 TITL 1790 census, Pendleton County, South Carolina — Edward Norton household
+1 REPO United States Census Bureau
+1 NOTE Heads of Families at the First Census of the United States Taken in the Year 1790: South Carolina (U.S. Census Office, 1908), p. 83; https://www2.census.gov/library/publications/decennial/1790/heads-of-families-south-carolina.pdf
+0 @S367@ SOUR
+1 TITL William C. Stewart, 1800 Census of Pendleton District, South Carolina
+1 REPO Internet Archive / National Genealogical Society
+1 NOTE William C. Stewart, 1800 Census of Pendleton District, South Carolina (National Genealogical Society, 1963), entries 444, 764, 765, and 949; https://archive.org/details/1800censusofpend00stew
+0 @S368@ SOUR
+1 TITL Pendleton Messenger notices — estate of William Norton, 1829-1830
+1 REPO Old Pendleton District Chapter, South Carolina Genealogical Society
+1 NOTE Old Pendleton District Chapter, SCGS newsletter transcription, 2006, Pendleton Messenger notices dated 11 Nov 1829 and 13 Jan 1830; https://www.oldpendleton.scgen.org/newsletters/2006/2006.pdf
+0 @S369@ SOUR
+1 TITL Abraham Wiggins to Thomas Love trust deed for Dorcas, wife of Thomas Dillard, and their children, Haywood County, 1809
+1 REPO Haywood County, North Carolina Register of Deeds
+1 NOTE Haywood County Deed Book A:126-127; deed dated 16 Jun 1809, proved Sep 1811, registered 10 Oct 1811; county image path /img/nc/haywood/deedhold/deed/00000a/000126.001; https://search.haywooddeeds.com/
+0 @S370@ SOUR
+1 TITL David L. Dillard to William H. Thomas deed — one child's share of his mother's Oconaluftee trust, Haywood County, 1834
+1 REPO Haywood County, North Carolina Register of Deeds
+1 NOTE Haywood County Deed Book C:479-480; deed dated 25 Dec 1834, proved Jun 1836, registered 20 Jan 1837; county image paths /img/nc/haywood/deedhold/deed/00000c/000479.001 and 000480.001; https://search.haywooddeeds.com/
+0 @S371@ SOUR
+1 TITL Will of Merry Webb Sr., Henry County, Virginia, 1774/1779 — transcription naming daughter Martha Dillard
+1 REPO Henry County, Virginia recorded wills via FamilySearch
+1 NOTE Henry County Will Book 1:17-18; dated 6 Feb 1774, exhibited 15 Feb 1779; FamilySearch frame https://www.familysearch.org/ark:/61903/3:1:3QS7-89P6-37K5?i=18; full transcription https://sites.rootsmagic.com/NEHP/site/individual.php?p=14041
+0 @S372@ SOUR
+1 TITL Halifax County deed abstract — Thomas and Martha Dillard witness William Alexander to Merry Webb bill of sale, 1755
+1 REPO Halifax County, Virginia deed records; published abstract
+1 NOTE Halifax County Deed Book 1:167; instrument dated 17 Nov 1755, recorded 18 Mar 1756; Marian Dodson Chiarito abstract reproduced in Webb Surname DNA Project Bulletin 3:1 (Jan 2012), p. 18; https://www.webbdnaproject.org/resources/WSDP%20WEBB%20BULLETIN%20Vol%203%20Issue%201.pdf
+0 @S373@ SOUR
+1 TITL General Thomas Love of Western North Carolina and Western Tennessee and His Brothers Robert and James (Robert A. Love, 1959)
+1 REPO WV Ancestry digitized family-history collection
+1 NOTE Robert A. Love, 2nd ed. (1959), printed pp. 5-6 (scan pp. 8-9), references p. 47; https://wvancestry.com/Files/Families_of_General_Thomas_Love_and_his_bothers_Robert_and_James.pdf
+0 @S374@ SOUR
+1 TITL Augusta County deed abstract — Joseph Love and wife Mary, daughter of Joseph Tees, to Samuel Caldwell, 1766
+1 REPO Lyman Chalkley deed abstracts; Augusta County deed-book reference
+1 NOTE Augusta County Deed Book 13:461; deed dated 21 May 1766, delivered Nov 1767; Lyman Chalkley abstract reproduced at https://www.werelate.org/wiki/Person%3AJoseph_Love_%285%29; Library of Virginia microfilm listing https://www.lva.virginia.gov/collections/ccmf/VA/VA017; FamilySearch catalog https://www.familysearch.org/ja/search/catalog/832775
+0 @S375@ SOUR
+1 TITL Sally Nall Dolphin and Charles Fuller Nall, Nall Families of America, 1978 — Winifred Nalle Dillard family
+1 REPO FamilySearch Books; published genealogy
+1 NOTE Sally Nall Dolphin and Charles Fuller Nall, Nall Families of America: Including Nalle, Naul, Nalls (Coeur d'Alene, Idaho: Dolphin, 1978), 17-18; FamilySearch Books ID 186009; https://openlibrary.org/books/OL4462789M/Nall_families_of_America_including_Nalle_Naul_Nalls; research presentation https://acvancestors.com/g3/p3290.htm
+0 @S376@ SOUR
+1 TITL Black family of Peters Township — Mercersburg Historical Society transcription of Cumberland County records
+1 REPO Mercersburg Historical Society local-history website
+1 NOTE Mercersburg Historical Society, Black family research page, blog entry 79, https://mercersburghistory.org/blog/79/; transcribes Cumberland County Orphans' Court, 12 Jun 1751, and a 22 Oct 1759 land conveyance
+0 @S377@ SOUR
+1 TITL FamilySearch Family Tree profile — James Bohaney Billingsley Jr. (21TW-MN3), Rhoda Alexander parent claim
+1 REPO FamilySearch Family Tree collaborative public profile
+1 NOTE https://ancestors.familysearch.org/en/21TW-MN3/james-bohaney-billingsley-jr.-1821-1889
+0 @S378@ SOUR
+1 TITL Journeys Through Jackson, vol. 3, no. 6 (1993), Nicholson-Norton pedigree chart
+1 REPO Western Carolina University Digital Collections via GoTriple
+1 NOTE 1993 vol. 3 no. 6; WCU ContentDM object p16232coll21/139 via GoTriple: https://www.gotriple.eu/documents/ftwestcarolunidc%3Aoai%3Acdm16232.contentdm.oclc.org%3Ap16232coll21%2F139; pedigree chart page exposed in OCR
+0 @S379@ SOUR
+1 TITL Don C. Holden, The Holdens of Georgia — FamilySearch Digital Library catalog record
+1 REPO FamilySearch Digital Library — viewable in a FamilySearch Library
+1 NOTE FamilySearch Digital Library identifier 692144; catalog description: https://www.familysearch.org/library/books/records/print?fulltext=1&page=1&perpage=50&r=&refine%5BSubject%5D%5B%5D=Holden+family&search=&sort=_score
+0 @S380@ SOUR
+1 TITL FamilySearch Family Tree profile — Isaac Holden Sr. (2733-CJK), Sarah Barnes claim
+1 REPO FamilySearch Family Tree collaborative public profile
+1 NOTE https://ancestors.familysearch.org/en/2733-CJK/isaac-holden-sr-1798-1862
+0 @S381@ SOUR
+1 TITL FamilyTreeCircles post — Richard Holden and Sarah Barnes Bible/Daddy's Relatives lead
+1 REPO FamilyTreeCircles user-contributed genealogy forum
+1 NOTE https://www.familytreecircles.com/looking-for-holden-family-19840.html
+0 @S382@ SOUR
+1 TITL Dorothy Emma Smith, Daddy's Relatives — FamilySearch Digital Library catalog record
+1 REPO FamilySearch Digital Library — protected/search-only book
+1 NOTE FamilySearch Digital Library identifier 504; https://www.familysearch.org/library/books/records/item/504-daddy-s-relatives
+0 @S383@ SOUR
+1 TITL Pendleton/Anderson Index of Enslaved Persons — William Nicholson estate file 509 (1820)
+1 REPO Greenville County Library System, Upstate African American Genealogy; underlying Anderson County Probate Office Estate Records, 1789-1864
+1 NOTE PDF page 119, William Nicholson rows, Record Location 509: https://greenvillelibrary.contentdm.oclc.org/digital/api/collection/p17168coll67/id/1656/download; compound-object description: https://greenvillelibrary.contentdm.oclc.org/digital/collection/p17168coll67/id/1656/; API metadata: https://greenvillelibrary.contentdm.oclc.org/digital/api/singleitem/collection/p17168coll67/id/1656
+0 @S384@ SOUR
+1 TITL Martha Nicholson and William Nicholson to John Bryant — Pickens District Deed Book A-1:266-267 (1828), abstract
+1 REPO Old Pendleton District Chapter, SCGS; underlying Pickens County deed book
+1 NOTE Pickens District Deed Book A-1:266-267; dated 19 Nov 1828; proved 20 Dec 1828; recorded 31 Mar 1830; September 1998 newsletter PDF page 9: https://www.oldpendleton.scgen.org/newsletters/1998/1998-09.pdf
+0 @S385@ SOUR
+1 TITL Barak Norton to Elihu Criswell; Mary Norton dower release — Pickens District Deed Book A-1:268-269 (1829-1830), abstract
+1 REPO Old Pendleton District Chapter, SCGS; underlying Pickens County deed book
+1 NOTE Pickens District Deed Book A-1:268-269; deed dated 4 Jan 1829; Mary Norton's dower release dated 4 Jan 1830; recorded 5 Apr 1830; 1999 year-set newsletter PDF, printed page 52: https://www.oldpendleton.scgen.org/newsletters/1999/1999.pdf
+0 @S386@ SOUR
+1 TITL Recorded will and executor return of Mary Brownlee, Abbeville District, 1836-1846
+1 REPO Abbeville District Court of Ordinary records via FamilySearch
+1 NOTE Abbeville District probate, Box 13, Package 263; recorded will dated 10 Jun 1836, proved 19 Oct 1839; executor return recorded 1846. Locally retained FamilySearch images; public image ARKs not recovered.
+0 @S387@ SOUR
+1 TITL John B. Black receipt in Mary Brownlee's estate, 1 April 1843
+1 REPO Abbeville District Court of Ordinary loose estate papers via FamilySearch
+1 NOTE Abbeville District probate, Box 13, Package 263; loose receipt dated 1 Apr 1843 in Mary Brownlee estate; locally retained FamilySearch image 1846_estate_settlement.jpg; public image ARK not recovered.
+0 @S388@ SOUR
+1 TITL South Carolina Archives Summary Guide — Abbeville County record losses
+1 REPO South Carolina Department of Archives and History
+1 NOTE https://www.archivesindex.sc.gov/guide/countyrecords/rg0001.htm
+0 @S389@ SOUR
+1 TITL Brief history of Old Greenville Presbyterian Church — Brownlee and Cowan elders
+1 REPO Greenville Presbyterian Church, 205 Greenville Church Road, Donalds, SC 29638; greenvillechurch@gmail.com; Presbyterian Historical Society inventory via FamilySearch DGS 8889932 / FHL 505562
+1 NOTE Compiled church history: https://genealogytrails.com/scar/abbeville/church_oldgreenville.htm ; SCDAH site record: https://www.nationalregister.sc.gov/greenwood/S10817724015/index.htm
+0 @S390@ SOUR
+1 TITL WikiTree Burnett-1805 — unsourced William-of-Patrick father claim
+1 REPO WikiTree collaborative family tree
+1 NOTE https://www.wikitree.com/wiki/Burnett-1805 ; public WikiTree API getPerson response for Burnett-1805 inspected 2026-07-22
+0 @S391@ SOUR
+1 TITL Derivative Talbot-Hanover Burnett identity cluster — Jeremiah, Mary McDaniel, and Isaac
+1 REPO Derivative public trees and Maryland historical-manuscript finding aid
+1 NOTE Geneanet https://gw.geneanet.org/tdowling?lang=en&n=burnett&p=jeremiah ; Genealogie Online https://www.genealogieonline.nl/tolleson-family/I4068.php ; WeRelate https://www.werelate.org/wiki/Person%3AIsaac_Burnett_%282%29 ; MCHC MS.801 finding-aid description
+0 @S392@ SOUR
+1 TITL Hanover County genealogical research guidance — pre-1865 record loss
+1 REPO Hanover County, Virginia
+1 NOTE https://www.hanovercounty.gov/337/Genealogical-Research
+0 @S393@ SOUR
+1 TITL South Carolina land grant to John Burnett — 354 acres, recorded 1814
+1 REPO South Carolina land-grant record via FamilySearch
+1 NOTE South Carolina grant recorded 1814, 354 acres on a branch of Little River; FamilySearch image 417; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C348-G3S4-2
+0 @S394@ SOUR
+1 TITL Melvin Collier reconstruction of the younger Abbeville John Burnett
+1 REPO Roots Revealed — Melvin Collier
+1 NOTE https://rootsrevealed.blogspot.com/2012/04/aint-gonna-take-massas-name.html ; https://rootsrevealed.com/2019/08/06/different-research-approaches-same-successful-results/ ; https://rootsrevealed.com/2025/03/13/they-were-born-in-africa-was-this-correct/
+0 @S395@ SOUR
+1 TITL Thomas Blake Revolutionary War pension file S. 6662 — 1832 declaration and family-information limit
+1 REPO U.S. National Archives and Records Administration, Record Group 15
+1 NOTE NARA M804, pension file S. 6662, Thomas Blake, Virginia; NAID 53986011; declaration pages 4-5, https://catalog.archives.gov/id/53986011?objectPage=4; Veterans Administration file summary pages 17-18, https://catalog.archives.gov/id/53986011?objectPage=17
+0 @S396@ SOUR
+1 TITL John Frederick Dorman, Essex County, Virginia, Wills, Bonds, Inventories, 1722-1730 — Thomas and Winifred Dillard receipt abstract
+1 REPO Internet Archive scan of John Frederick Dorman's 1961 record abstracts
+1 NOTE John Frederick Dorman, abstractor, Essex County, Virginia: Wills, Bonds, Inventories, Etc., 1722-1730 (Washington, D.C., 1961), 80, abstracting Essex WBI 4:301; Internet Archive item essexcountyvirgi00dorm_0, PDF page 92; https://archive.org/details/essexcountyvirgi00dorm_0/page/n91/mode/1up
+0 @S397@ SOUR
+1 TITL Pickens District Real Estate Book A:1 abstract — William Norton estate and Barak Norton party list, 1829
+1 REPO South Carolina Department of Archives and History, Pickens District Court of Ordinary real estate books; public derivative abstract
+1 NOTE Pickens District Court of Ordinary, Real Estate Book A:1, 2 Nov 1829; SCDAH series L 39025; published abstract reproduced at PDF page 70 / printed page 167, https://fairfieldgenealogysociety.org/Members_Only/Families/Chapman/Documents/Chapman%20-%20FC%20Probate%20Records%201784-1860.pdf
+0 @S398@ SOUR
+1 TITL Knox County Wills & Estate Settlements Index — no Joseph Love entry, 1792–1929
+1 REPO Knox County Public Library / Knox County Archives
+1 NOTE https://www.knoxcountylibrary.org/resources/knox-county-wills-and-estate-settlements-index; index key: https://www.knoxcountylibrary.org/sites/default/files/2022-03/key_-_knoxestatesettlements1792-1929.pdf
+0 @S399@ SOUR
+1 TITL Dorothy Dillard Hughes, Joseph Dillard, His Children, and Probable Dillard Ancestors — elder Edward hypothesis
+1 REPO Dillard Family Association / public combined scan hosted by WikiTree
+1 NOTE Dillard Annual 6 (January 1999), 35-36; combined PDF pages 172-173; https://www.wikitree.com/photo.php/8/8c/The_Dillard_Family_Association_the_Dillard_Annuals.pdf
+0 @S400@ SOUR
+1 TITL Dorothy Dillard Hughes, Dillards of Culpeper County, Virginia — younger Edward chronology
+1 REPO Dillard Family Association / public combined scan hosted by WikiTree
+1 NOTE Dillard Annual 5 (January 1998), 21-24, especially 22-23; combined PDF pages 124-126; https://www.wikitree.com/photo.php/8/8c/The_Dillard_Family_Association_the_Dillard_Annuals.pdf
+0 @S401@ SOUR
+1 TITL Colonial plat for James Brownlee, 200 acres on Clarks Creek, 1768
+1 REPO South Carolina Department of Archives and History; public record reproduction
+1 NOTE South Carolina Surveyor General, Colonial Plat Books S213184, vol. 13, p. 390, item 2, 4 Mar 1768; record reproduction: https://wilsonfamilytreealbumblog.wordpress.com/wp-content/uploads/2018/10/brownlee-james1768landgrant-sc.jpg; contextual page: https://wilsonfamilytreealbumblog.wordpress.com/family-pages/james-brownlee/
+0 @S402@ SOUR
+1 TITL 1870 Rabun County mortality schedule — public transcription of James Billingsley's entry
+1 REPO Georgia Genealogy Trails transcription; original held by NARA and digitized by FamilySearch
+1 NOTE Georgia Genealogy Trails, Rabun mortality transcription, https://genealogytrails.com/geo/rabun/RabunMortality.htm; original locator NARA T655 roll 9, FHL 422415, DGS 8918957, FamilySearch catalog 783149
+0 @S403@ SOUR
+1 TITL Southern Watchman legal notice — James Billingsley estate administration application, 1870
+1 REPO Georgia Historic Newspapers, Digital Library of Georgia
+1 NOTE Southern Watchman (Athens, Georgia), 27 Apr 1870, p. 3, Rabun County legal notices; notice dated 15 Mar 1870; https://gahistoricnewspapers.galileo.usg.edu/lccn/sn82014669/1870-04-27/ed-1/seq-3/
+0 @S404@ SOUR
+1 TITL Barak Norton bounty-land application file, 55-Rejected-256617 (NARA NAID 286887518)
+1 REPO National Archives and Records Administration, Record Group 15
+1 NOTE NARA Catalog NAID 286887518; Bounty Land Application Files, ca. 1800-ca. 1900, RG 15; application 55-Rejected-256617; complete 12-page PDF https://catalog.archives.gov/medialz/dc-metro/rg-015/567388/hub0004/Barak_Norton_Bounty_Land/Barak_Norton_Bounty_Land.pdf; catalog record https://catalog.archives.gov/id/286887518
+0 @S405@ SOUR
+1 TITL Same-name exclusion — James Holden Revolutionary pension file R.5122, Brunswick County, North Carolina
+1 REPO National Archives and Records Administration, Record Group 15
+1 NOTE NARA Catalog NAID 54901910; Revolutionary War Pension and Bounty Land Warrant Application File R.5122; M804 roll 1305; catalog record https://catalog.archives.gov/id/54901910; declaration pages https://catalog.archives.gov/medialive/10/9019/54901910/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1305/images/4159543_00837.jpg and https://catalog.archives.gov/medialive/10/9019/54901910/content/23_b/M804-RevolutionaryWarPensionAppFiles_b/M804_1305/images/4159543_00838.jpg
+0 @S406@ SOUR
+1 TITL Mary Norton War of 1812 widow-pension claim 35562, Barak Norton (NARA NAID 187129922)
+1 REPO National Archives and Records Administration, Record Group 15
+1 NOTE NARA Catalog NAID 187129922, War of 1812 Pension and Bounty Land Warrant Application Files, RG 15, claim 35562; catalog record https://catalog.archives.gov/id/187129922; Mary declaration image https://catalog.archives.gov/medialz/scanned-originals/War_of_1812_PensionFiles/0011/d8795845-1885-4d9f-8c95-e8b30bc6f61d/export_War_of_1812_PensionFiles_RG15-1812PB-Bx2567_565250/images/2567_0173_Norton-Barak.jpg; family-record affidavit image at the same path as 2567_0176_Norton-Barak.jpg
+0 @S407@ SOUR
+1 TITL Same-name exclusion — Michael Pruitt War of 1812 widow-pension file WC24737, Kentucky and Indiana (NARA NAID 187170922)
+1 REPO National Archives and Records Administration, Record Group 15
+1 NOTE NARA Catalog NAID 187170922; War of 1812 Pension and Bounty Land Warrant Application Files, RG 15; widow original 16057, widow certificate 24737, bounty-land warrant 22639-160-12; catalog record https://catalog.archives.gov/id/187170922; jacket https://catalog.archives.gov/medialz/scanned-originals/War_of_1812_PensionFiles/0011/1b9decb5-6e60-45f1-a680-c33e46c501e0/export_War_of_1812_PensionFiles_RG15-1812PB-Bx2799_585774/images/2799_0555_Pruitt-Michael.jpg; widow declaration https://catalog.archives.gov/medialz/scanned-originals/War_of_1812_PensionFiles/0011/1b9decb5-6e60-45f1-a680-c33e46c501e0/export_War_of_1812_PensionFiles_RG15-1812PB-Bx2799_585774/images/2799_0571_Pruitt-Michael.jpg
+0 @S408@ SOUR
+1 TITL Etheldred Blake War of 1812 pension and bounty-land file — Collin Pool association and family-information limit (NARA NAID 110196620)
+1 REPO National Archives and Records Administration, Record Group 15
+1 NOTE NARA Catalog NAID 110196620; War of 1812 Pension and Bounty Land Warrant Application Files, RG 15; SO 27636, SC 19435, bounty-land warrants 52480 and 16334; catalog https://catalog.archives.gov/id/110196620; Collin Pool discharge https://catalog.archives.gov/medialz/scanned-originals/War_of_1812_PensionFiles/0005/60324/RG15-1812PB-Bx0320/RG15-1812PB-Bx0320/images/Template_2921505824_0509-00348.jpg; Pool/Haywood affidavit https://catalog.archives.gov/medialz/scanned-originals/War_of_1812_PensionFiles/0005/60324/RG15-1812PB-Bx0320/RG15-1812PB-Bx0320/images/Template_2921505824_0509-00362.jpg; agency family summary https://catalog.archives.gov/medialz/scanned-originals/War_of_1812_PensionFiles/0005/60324/RG15-1812PB-Bx0320/RG15-1812PB-Bx0320/images/Template_2921505824_0509-00349.jpg
+0 @S409@ SOUR
+1 TITL NC Archives War of 1812 Papers finding aid — Walter Burrell muster-roll request target
+1 REPO State Archives of North Carolina, Military Collection
+1 NOTE War of 1812 Papers (1812W), record group RID 941738, https://appx.archives.ncdcr.gov/solrDetailPages/series/NCA/Series_detail.html?fq=seriesRid:941738; Series 1, Muster Rolls, 1813-1815, Box 1, RID 966802, https://appx.archives.ncdcr.gov/solrDetailPages/series/NCA/Series_detail.html?fq=seriesRid:966802; Book 3, RID 966811, https://appx.archives.ncdcr.gov/solrDetailPages/series/NCA/Series_detail.html?fq=seriesRid:966811; Book 4, RID 966812, https://appx.archives.ncdcr.gov/solrDetailPages/series/NCA/Series_detail.html?fq=seriesRid:966812; Book 5, RID 966813, https://appx.archives.ncdcr.gov/solrDetailPages/series/NCA/Series_detail.html?fq=seriesRid:966813; related pay-and-receipt-roll microfilm Z.2.34. Published-roll comparisons: 1851 edition, printed p. 136, https://archive.org/details/musterrollsofsol00nort/page/136/mode/2up; 1873 edition, printed p. 323, https://archive.org/details/musterrollsofsolw00nort/page/323/mode/2up
+0 @S410@ SOUR
+1 TITL Greenville County Library System county Indexes of Enslaved Persons — five-county sweep for Norton, Nicholson, Pruitt, and Burrell
+1 REPO Greenville County Library System, South Carolina Room
+1 NOTE Pendleton/Anderson, item 1656, https://greenvillelibrary.contentdm.oclc.org/digital/api/collection/p17168coll67/id/1656/download; Greenville, item 1227, https://greenvillelibrary.contentdm.oclc.org/digital/api/collection/p17168coll67/id/1227/download; Pickens, item 2076, https://greenvillelibrary.contentdm.oclc.org/digital/api/collection/p17168coll67/id/2076/download; Laurens, item 1995, https://greenvillelibrary.contentdm.oclc.org/digital/api/collection/p17168coll67/id/1995/download; Spartanburg, item 1467, https://greenvillelibrary.contentdm.oclc.org/digital/api/collection/p17168coll67/id/1467/download; collection p17168coll67, Greenville County Library System, South Carolina Room
+0 @S411@ SOUR
+1 TITL Will of William Nicholson, Pendleton District, South Carolina, proved 7 August 1820 — Anderson County estate file 509
+1 REPO South Carolina Probate Court (Anderson County), via FamilySearch
+1 NOTE South Carolina, Anderson County, Probate Court, estate papers packets; jacket 'Personalty Wm Nicholson, Package No. 7, Bundle No. 15, Box 15, No. 509'; will dated and signed by William Nicholson, witnesses John McWhorter and Robert Partain (his mark), proved before Ordinary John Harris 7 August 1820; endorsed 'Recorded in Will Book A page 252'. FamilySearch DGS 8702526 (microfilm 1572238, 'Estate records, 506-535, ca. 1828-1878'), images 52-60 of 548; the will is image 56. Catalog item koha:967511.
+0 @S412@ SOUR
+1 TITL General Index, Probate Court, Anderson County, South Carolina — Nicholson and Norton entries
+1 REPO South Carolina Probate Court (Anderson County), via FamilySearch
+1 NOTE Printed 'General Index — Probate Court — Anderson County, S. C.' (Cott Printing & Index Co., Columbus, Ohio; sold by Walker, Evans & Cogswell Co., Charleston), columns Roll Number, Surname, Given Names, Description, Year. Printed page 187 (Ni) and page 189 (No). FamilySearch DGS 7903358, microfilm 1025488, 'Index to estate records, 1780-1972'; images 503 and 505 of 760. Catalog item koha:411210.
+0 @S413@ SOUR
+1 TITL Estate of William Norton, Pendleton District, South Carolina, 1821 — Anderson County estate file 515
+1 REPO South Carolina Probate Court (Anderson County), via FamilySearch
+1 NOTE South Carolina, Anderson County, Probate Court, estate papers packets, file 515; citation dated 23 October 1821 and published 28 October 1821; administration bond 26 November 1821; warrant of appraisement 24 November 1821; inventory 28 November 1821; account of sale undated. Ordinary John Harris, Pendleton District. FamilySearch DGS 8702526 (microfilm 1572238, 'Estate records, 506-535'), images 132-145 of 548. Catalog item koha:967511.
+0 @S414@ SOUR
+1 TITL General Index, Probate Court, Pickens County, South Carolina — Norton search limit
+1 REPO South Carolina Probate Court (Pickens County), via FamilySearch
+1 NOTE Bound 'General Index, Probate Court, Pickens County, S. C.', columns Year, Estate, Fiduciary, Kind, Apartment, File, Remarks. FamilySearch DGS 7649027, microfilm 24300, 'General index to probate records, N-Z 1828-1956'; N-section pages 12 through 23 sampled at images 24 and 32-37 of 374. Catalog item koha:448428.
+0 @S415@ SOUR
+1 TITL Summons in partition, real estate of William Norton deceased, Pickens District, South Carolina, 2 November 1829 — Real Estate Book A, page 1
+1 REPO Court of Ordinary, Pickens District, South Carolina, via FamilySearch full text
+1 NOTE Court of Ordinary, Pickens District, South Carolina, Real Estate Book [A], page 1; summons in partition dated and served 2 November 1829, returnable first Monday of January 1830; order of sale 4 January 1830. FamilySearch full-text record id 3:1:3Q9M-C9P1-KBVY, indexed as 'Sale, Real Estate', Pickens, South Carolina. Underlying official record dependency SCDAH series L 39025.
+0 @S416@ SOUR
+1 TITL 1860 United States census, slave schedule — James W. Black, Abbeville District, South Carolina
+1 REPO National Archives M653 via Internet Archive
+1 NOTE NARA M653, roll 1229 (South Carolina slave schedules: Abbeville, Anderson, Barnwell Districts), Abbeville District, page 199, right column, lines 5-30; enumerated by J. A. Rogers, Assistant Marshal. Internet Archive populationschedu1229unix, leaf 203 (leaf = printed page + 4). The same marshal enumerated his household on population schedule page 205, M653 roll 1212, on 28 August 1860, which is how this page was located.
+0 @S417@ SOUR
+1 TITL WikiTree profile sweep of the Norton, Nicholson and Black lines, 2026-07-26
+1 REPO WikiTree (api.wikitree.com)
+1 NOTE api.wikitree.com, actions getRelatives and searchPerson, retrieved 2026-07-26. Profiles: Norton-4355 (William Norton), Norton-2709 (Barak), Norton-14102 (Jeptha), Norton-10583 (William L.), Norton-14072 (Gideon Pickerel), Norton-12700 (Sampson), Norton-3475 (Sarah Whiteside Norton), Norton-4312 (Rodric), Pickerel-16 (Jemima), Norton-976 (Edward, immigrant), Brown-12076 (Elizabeth Brown); Nicholson-327 (William), Nicholson-3286 (Mary B.), Richardson-12076 (Martha), Nicholson-329 (Evan), Nicholson-7648 (Lemuel Madison), Nicholson-9078 (Belinda R.); Black-3352 (John Laurens), Black-7081 (Mary), Black-3345 (James William), Black-452 (Joseph Ramsey), Black-447 (John Burnett), Brownlee-121 (Elizabeth Brownlee), Killingsworth-37 (Susan E.), Cobb-4518 (Catherine Charlotte Cobb), Black-3358 (Edgar Pickens), Black-3359 (Vernon Eugene).
+0 @S418@ SOUR
+1 TITL Barak Norton v. William Beavert — Pendleton and Pickens District court of common pleas, 1827-1829
+1 REPO Court of Common Pleas, Pendleton and Pickens Districts, via FamilySearch full text
+1 NOTE Pendleton District writ entered 10 September 1827, John T. Lewis, Clerk; declaration filed 25 February 1828; referred to arbitration and award returned and confirmed 8 October 1829; judgment signed 2 November 1829, William L. Keith, Clerk. FamilySearch full-text records 3:1:3Q9M-CS73-QCSV (Pickens, 1827) and 3:1:3Q9M-CS73-QHG6 (Pickens, 1829).
+0 @S419@ SOUR
+1 TITL Rutherford County marriage bond abstracts, page 53 — the Conner and Connor grooms
+1 REPO Rutherford County marriage bonds, published abstracts, via FamilySearch
+1 NOTE Page 53, columns groom, bride, date of bonds, bondsman and witness; FamilySearch https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSZX-PSMX-Y (a second filming of the same page is 3:1:3Q9M-C9B8-T9FF-Y)
+0 @S420@ SOUR
+1 TITL Marriage bond of Gilbert Connor and Susannah Robertson, Rutherford County, 1827
+1 REPO Rutherford County marriage bonds via FamilySearch
+1 NOTE Bond dated 7 March 1827; William Adair bondsman, T. F. Birchett D.C.; FamilySearch https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSZX-P9LB-P
+0 @S421@ SOUR
+1 TITL 1850 United States census slave schedule — Rutherford County, North Carolina, Gilbert Conner
+1 REPO National Archives slave schedule via FamilySearch
+1 NOTE Schedule 2, Slave Inhabitants, Mountain Creek and Montford Cove, Rutherford County, North Carolina, enumerated 21 August 1850 by Wm Shipp, line 9; FamilySearch https://www.familysearch.org/ark:/61903/3:1:S3HT-D427-2K3
+0 @S422@ SOUR
+1 TITL 1850 United States census population schedule — the Conner households of Bills Creek district, Rutherford County, North Carolina
+1 REPO National Archives population schedule via the Internet Archive
+1 NOTE Bills Creek and adjacent Mountain Creek/Montford Cove neighborhood, enumerated 14-19 September 1850 by Wm Shipp; dwellings 1369-1543; NARA M432 reel 644, Internet Archive item populationschedu0644unix, leaves 196-213
 0 TRLR
