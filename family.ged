@@ -415,6 +415,46 @@
 1 FAMS @F9@
 1 SOUR @S11@
 1 SOUR @S135@
+1 SOUR @S445@
+1 SOUR @S446@
+1 SOUR @S448@
+1 SOUR @S450@
+1 SOUR @S454@
+1 SOUR @S456@
+1 SOUR @S458@
+1 SOUR @S489@
+1 SOUR @S490@
+1 SOUR @S491@
+1 SOUR @S492@
+1 SOUR @S495@
+1 SOUR @S497@
+1 SOUR @S498@
+1 SOUR @S499@
+1 SOUR @S500@
+1 SOUR @S501@
+1 SOUR @S503@
+1 SOUR @S504@
+1 SOUR @S505@
+1 SOUR @S506@
+1 SOUR @S507@
+1 SOUR @S508@
+1 SOUR @S509@
+1 SOUR @S510@
+1 SOUR @S511@
+1 SOUR @S512@
+1 SOUR @S513@
+1 SOUR @S514@
+1 SOUR @S515@
+1 SOUR @S516@
+1 SOUR @S517@
+1 SOUR @S518@
+1 SOUR @S519@
+1 SOUR @S520@
+1 SOUR @S521@
+1 SOUR @S522@
+1 SOUR @S523@
+1 SOUR @S524@
+1 SOUR @S525@
 0 @I31@ INDI
 1 NAME Annie /Conner/
 1 SEX F
@@ -3352,6 +3392,48 @@
 1 SOUR @S430@
 1 SOUR @S431@
 1 SOUR @S432@
+1 SOUR @S440@
+1 SOUR @S441@
+1 SOUR @S442@
+1 SOUR @S443@
+1 SOUR @S444@
+1 SOUR @S451@
+1 SOUR @S460@
+1 SOUR @S461@
+1 SOUR @S462@
+1 SOUR @S463@
+1 SOUR @S464@
+1 SOUR @S465@
+1 SOUR @S466@
+1 SOUR @S467@
+1 SOUR @S468@
+1 SOUR @S469@
+1 SOUR @S470@
+1 SOUR @S471@
+1 SOUR @S472@
+1 SOUR @S473@
+1 SOUR @S475@
+1 SOUR @S476@
+1 SOUR @S477@
+1 SOUR @S478@
+1 SOUR @S479@
+1 SOUR @S481@
+1 SOUR @S482@
+1 SOUR @S483@
+1 SOUR @S484@
+1 SOUR @S485@
+1 SOUR @S486@
+1 SOUR @S487@
+1 SOUR @S488@
+1 SOUR @S492@
+1 SOUR @S493@
+1 SOUR @S494@
+1 SOUR @S496@
+1 SOUR @S502@
+1 SOUR @S510@
+1 SOUR @S512@
+1 SOUR @S517@
+1 SOUR @S518@
 0 @I272@ INDI
 1 NAME Jemima /Evitt/
 1 SEX F
@@ -3991,6 +4073,53 @@
 2 PLAC Jackson County, North Carolina
 1 NOTE Sarah Whiteside Norton, named for Whiteside Mountain in Jackson County. She is the SARAH W. ALLEY who on 23 May 1879 swore that her transcription was a true copy of the family record of Barak Norton,
 1 FAMC @F25@
+0 @I341@ INDI
+1 NAME William /Conner/
+1 SEX M
+1 BIRT
+2 DATE abt 1799
+2 PLAC North Carolina
+1 OCCU Farming
+1 NOTE Recorded 2026-08-15 from the original image. William Conner appears as the final line of the Marcus Crofford household, dwelling and family 26, Chimney Rock township, Rutherford County, in the 1870 ce
+1 SOUR @S474@
+1 SOUR @S475@
+1 SOUR @S476@
+1 SOUR @S482@
+0 @I342@ INDI
+1 NAME George /Conner/
+1 SEX M
+1 BIRT
+2 PLAC North Carolina
+1 NOTE Recorded 2026-08-15 from the original image. George Conner Sr. heads a household on leaf 313 of the 1840 Rutherford County schedule (NARA M704 roll 370). The suffix 'Sr.' is written by the enumerator
+1 SOUR @S478@
+1 SOUR @S482@
+1 SOUR @S485@
+1 SOUR @S486@
+0 @I343@ INDI
+1 NAME George /Conner/
+1 SEX M
+1 BIRT
+2 DATE bet 1800 and 1810
+2 PLAC North Carolina
+1 NOTE Recorded 2026-08-15 from the original image. George Conner Jr. heads a household on leaf 301 of the 1840 Rutherford County schedule (NARA M704 roll 370), written by the enumerator as 'Geo. Conner Jr.'
+1 SOUR @S478@
+1 SOUR @S480@
+1 SOUR @S486@
+0 @I344@ INDI
+1 NAME Maggie /Conner/
+1 SEX F
+1 BIRT
+2 DATE 3 Nov 1857
+2 PLAC Rutherford County, North Carolina
+1 DEAT
+2 DATE 11 Nov 1937
+2 PLAC Asheville, Buncombe County, North Carolina
+1 BURI
+2 PLAC County Cemetery, Asheville, Buncombe County, North Carolina
+1 OCCU House work
+1 NOTE Daughter of Gilbert Conner and Elizabeth Griggs, identified 2026-08-18 from her own death certificate, which names both parents. Born 3 November 1857 in Rutherford County; died 11 November 1937 at 35
+1 FAMC @F9@
+1 SOUR @S518@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -4828,6 +4957,7 @@
 1 HUSB @I271@
 1 WIFE @I30@
 1 CHIL @I24@
+1 CHIL @I344@
 1 SOUR @S9@
 1 SOUR @S188@
 1 SOUR @S196@
@@ -4835,6 +4965,7 @@
 1 SOUR @S328@
 1 SOUR @S329@
 1 SOUR @S330@
+1 SOUR @S518@
 0 @F90@ FAM
 1 HUSB @I181@
 0 @F91@ FAM
@@ -6679,4 +6810,376 @@
 1 TITL Marriage bond of Bush R. Conner and Masey Conner, Haywood County, 1832
 1 REPO Haywood County marriage bonds via FamilySearch
 1 NOTE Bond dated 23 July 1832; https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSC3-D2LJ
+0 @S433@ SOUR
+1 TITL Rutherford County Court of Probate minute — sheriff return naming Gilbert Conner Jr., September 1862
+1 REPO Rutherford County Court of Probate minutes via FamilySearch
+1 NOTE Minute Docket Court of Probate, September Term 1862, manuscript page 26; FamilySearch https://www.familysearch.org/ark:/61903/3:1:3QS7-99GD-FXM4
+0 @S434@ SOUR
+1 TITL Rutherford sheriff tax-credit return — Gilbert Conner, 1858 tax year
+1 REPO Rutherford County Court minutes via FamilySearch
+1 NOTE Rutherford County Court minutes, manuscript pages 671-672; list allowed in settlement of taxes for 1858 payable in 1859; FamilySearch https://www.familysearch.org/ark:/61903/3:1:3QS7-99GD-FXNQ
+0 @S435@ SOUR
+1 TITL Rutherford County Court minute — State v. Jonathan Conner and Gilbert Conner, scire facias, Fall 1857
+1 REPO Rutherford County Court minutes via FamilySearch
+1 NOTE Fall Court 1857, manuscript pages 519-520, State Docket No. 3, 'Scifa'; FamilySearch https://www.familysearch.org/ark:/61903/3:1:3QS7-99GD-F6KD
+0 @S436@ SOUR
+1 TITL Justice's debt summons and judgment — J. W. Bright v. Gilbert Conner, Rutherford County, 1857-1858
+1 REPO Rutherford County civil action papers via FamilySearch
+1 NOTE Rutherford County loose justice-court paper, cataloged 1858; FamilySearch https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3V-F91T-P
+0 @S437@ SOUR
+1 TITL Rutherford County recorded deed no. 613 — Gilbert Conner witness by mark; acknowledged Spring Court 1843
+1 REPO Rutherford County deeds via FamilySearch
+1 NOTE Rutherford County deed record, instrument no. 613, concluding on manuscript page 450; Spring Court 1843 acknowledgment; FamilySearch https://www.familysearch.org/ark:/61903/3:1:3QS7-L98Q-3Q35
+0 @S438@ SOUR
+1 TITL Marriage bond of George Conner and Susen Dalton — Gilbert Conner bondsman, Rutherford County, 1851
+1 REPO Rutherford County marriage bonds via FamilySearch
+1 NOTE Bond dated 22 March 1851; R. L. Gilkey, clerk/witness; FamilySearch https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91C-43NP-C
+0 @S439@ SOUR
+1 TITL 1860 United States census — younger Gilbert and Mary Conner household, Rutherford County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE Buffalo District, pages 188-189, dwelling/family 1365; Gilbert on page 188 line 40, enumerated 24 July 1860, https://www.familysearch.org/ark:/61903/3:1:33SQ-GBS6-3H3; Mary continues on page 189 line 1, enumerated 25 July 1860, https://www.familysearch.org/ark:/61903/3:1:33S7-9BS6-3ZH
+0 @S440@ SOUR
+1 TITL 1870 United States census — complete Chimney Rock township manuscript sweep, Rutherford County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE NARA M593, FamilySearch DGS 004277635, frames 33-58; complete township sequence read image by image
+0 @S441@ SOUR
+1 TITL 1870 United States census — complete Camp Creek township manuscript sweep, Rutherford County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE NARA M593, FamilySearch DGS 004277635, frames 5-30; opening frame APID TH-266-11031-22533-66
+0 @S442@ SOUR
+1 TITL 1870 United States census — Joseph and Adaline Conner household, Chimney Rock township, Rutherford County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE Chimney Rock township, page 17, lines 30-33, enumerated 24 June 1870; DGS 004277635 frame 49; APID TH-266-11031-23673-33
+0 @S443@ SOUR
+1 TITL Rutherford County deed grantee index — complete Conner and Connor entries
+1 REPO Rutherford County deed indexes via FamilySearch
+1 NOTE Conner/Connor page 39, DGS 7558056 frame 124, APID TH-1942-38713-20663-31
+0 @S444@ SOUR
+1 TITL Rutherford County deed grantor index — complete Conner and Connor entries
+1 REPO Rutherford County deed indexes via FamilySearch
+1 NOTE Conner/Connor page 42, DGS 7558061 frame 122, APID TH-1971-38718-5495-46
+0 @S445@ SOUR
+1 TITL Rutherford County marriage-bond abstracts — Banister Grigg entries
+1 REPO Rutherford County marriage-bond abstracts via FamilySearch
+1 NOTE Compiled Rutherford bond-book page 117; Banister Grigg-Rebekah Randele entry https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9B8-T9FW-8; Banister Grigg-Nancy Welman entry https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSZX-PSM6-Q
+0 @S446@ SOUR
+1 TITL Rutherford County loose marriage bonds — Grigg alphabetical packet, Banister bonds absent
+1 REPO Rutherford County loose marriage bonds via FamilySearch
+1 NOTE FamilySearch DGS 007740373, 1,079 images; expected Grigg surname run at frames 459-462
+0 @S447@ SOUR
+1 TITL 1820 United States census — Banister Grigg household, Rutherford County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE FamilySearch APID TH-1942-25106-7147-38; https://www.familysearch.org/ark:/61903/3:1:33SQ-GYTT-4B4
+0 @S448@ SOUR
+1 TITL 1830 United States census — Banister Grigg household, Rutherford County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE FamilySearch APID TH-1951-25108-16883-63; https://www.familysearch.org/ark:/61903/3:1:33S7-9YTB-VGP
+0 @S449@ SOUR
+1 TITL 1840 United States census — two B. Grigg households, Rutherford County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE Both entries on the same manuscript page; FamilySearch https://www.familysearch.org/ark:/61903/3:1:33SQ-GYB3-CP8; APIDs TH-1942-25143-8801-25, records XHBQ-QVH and XHBQ-QVZ
+0 @S450@ SOUR
+1 TITL Deed of Banister Grigg to Rachel Grigg, Rutherford County, 1836
+1 REPO Rutherford County deeds via FamilySearch
+1 NOTE Deed dated 28 July 1836; FamilySearch full-text record https://www.familysearch.org/ark:/61903/3:1:3QS7-8982-CVNQ
+0 @S451@ SOUR
+1 TITL Lufty Baptist Church minutes — Samuel, Nancy, and Masey Conner, 1836-1847
+1 REPO Lufty Baptist Church records via FamilySearch
+1 NOTE Lufty Baptist Church record book, FamilySearch catalog koha:329399, DGS 008532582; constitution list dated 6 June 1836, image 12, APID TH-909-84314-4592-44; March 1847 minute, manuscript page 24, image 26, APID TH-909-84314-4704-38
+0 @S452@ SOUR
+1 TITL 1830 United States census — Samuel Conner household, Haywood County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE Haywood County manuscript schedule; FamilySearch https://www.familysearch.org/ark:/61903/3:1:33SQ-GYY6-9TMH
+0 @S453@ SOUR
+1 TITL Haywood County estate index — no Samuel Conner entry, 1809-1942
+1 REPO Haywood County estate records via FamilySearch
+1 NOTE Haywood County estate index, 1809-1942, DGS 007067703 image 15, APID TH-1971-32021-20647-91
+0 @S454@ SOUR
+1 TITL Deed of Banister and Nancy Grigg to their son Burwell W. Grigg, Cleveland County, 1866
+1 REPO Cleveland County deeds via FamilySearch
+1 NOTE Deed dated 8 March 1866, registered 7 August 1866; FamilySearch https://www.familysearch.org/ark:/61903/3:1:3QS7-8982-CJTZ; duplicate filming 3:1:3QSQ-G98M-V3F7
+0 @S455@ SOUR
+1 TITL Will of William Wellman, Cleveland County, North Carolina, 1856
+1 REPO Cleveland County recorded wills via FamilySearch
+1 NOTE Recorded will pages 218-219, dated 27 January 1856; FamilySearch https://www.familysearch.org/ark:/61903/3:1:939N-Z43J-ZS
+0 @S456@ SOUR
+1 TITL Caveat to the will of William Wellman — Banister Grigg and wife Nancy among heirs and next of kin
+1 REPO Cleveland County estate papers via FamilySearch
+1 NOTE Original caveat page; FamilySearch https://www.familysearch.org/ark:/61903/3:1:33S7-9YFJ-SHS
+0 @S457@ SOUR
+1 TITL 1860 United States census — Robert M. and Sarah Wilson household, Cleveland County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE Cleveland County page 33, dwelling/family 221; FamilySearch https://www.familysearch.org/ark:/61903/3:1:33S7-9BSX-9ZJK
+0 @S458@ SOUR
+1 TITL 1870 United States census — Banister Gregg, Sarah Gregg, and Robert Wilson household, Cleveland County, North Carolina
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE FamilySearch persona MW8D-N54; https://www.familysearch.org/ark:/61903/3:1:S3HY-XHGS-R7L
+0 @S459@ SOUR
+1 TITL 1870 Rutherford County census — township frame map from Colfax through Morgan
+1 REPO National Archives population schedule via FamilySearch
+1 NOTE FamilySearch DGS 004277635: Colfax frames 61-85; Cool Spring 87-139; Golden Valley 140-167; Green Hill 169-198; High Shoals 201-224; Logan Store 225-264; Morgan 265-283; Rutherford begins frame 285
+0 @S460@ SOUR
+1 TITL 1870 United States census — complete Morgan township manuscript sweep, Rutherford County, North Carolina
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaves 262-281 (equivalently FamilySearch DGS 004277635 frames 265-284); Morgan township pages 1-19, enumerated 6-10 August 1870 by R. W. Logan, Ass't Marshal, post office Rutherfordton
+0 @S461@ SOUR
+1 TITL 1870 Rutherford County census — NARA M593 roll 1159 open-access reel and frame calibration
+1 REPO National Archives microfilm M593 via archive.org
+1 NOTE archive.org item populationschedu1159unit (800 leaves), reel 1159 of NARA M593 covering Rutherford and Sampson Counties; images via the BookReader endpoint, no authentication required
+0 @S462@ SOUR
+1 TITL 1870 United States census — complete High Shoals township manuscript sweep, Rutherford County, North Carolina
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaves 198-221 (equivalently FamilySearch DGS 004277635 frames 201-224); High Shoal township pages 1-23, enumeration begun 18 July 1870
+0 @S463@ SOUR
+1 TITL 1870 United States census — complete Colfax township manuscript sweep, Rutherford County, North Carolina
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaves 58-82 (equivalently FamilySearch DGS 004277635 frames 61-85); Colfax township pages 1-25, enumerated 30 August to 1 September 1870 by A. J. Scoggin, Ass't Marshal, post office Moorsboro
+0 @S464@ SOUR
+1 TITL 1870 United States census — complete Golden Valley township manuscript sweep, Rutherford County, North Carolina
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaves 136-164 (equivalently FamilySearch DGS 004277635 frames 140-167); Golden Valley township pages 1-28, enumeration begun 27 June 1870, later pages by A. J. Scoggin, Ass't Marshal, post office Moorsboro
+0 @S465@ SOUR
+1 TITL 1870 United States census — complete Green Hill township manuscript sweep, Rutherford County, North Carolina
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaves 166-195 (equivalently FamilySearch DGS 004277635 frames 169-198); Green Hill township pages 1-30, enumerated July to September 1870 by R. W. Logan, Ass't Marshal, post office Rutherfordton; leaves 196-197 are blank ruled pages
+0 @S466@ SOUR
+1 TITL 1870 United States census — Elizabeth and Pinkney household, Green Hill township, Rutherford County, North Carolina (excluded near miss)
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaf 191, lines 21-24, dwelling 193, family 189; Green Hill township page 26
+0 @S467@ SOUR
+1 TITL 1870 United States census — complete Logan Store township manuscript sweep, Rutherford County, North Carolina
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaves 222-261 (equivalently FamilySearch DGS 004277635 frames 225-264); Loganstore township pages 1-40
+0 @S468@ SOUR
+1 TITL 1870 Rutherford County census — complete township map of NARA M593 roll 1159 to the Sampson County boundary
+1 REPO National Archives microfilm M593 via archive.org
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit; township headers read to the county boundary. Rutherford County occupies leaves 5-349; Sampson County begins about leaf 350, where the post office becomes Clinton
+0 @S469@ SOUR
+1 TITL 1870 United States census — Hickorynut Gap township manuscript sweep, Rutherford County, North Carolina
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaves 311-335, leaf 336 blank (equivalently FamilySearch DGS 004277635 frames 314-338); Hickorynut Gap township, enumerated in two stints
+0 @S470@ SOUR
+1 TITL 1870 United States census — complete Rutherford township manuscript sweep including Rutherfordton, Rutherford County, North Carolina
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaves 282-310 (equivalently FamilySearch DGS 004277635 frames 285-313); Rutherford township pages 1-28, enumerated to 10 September 1870 by R. W. Logan, Ass't Marshal
+0 @S471@ SOUR
+1 TITL 1870 United States census — complete Union township manuscript sweep, Rutherford County, North Carolina
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaves 337-349 (equivalently FamilySearch DGS 004277635 frames 340-352); Union township pages 1-13; leaf 350 blank and Sampson County begins at leaf 351
+0 @S472@ SOUR
+1 TITL 1870 United States census — complete Cool Spring township manuscript sweep, Rutherford County, North Carolina
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaves 84-135 (equivalently FamilySearch DGS 004277635 frames 87-138); Cool Spring township, enumerated in two stints, closing with the enumerator's certification dated November 1870
+0 @S473@ SOUR
+1 TITL 1870 United States census — complete Rutherford County sweep, all twelve townships, negative for the Gilbert Conner family
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaves 2-349 in full; all twelve Rutherford County townships read line by line on original images
+0 @S474@ SOUR
+1 TITL 1870 United States census — Marcus Crofford household including William Conner, 71, Chimney Rock township, Rutherford County, North Carolina
+1 REPO National Archives microfilm M593 via archive.org; same filming as FamilySearch DGS 004277635
+1 NOTE NARA M593 roll 1159, archive.org item populationschedu1159unit, leaf 33 (FamilySearch DGS 004277635 frame 36); Chimney Rock township, dwelling 26, family 26, final line of the household; FamilySearch persona ark:/61903/1:2:M7PZ-ZYW, image ark:/61903/3:1:S3HT-D4LR-D5
+0 @S475@ SOUR
+1 TITL 1870 Rutherford County census — FamilySearch index of Conner households cross-checked against the completed image sweep
+1 REPO FamilySearch index, compared with National Archives microfilm M593
+1 NOTE FamilySearch search service, collection 1438024 (United States Census, 1870), surname Conner and surname Connor, residence Rutherford County, North Carolina, 1870; compared against the completed twelve-township image sweep of NARA M593 roll 1159
+0 @S476@ SOUR
+1 TITL 1860 United States census — FamilySearch index of Conner households, Rutherford County, North Carolina
+1 REPO FamilySearch index
+1 NOTE FamilySearch search service, 1860 United States Census, surname Conner, residence Rutherford County, North Carolina
+0 @S477@ SOUR
+1 TITL 1840 United States census — FamilySearch index of Conner households, Rutherford County, North Carolina, shown incomplete
+1 REPO FamilySearch index, compared with NARA microfilm evidence
+1 NOTE FamilySearch search service, 1840 United States Census, surname Conner, residence Rutherford County, North Carolina; compared against the project's 1850 Bill's Creek image sweep
+0 @S478@ SOUR
+1 TITL 1840 United States census — complete Rutherford County manuscript sweep, North Carolina
+1 REPO National Archives microfilm M704 via archive.org
+1 NOTE NARA M704 roll 370, archive.org item populationsc18400370unit, leaves 165-345 read in full; the schedule's names of heads of families appear on the odd-numbered leaves, the even leaves being the right-hand continuation of each ledger opening
+0 @S479@ SOUR
+1 TITL 1830 United States census — NARA M19 roll 124 access groundwork for Rutherford County, North Carolina
+1 REPO National Archives microfilm M19 via archive.org
+1 NOTE archive.org item populationsc18300124unit (NARA M19 roll 124), 1059 leaves, covering Person, Pitt, Perquimans, Pasquotank, Richmond, Robeson, Rockingham, Rowan, and Rutherford Counties, Rutherford last
+0 @S480@ SOUR
+1 TITL 1830 United States census — George Conner Jr. household, Rutherford County, North Carolina
+1 REPO 1830 federal population schedule, filmed copy
+1 NOTE 1830 Rutherford County schedule, stamped page 516 (archive.org populationsc18300124unit, near leaf 1008), George Conner Jr. household row; cached image george_conner_rutherford_1830_george_row.png
+0 @S481@ SOUR
+1 TITL 1830 United States census — Isaac Conner and Allen Conner households, Rutherford County, North Carolina
+1 REPO National Archives microfilm M19 via archive.org
+1 NOTE NARA M19 roll 124, archive.org item populationsc18300124unit, leaf 1036, consecutive entries near the foot of the page, following John Speck and preceding Mary Jones
+0 @S482@ SOUR
+1 TITL 1830 United States census — complete Rutherford County manuscript sweep, North Carolina
+1 REPO National Archives microfilm M19 via archive.org
+1 NOTE NARA M19 roll 124, archive.org item populationsc18300124unit; name pages read at leaves 869-1003 odd and 1006-1056 even, covering the First Regiment (869-921, certification 923, recapitulations 925 and 927), the further regiment pages to 1003, and the final division 1006-1056 closing at 1057
+0 @S483@ SOUR
+1 TITL 1840 United States census — leaf 269 name column recovered beneath a film stain, Rutherford County, North Carolina
+1 REPO National Archives microfilm M704 via archive.org
+1 NOTE NARA M704 roll 370, archive.org item populationsc18400370unit, leaf 269, read at scale=1 with local normalisation to see beneath the stain
+0 @S484@ SOUR
+1 TITL 1820 United States census — complete Rutherford County manuscript sweep, North Carolina
+1 REPO National Archives microfilm M33 via archive.org
+1 NOTE NARA M33 roll 80, archive.org item populationsc18200080unit, leaves 267-326 read in full; title card at leaf 267, county total at leaf 322, recapitulations at 324-325, closing leaf 326, with the Washington County title card at leaf 328
+0 @S485@ SOUR
+1 TITL 1820 United States census — George Conners household, Rutherford County, North Carolina
+1 REPO National Archives microfilm M33 via archive.org
+1 NOTE NARA M33 roll 80, archive.org item populationsc18200080unit, leaf 298, second block of the page, entered as George Conners
+0 @S486@ SOUR
+1 TITL North Carolina land grant — George W. Conner, 45 acres on Bills Creek, Rutherford County, 1832
+1 REPO State Archives of North Carolina land grant office
+1 NOTE North Carolina land grant, Rutherford County grant no. 3670, Patent Book 140 page 282; warrant entered 25 Oct 1831 as Rutherford entry no. 968; grant issued 20 Dec 1832; land office file no. 3703; State Archives of North Carolina MARS 12.14.108.3708; indexed at nclandgrants.com
+0 @S487@ SOUR
+1 TITL North Carolina land grant — George Conner, 200 acres on Chinquapin Creek, Craven County, 1753 (excluded, eastern family)
+1 REPO State Archives of North Carolina land grant office
+1 NOTE North Carolina land grant, Craven County grant no. 281, Patent Book 2 page 57, issued 11 May 1753 by Matthew Rowan; land office file no. 579; MARS 12.14.50.578
+0 @S488@ SOUR
+1 TITL North Carolina land grant — Samuel Conner, 100 acres on Luck Fork of Buffalo Creek, Lincoln County, 1809
+1 REPO State Archives of North Carolina land grant office
+1 NOTE North Carolina land grant, Lincoln County grant no. 2235, Patent Book 125 page 287; warrant entered 29 Aug 1808 as Lincoln entry no. 36; grant issued 6 Dec 1809; land office file no. 2608; State Archives of North Carolina MARS 12.14.82.2626; indexed at nclandgrants.com
+0 @S489@ SOUR
+1 TITL North Carolina land grant — heirs of Thomas Grier, namely William Wilman, James Ealom and Barristen Grigg, Rutherford County, 1797
+1 REPO State Archives of North Carolina land grant office
+1 NOTE North Carolina land grant, Rutherford County, Patent Book 96 page 390; warrant entered 3 Jan 1797 as Rutherford entry no. 1019; grant issued 18 Dec 1797; land office file no. 1668; State Archives of North Carolina MARS 12.14.108.1666; archivist's subject index reads Greir, Thomas / Wilman, William / Ealom, James / Grigg, Barrister / Wilson, James Jr.; indexed at nclandgrants.com. The site flags archivist notes and uncorrected data on this entry
+0 @S490@ SOUR
+1 TITL North Carolina land grant — Burrel Grigg, 5 acres on First Broad River, Rutherford County, 1807
+1 REPO State Archives of North Carolina land grant office
+1 NOTE North Carolina land grant, Rutherford County grant no. 2624, Patent Book 122 page 447; entered 17 Oct 1806 as entry no. 397; issued 28 Nov 1807; file no. 2659; MARS 12.14.108.2661
+0 @S491@ SOUR
+1 TITL North Carolina land grant — Burwell Grigg, 15 acres on Maple Creek of First Broad River, Rutherford County, 1827
+1 REPO State Archives of North Carolina land grant office
+1 NOTE North Carolina land grant, Rutherford County grant no. 3370, Patent Book 137 page 77; entered 22 Jan 1824 as entry no. 2569; issued 13 Jan 1827; file no. 3406; MARS 12.14.108.3410
+0 @S492@ SOUR
+1 TITL Rutherford County loose wills, alphabetical series — complete G section, no Grier or Grigg will
+1 REPO North Carolina County Court of Pleas and Quarter Sessions (Rutherford County), via FamilySearch
+1 NOTE FamilySearch DGS 7640184, Rutherford County 'Miscellaneous probate records, 1784-1850', film 19908, 'Wills, Vols. 1-2 Ace-Pai', 616 images; G section read at images 241-255; catalog item koha:347889
+0 @S493@ SOUR
+1 TITL Rutherford County loose wills, alphabetical series — complete C section, no Conner will
+1 REPO North Carolina County Court of Pleas and Quarter Sessions (Rutherford County), via FamilySearch
+1 NOTE FamilySearch DGS 7640184, Rutherford County 'Miscellaneous probate records, 1784-1850', film 19908, 'Wills, Vols. 1-2 Ace-Pai'; C section read at images 121-141; catalog item koha:347889
+0 @S494@ SOUR
+1 TITL Rutherford County 'Miscellaneous probate records, 1784-1850' film DGS 7640185 — contents established, guardian accounts begin 1840
+1 REPO North Carolina County Court of Pleas and Quarter Sessions (Rutherford County), via FamilySearch
+1 NOTE FamilySearch DGS 7640185, Rutherford County film 19909, 715 images; probed at images 80, 200, 320, 325, 345, 365, 385, 405, 425, 440, 560 and 680; catalog item koha:347889
+0 @S495@ SOUR
+1 TITL Rutherford County grantor index 1779-1917 — early Grigg conveyances, including Burrell Grigg to Banister Grigg 1816
+1 REPO Rutherford County (North Carolina) Register of Deeds, via FamilySearch
+1 NOTE FamilySearch DGS 7558061, film 427279, 'General index to real estate conveyances of Rutherford County, N.C., from 1779 to 1917 — Grantor', A-L; Grigg entries at image 247, printed page 31; catalog item koha:183242
+0 @S496@ SOUR
+1 TITL Rutherford County grantor index 1779-1917 — no Grier heading in the G section
+1 REPO Rutherford County (North Carolina) Register of Deeds, via FamilySearch
+1 NOTE FamilySearch DGS 7558061, film 427279, grantor index A-L, G section read across images 241-248
+0 @S497@ SOUR
+1 TITL Rutherford County deed — Burrell Grigg to Banister Grigg, 150 acres on Maple and Magness Creek, 1810, registered 1816
+1 REPO Rutherford County (North Carolina) Register of Deeds, via FamilySearch
+1 NOTE Rutherford County deed book 27-28 page 425, instrument no. 174, registered 21 February 1816; FamilySearch DGS 7517765, image 730; catalog koha:183242
+0 @S498@ SOUR
+1 TITL Rutherford County deed — Burrell Grigg Senior to Burrell Grigg Junior, 1818, registered 1821
+1 REPO Rutherford County (North Carolina) Register of Deeds, via FamilySearch
+1 NOTE Rutherford County deed book 32-33 page 379, instrument no. 83, registered 15 May 1821; FamilySearch DGS 7517766, image 499
+0 @S499@ SOUR
+1 TITL Rutherford County grantee index 1779-1917 — complete Grigg run, 1800-1838
+1 REPO Rutherford County (North Carolina) Register of Deeds, via FamilySearch
+1 NOTE FamilySearch DGS 7558056, film 427281 series, 'General index to real estate conveyances of Rutherford County, N.C., from 1779 to 1917 — Grantee', A-L; Grigg run at image 255; catalog koha:183242
+0 @S500@ SOUR
+1 TITL Rutherford County deed — William Wellman to Bannister Grigg, Maple Swamp of First Broad River, 1816, registered 1828
+1 REPO Rutherford County (North Carolina) Register of Deeds, via FamilySearch
+1 NOTE Rutherford County deed book 36 page 204, instrument no. 329, registered 31 July 1828; FamilySearch DGS 7517767, image 433
+0 @S501@ SOUR
+1 TITL Rutherford County grantee index 1779-1917 — complete Elam run, with Jane Elam conveying to three Elam men 1825-1830
+1 REPO Rutherford County (North Carolina) Register of Deeds, via FamilySearch
+1 NOTE FamilySearch DGS 7558056, 'General index to real estate conveyances of Rutherford County, N.C., from 1779 to 1917 — Grantee', A-L; Elam run at image 185; catalog koha:183242
+0 @S502@ SOUR
+1 TITL Rutherford County grantee index 1779-1917 — no Grier heading; a single Thomas Greer entry of 1814
+1 REPO Rutherford County (North Carolina) Register of Deeds, via FamilySearch
+1 NOTE FamilySearch DGS 7558056, grantee index A-L, G section read across images 252-256
+0 @S503@ SOUR
+1 TITL Rutherford County deed — Jane Elam to Joel Elam, Knob Creek of First Broad River, 1824, registered 1827
+1 REPO Rutherford County (North Carolina) Register of Deeds, via FamilySearch
+1 NOTE Rutherford County deed book 36 page 118, instrument no. 189, registered 23 November 1827; FamilySearch DGS 7517767, image 389; catalog koha:183242
+0 @S504@ SOUR
+1 TITL Rutherford County deed indexes 1779-1917 — no Grigg or Elam gift deed exists; complete Elam grantor run
+1 REPO Rutherford County (North Carolina) Register of Deeds, via FamilySearch
+1 NOTE FamilySearch DGS 7558061, 'General index to real estate conveyances of Rutherford County, N.C., from 1779 to 1917 — Grantor', A-L; Elam run at image 184; read together with the Grigg grantor run at image 247, the Grigg grantee run at DGS 7558056 image 255, and the Elam grantee run at image 185; catalog koha:183242
+0 @S505@ SOUR
+1 TITL 1916 North Carolina death certificate — Elizabeth Conner, widow, father Henry Griggs, Madison County (candidate identification)
+1 REPO North Carolina State Board of Health, via FamilySearch
+1 NOTE North Carolina State Board of Health certificate of death no. 14, Madison County, registration district 58-562, filed 27 December 1916; FamilySearch 'North Carolina, Deaths, 1906-1930', persona ark:/61903/1:2:9XQL-D2X, image ark:/61903/3:1:S3HT-6PNS-DQD
+0 @S506@ SOUR
+1 TITL Buncombe County censuses 1800-1840 — Henry Griggs household, corroborating the 1916 certificate's named father
+1 REPO United States federal censuses, via FamilySearch index
+1 NOTE FamilySearch indexed United States censuses of 1800, 1810, 1820, 1830 and 1840, Buncombe County, North Carolina, households of Henry Griggs; the 1800 entry is in Morgan district, Buncombe
+0 @S507@ SOUR
+1 TITL Buncombe County census images 1820, 1830 and 1840 — the two Henry Griggs households read at full resolution
+1 REPO United States federal censuses, via FamilySearch
+1 NOTE United States federal census, Buncombe County, North Carolina: 1820 page 86 (image ark:/61903/3:1:33SQ-GYTT-CLQ, persona ark:/61903/1:2:1TNC-LZZ); 1830 page 242 (image ark:/61903/3:1:33S7-9YYJ-VL6, persona ark:/61903/1:2:1TVX-32Q); 1840 page 143 (image ark:/61903/3:1:33SQ-GYB3-N6)
+0 @S508@ SOUR
+1 TITL 1830 Buncombe County census — all three Griggs households read, only James Griggs holds a girl of Elizabeth's age
+1 REPO United States federal censuses, via FamilySearch
+1 NOTE United States federal census 1830, Buncombe County, North Carolina: Sheadrack Griggs page 241 (image ark:/61903/3:1:33SQ-GYYJ-KJL), Henry Griggs page 242 (image ark:/61903/3:1:33S7-9YYJ-VL6), James Griggs page 267 (image ark:/61903/3:1:33S7-9YYJ-VCD)
+0 @S509@ SOUR
+1 TITL Buncombe County wills and estate papers 1663-1978 — no Henry Griggs estate file exists (negative)
+1 REPO North Carolina State Archives, via FamilySearch
+1 NOTE FamilySearch catalogue koha:456769, 'Wills and estate papers (Buncombe County), 1663-1978'; the Goldsmith-to-Groesbeck film is DGS 4854084 (microfilm 1673750, 1814 images), Griggs folders at images 1779-1782
+0 @S510@ SOUR
+1 TITL Buncombe County Index to Female Marriages 1851-1937 — the 1852 Griggs-Mathis and 1855 Mathis-Conner entries located and dated
+1 REPO Buncombe County Register of Deeds, via FamilySearch
+1 NOTE Buncombe County, North Carolina, 'Index to Female Marriages Book': A-K 1851-1937 page 369 (image ark:/61903/3:1:3Q9M-CS4T-W9PX-M, persona ark:/61903/1:2:QRV8-DZ4L) and L-Z 1851-1937 page 585 (image ark:/61903/3:1:3Q9M-CS4T-W9PM-J, persona ark:/61903/1:2:QRVH-MJVP); second filming at ark:/61903/3:1:3QS7-89V6-H35G and 3:1:3QS7-89V6-H3KM
+0 @S511@ SOUR
+1 TITL 1850 census — no Elizabeth Griggs born about 1820 exists in North Carolina, and the Buncombe one is Shad Griggs's daughter b.1834
+1 REPO United States federal censuses, via FamilySearch index
+1 NOTE United States federal census 1850: household of Shad Griggs, Buncombe County, North Carolina (persona ark:/61903/1:2:MWKY-NG3, image ark:/61903/3:1:S3HY-6PM3-HYS); statewide index search for Elizabeth Griggs born 1812-1828
+0 @S512@ SOUR
+1 TITL Buncombe County marriage bonds and records — surveyed, the originals behind the register entries are not digitised (negative)
+1 REPO North Carolina State Archives and Buncombe County Register of Deeds, via FamilySearch
+1 NOTE FamilySearch catalogue koha:1908644 'Marriage bonds (Buncombe County), 1791-1868', DGS 7742315, 44 images; and koha:294626 'Marriage records 1851-1889', DGS 7596988, 105 images
+0 @S513@ SOUR
+1 TITL 1840 Buncombe census — Shad Griggs keeps an elderly woman of Henry senior's wife's age, and James Griggs has left the county
+1 REPO United States federal censuses, via FamilySearch
+1 NOTE United States federal census 1840, Buncombe County, North Carolina, page 143, households of Henry Griggs and Shad Griggs (image ark:/61903/3:1:33SQ-GYB3-N6); with a nationwide 1840 index search for James Griggs and James Grigg
+0 @S514@ SOUR
+1 TITL 1810 and 1800 Buncombe censuses — Henry Griggs senior born 1765-1775, and his wife too old to make our slot a clean fit
+1 REPO United States federal censuses, via FamilySearch
+1 NOTE United States federal census, Buncombe County, North Carolina: 1810 page 91 (image ark:/61903/3:1:33SQ-GYY8-39QQ, persona ark:/61903/1:2:XH26-D71) and 1800 page 170 (image ark:/61903/3:1:33SQ-GRZC-5ZF, persona ark:/61903/1:2:XHR8-KWF)
+0 @S515@ SOUR
+1 TITL Buncombe County court minutes DGS 8189307 — film mapped by term, the 1819-1825 minutes are frames 205-279
+1 REPO Buncombe County Clerk of Court, via FamilySearch
+1 NOTE FamilySearch catalogue koha:289676, 'Court minutes, 1792-1796, 1798-1815, 1819-1825, and 1832-1834', Buncombe County, North Carolina; DGS 8189307, microfilm 414751, 994 images
+0 @S516@ SOUR
+1 TITL Buncombe County heirship deed 22 September 1827 and guardian bond 21 June 1827 — all the children of Henry Griggs deceased named, and no Elizabeth among them
+1 REPO Buncombe County Register of Deeds and Clerk of Court, via FamilySearch full-text corpus
+1 NOTE Buncombe County, North Carolina: deed of 22 September 1827, proved October Term 1828, registered 1 January 1829, FamilySearch full-text id 3:1:3QS7-99D2-X57S; and guardian bond of 21 June 1827, FamilySearch full-text id 3:1:33S7-9PR1-9HFF
+0 @S517@ SOUR
+1 TITL Rutherford County full-text sweep — a rich Grigg corpus but no Elizabeth, and nothing for Gilbert Conner (negative)
+1 REPO Rutherford County Register of Deeds and Clerk of Court, via the FamilySearch full-text corpus
+1 NOTE FamilySearch full-text corpus, q.recordPlace 'Rutherford, North Carolina' and statewide 'North Carolina'; deeds, wills and county court minutes 1795-1875
+0 @S518@ SOUR
+1 TITL 1937 North Carolina death certificate of Maggie (Conner) Revis — names Gilbert Conner and Elizabeth Griggs, and puts Elizabeth's birth in Rutherford County
+1 REPO North Carolina State Board of Health, via FamilySearch
+1 NOTE North Carolina State Board of Health standard certificate of death no. 676, registration district 11-95, Buncombe County, Asheville Township, filed 13 November 1937; FamilySearch 'North Carolina, Deaths, 1931-1994', persona ark:/61903/1:2:BXKL-2PZ, image ark:/61903/3:1:3Q9M-C9PL-3HTN-8
+0 @S519@ SOUR
+1 TITL 1830 Rutherford County census image — Banister Griggs's household read, and it holds no girl aged 5-9
+1 REPO United States federal censuses, via FamilySearch
+1 NOTE United States federal census 1830, Rutherford County, North Carolina, household of Banister Griggs, twenty-second name on the page, Allen Crowder immediately above; image ark:/61903/3:1:33S7-9YTB-VGP, persona ark:/61903/1:2:XHP6-SM9
+0 @S520@ SOUR
+1 TITL 1840 Rutherford County census — three Grigg households read, none holds a female aged 15-20
+1 REPO United States federal censuses, via FamilySearch
+1 NOTE United States federal census 1840, Rutherford County, North Carolina, dwellings 230, 231 and 238; image ark:/61903/3:1:33SQ-GYB3-CP8
+0 @S521@ SOUR
+1 TITL 1830 Rutherford County reel swept — five Grigg households, and only Edward and Jesse Gregg hold a girl of Elizabeth's age
+1 REPO United States federal censuses, NARA M19 roll 124 via archive.org
+1 NOTE United States federal census 1830, Rutherford County, North Carolina; NARA M19 roll 124, archive.org populationsc18300124unit, leaves 869-1003 odd and 1006-1056 even; Grigg households at leaves 929, 937 (page 478), 943 (two) and 1010
+0 @S522@ SOUR
+1 TITL 1840 Rutherford County reel swept for Grigg — four households, and Edward and Jesse Gregg are gone from the county
+1 REPO United States federal censuses, NARA roll 370 via archive.org
+1 NOTE United States federal census 1840, Rutherford County, North Carolina; NARA roll 370, archive.org populationsc18400370unit, odd leaves 165-343 (names on odd leaves only); Grigg households at leaf 183 dwellings 230, 231 and 238, and at leaf 259
+0 @S523@ SOUR
+1 TITL Edward and Jesse Gregg traced 1830-1850 — Edward stays in what becomes Cleveland County, Jesse migrates Rutherford to Macon to Union County Georgia with a daughter of Elizabeth's age
+1 REPO United States federal censuses, via FamilySearch
+1 NOTE United States federal censuses: 1850 Cleveland County, North Carolina, household of Edward Grigg (image ark:/61903/3:1:S3HY-6PQZ-X1R) and 1860 Cleveland County; 1840 Macon County, North Carolina, household of Jese Griggs (image ark:/61903/3:1:33S7-9YY8-GB7); 1850 Union County, Georgia, household of Jesse Griggs (image ark:/61903/3:1:S3HY-6353-13N)
+0 @S524@ SOUR
+1 TITL Macon County marriage index 1829-1942 — every Griggs bride listed, and none married in the 1840s (negative)
+1 REPO Macon County Register of Deeds, via FamilySearch
+1 NOTE Macon County, North Carolina, 'General index to marriages 1829-1942', FamilySearch catalogue koha:167932, DGS 7719593, 475 images; bride index from about image 260, Griggs entries at images 340 (right-hand page) and 341
+0 @S525@ SOUR
+1 TITL 1830 Macon County census — a second Jesse Gregg, and a Griggs family already in Macon before 1840
+1 REPO United States federal censuses, NARA M19 roll 123 via archive.org
+1 NOTE United States federal census 1830, Macon County, North Carolina; NARA M19 roll 123, archive.org populationsc18300123unit, page 14 at leaf 27 (page 13 at leaf 25, which carries Bright Burrell and Barrick Norton)
 0 TRLR
