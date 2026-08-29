@@ -460,6 +460,8 @@
 1 SOUR @S528@
 1 SOUR @S529@
 1 SOUR @S530@
+1 SOUR @S531@
+1 SOUR @S532@
 0 @I31@ INDI
 1 NAME Annie /Conner/
 1 SEX F
@@ -3439,6 +3441,7 @@
 1 SOUR @S512@
 1 SOUR @S517@
 1 SOUR @S518@
+1 SOUR @S532@
 0 @I272@ INDI
 1 NAME Jemima /Evitt/
 1 SEX F
@@ -7207,4 +7210,12 @@
 1 TITL Bride-index sweep of the counties around Rutherford, with the coverage control that validates the Rutherford negative
 1 REPO FamilySearch, North Carolina County Marriages, 1762-2011
 1 NOTE North Carolina and South Carolina, County Marriages, searched by surname and marriage place for Burke, McDowell, Polk, Buncombe, Henderson, Lincoln and Spartanburg; control run on Conner in Rutherford County
+0 @S531@ SOUR
+1 TITL 1910 Jackson County census image read across: Elizabeth Connor's parents both born in North Carolina
+1 REPO FamilySearch digitised image of NARA T624
+1 NOTE United States federal census 1910, North Carolina, Jackson County, Mountain Township, supervisor's district 211, enumeration district 90, sheet 3B, dwelling and family 42, lines 66-73, enumerated 26-27 April 1910 by Julia Stewart; FamilySearch image ark 3:1:33SQ-GRJ5-K5J, DGS film 004973122 image 00447, apid TH-1942-23034-17837-63
+0 @S532@ SOUR
+1 TITL 1880 Chimney Rock census image: Gilbert Conner's parents both born in North Carolina, and Elizabeth is not on the page
+1 REPO FamilySearch digitised image of NARA T9
+1 NOTE United States federal census 1880, North Carolina, Rutherford County, Chimney Rock Township, supervisor's district 4, enumeration district 167, page 15, dwelling 134, family 141, lines 36-38, enumerated 11 June 1880; FamilySearch image ark 3:1:33S7-9YBF-985, DGS film 005161781 image 00412, apid TH-1951-25155-1254-14
 0 TRLR
