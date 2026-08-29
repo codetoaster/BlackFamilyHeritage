@@ -455,6 +455,11 @@
 1 SOUR @S523@
 1 SOUR @S524@
 1 SOUR @S525@
+1 SOUR @S526@
+1 SOUR @S527@
+1 SOUR @S528@
+1 SOUR @S529@
+1 SOUR @S530@
 0 @I31@ INDI
 1 NAME Annie /Conner/
 1 SEX F
@@ -7182,4 +7187,24 @@
 1 TITL 1830 Macon County census — a second Jesse Gregg, and a Griggs family already in Macon before 1840
 1 REPO United States federal censuses, NARA M19 roll 123 via archive.org
 1 NOTE United States federal census 1830, Macon County, North Carolina; NARA M19 roll 123, archive.org populationsc18300123unit, page 14 at leaf 27 (page 13 at leaf 25, which carries Bright Burrell and Barrick Norton)
+0 @S526@ SOUR
+1 TITL 1830 Macon census read under the printed headings — the Georgia Jesse Griggs was in Macon in 1830, breaking the Rutherford chain
+1 REPO United States federal censuses, NARA M19 roll 123 via archive.org
+1 NOTE United States federal census 1830, Macon County, North Carolina, page 14 at leaf 27 of NARA M19 roll 123, archive.org populationsc18300123unit, pulled at scale=1 (6696x6000)
+0 @S527@ SOUR
+1 TITL 1850 Cleveland County census swept for Grigg, with the national 1850 search that fails to find the Rutherford Jesse Gregg
+1 REPO FamilySearch United States Census indexes, 1840-1860
+1 NOTE United States federal census 1850, Cleveland County, North Carolina (NARA M432 roll 625, archive.org populationschedu0625unix); with Marion County, Alabama 1850, DeKalb County, Alabama 1860 and Forsyth County, North Carolina 1850, via the FamilySearch index
+0 @S528@ SOUR
+1 TITL Elizabeth Gregg married Vincent Lee in Rutherford County, 12 November 1835, and their 1850 Cleveland household
+1 REPO FamilySearch, North Carolina County Marriages and United States Census 1850-1860
+1 NOTE North Carolina, County Marriages, 1762-2011, entry for Vincent Lee and Elizabeth Gregg, 12 November 1835, Rutherford County (ark 1:2:QLW7-Y72X; also indexed 1:2:QGY6-QL7Y, and as Elizabeth Grigg mis-dated 1935 at 1:2:QLW7-GWLZ, 1:2:QLW7-2VBM, 1:2:QGY6-6LDT); with the 1850 census of Cleveland County, household of Vincent W Lee
+0 @S529@ SOUR
+1 TITL Vinson Lee of Cleburne County, Alabama, 1870: Vincent Lee did not die, and Elizabeth Gregg is eliminated
+1 REPO FamilySearch United States Census index, 1870
+1 NOTE United States federal census 1870, Cleburne County, Alabama, households of Vinson Lee and Spencer Lee, via the FamilySearch index
+0 @S530@ SOUR
+1 TITL Bride-index sweep of the counties around Rutherford, with the coverage control that validates the Rutherford negative
+1 REPO FamilySearch, North Carolina County Marriages, 1762-2011
+1 NOTE North Carolina and South Carolina, County Marriages, searched by surname and marriage place for Burke, McDowell, Polk, Buncombe, Henderson, Lincoln and Spartanburg; control run on Conner in Rutherford County
 0 TRLR
