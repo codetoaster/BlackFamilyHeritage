@@ -312,6 +312,7 @@
 1 SOUR @S11@
 1 SOUR @S15@
 1 SOUR @S81@
+1 SOUR @S533@
 0 @I25@ INDI
 1 NAME Margaret Caroline /Cope/
 1 SEX F
@@ -462,6 +463,7 @@
 1 SOUR @S530@
 1 SOUR @S531@
 1 SOUR @S532@
+1 SOUR @S533@
 0 @I31@ INDI
 1 NAME Annie /Conner/
 1 SEX F
@@ -7218,4 +7220,8 @@
 1 TITL 1880 Chimney Rock census image: Gilbert Conner's parents both born in North Carolina, and Elizabeth is not on the page
 1 REPO FamilySearch digitised image of NARA T9
 1 NOTE United States federal census 1880, North Carolina, Rutherford County, Chimney Rock Township, supervisor's district 4, enumeration district 167, page 15, dwelling 134, family 141, lines 36-38, enumerated 11 June 1880; FamilySearch image ark 3:1:33S7-9YBF-985, DGS film 005161781 image 00412, apid TH-1951-25155-1254-14
+0 @S533@ SOUR
+1 TITL 1880 Jackson County: Frank Conner already settled there, Elizabeth absent, and a large Conner family that is not ours
+1 REPO FamilySearch United States Census index, 1880
+1 NOTE United States federal census 1880, Jackson County, North Carolina, all Conner households; with the 1880 Rutherford County index searched for every Elizabeth born about 1815-1827 regardless of surname
 0 TRLR
