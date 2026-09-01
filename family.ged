@@ -118,6 +118,7 @@
 1 SOUR @S4@
 1 SOUR @S11@
 1 SOUR @S109@
+1 SOUR @S538@
 0 @I9@ INDI
 1 NAME Fred /Connor/
 1 SEX M
@@ -464,6 +465,10 @@
 1 SOUR @S531@
 1 SOUR @S532@
 1 SOUR @S533@
+1 SOUR @S534@
+1 SOUR @S535@
+1 SOUR @S536@
+1 SOUR @S539@
 0 @I31@ INDI
 1 NAME Annie /Conner/
 1 SEX F
@@ -538,6 +543,7 @@
 1 NOTE Emma Molly Adams's mother; died before the 1910 census. Emma's 1988 full death certificate and her NUMIDENT independently identify her as Virginia McKinney. | AGENT 2026-07-12: identified = Virginia M
 1 FAMS @F10@
 1 SOUR @S131@
+1 SOUR @S538@
 0 @I38@ INDI
 1 NAME Lydia /Adams/
 1 SEX F
@@ -954,6 +960,7 @@
 1 SOUR @S174@
 1 SOUR @S175@
 1 SOUR @S347@
+1 SOUR @S537@
 0 @I67@ INDI
 1 NAME Richard Jackson /Holden/
 1 SEX M
@@ -2814,6 +2821,7 @@
 1 SOUR @S359@
 1 SOUR @S360@
 1 SOUR @S361@
+1 SOUR @S537@
 0 @I229@ INDI
 1 NAME David /Pruitt/
 1 SEX M
@@ -3444,6 +3452,7 @@
 1 SOUR @S517@
 1 SOUR @S518@
 1 SOUR @S532@
+1 SOUR @S539@
 0 @I272@ INDI
 1 NAME Jemima /Evitt/
 1 SEX F
@@ -7224,4 +7233,28 @@
 1 TITL 1880 Jackson County: Frank Conner already settled there, Elizabeth absent, and a large Conner family that is not ours
 1 REPO FamilySearch United States Census index, 1880
 1 NOTE United States federal census 1880, Jackson County, North Carolina, all Conner households; with the 1880 Rutherford County index searched for every Elizabeth born about 1815-1827 regardless of surname
+0 @S534@ SOUR
+1 TITL Buncombe County female marriage register: the complete Grigg bride section, and the proof that 1836-1850 is unreachable online
+1 REPO North Carolina State Archives via FamilySearch digital capture
+1 NOTE Buncombe County, North Carolina, 'Index to Female Marriages Book, A-K, 1851-1937', archive reference C.013.63004, FamilySearch DGS 102198017 image 385 = book page 369; with DGS 102180044 (Marriage Bonds C.013.60001 1791-1868, 42 images) and DGS 7742315 / film 2447591 (the same fragment, 44 images)
+0 @S535@ SOUR
+1 TITL North Carolina Index to Marriage Bonds 1741-1868: no Buncombe Grigg bond, and the Lincoln County marriages of Jesse and Edward Grigg
+1 REPO Ancestry.com, indexing North Carolina State Archives marriage bonds
+1 NOTE 'North Carolina, U.S., Index to Marriage Bonds, 1741-1868', Ancestry collection 4802, indexing the original bonds held by the North Carolina State Archives; searched for Grigg (76 results) and Griggs (57 results), 30 August 2026
+0 @S536@ SOUR
+1 TITL Lincoln County holds no Grigg household in 1820 or 1830, and the 1820 Rutherford household of Jessee Grigg
+1 REPO FamilySearch United States Census indexes and digitised images, 1820-1830
+1 NOTE United States federal censuses 1820 and 1830, Lincoln and Rutherford Counties, North Carolina; the 1820 Rutherford page read from FamilySearch image ark 3:1:33SQ-GYTT-83F, DGS 005156903 image 00367, apid TH-1942-25106-10005-56
+0 @S537@ SOUR
+1 TITL Three-pass adversarial review of the Michael Pruitt to Phoebe parentage, and the unsearched FamilySearch full-text corpus
+1 REPO Project database, FamilySearch full-text search, and the live RootsWeb compilation
+1 NOTE Review of source 114 (Prewitt-Pruitt Records of South Carolina, 1995), the Douglass 'Children of Walter N. Burrell' compilation at freepages.rootsweb.com/~brendelforum/history/Generation3.htm, the paired Enos Hooper transcripts, and relationships 191, 192 and 92; with FamilySearch full-text search results for 'Michael Pruitt', 'Phoebe Burrell' and 'Feebe Burrell'
+0 @S538@ SOUR
+1 TITL Virginia McKinney confirmed in the 1900 Macon County census, with the 1880 F. E. McKiney household behind her
+1 REPO FamilySearch United States Census indexes, 1880 and 1900
+1 NOTE United States federal census 1900, Macon County, North Carolina, household of Andrew J Adams, FamilySearch 1:2:1BGJ-SRJ; and 1880, Macon County, household of F. E. McKiney, FamilySearch 1:2:M44S-HG2
+0 @S539@ SOUR
+1 TITL 1850 Cleveland County census read on the image: Grigg, Conner and Carpenter households interleaved
+1 REPO archive.org digitised NARA microfilm M432 roll 625
+1 NOTE United States federal census 1850, Cleveland County, North Carolina, NARA M432 roll 625, archive.org item populationschedu0625unix, leaves 349-357 (stamped pages about 175-179), families 858-924
 0 TRLR
