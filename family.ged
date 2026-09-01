@@ -541,6 +541,7 @@
 1 BURI
 2 PLAC Mountain Grove, Macon Co, NC
 1 NOTE Emma Molly Adams's mother; died before the 1910 census. Emma's 1988 full death certificate and her NUMIDENT independently identify her as Virginia McKinney. | AGENT 2026-07-12: identified = Virginia M
+1 FAMC @F164@
 1 FAMS @F10@
 1 SOUR @S131@
 1 SOUR @S538@
@@ -4139,6 +4140,34 @@
 1 NOTE Daughter of Gilbert Conner and Elizabeth Griggs, identified 2026-08-18 from her own death certificate, which names both parents. Born 3 November 1857 in Rutherford County; died 11 November 1937 at 35
 1 FAMC @F9@
 1 SOUR @S518@
+0 @I345@ INDI
+1 NAME Allison D. /McKinney/
+1 SEX M
+1 BIRT
+2 DATE abt 1818
+2 PLAC North Carolina
+1 DEAT
+2 DATE 1872
+2 PLAC Jackson Co, NC
+1 NOTE Of CASHIERS VALLEY, JACKSON COUNTY NC. Head of the 1870 household there (dwelling/family 43) aged 51, farmer, real estate $800. Named as 'ALLISON D. McKINNEY' in a North Carolina Comptroller's receipt
+1 FAMS @F164@
+1 SOUR @S540@
+1 SOUR @S541@
+1 SOUR @S542@
+1 SOUR @S543@
+0 @I346@ INDI
+1 NAME Frances E. /Hyatt/
+1 SEX F
+1 BIRT
+2 DATE 12 Jul 1823
+2 PLAC Haywood Co, NC
+1 DEAT
+2 DATE 9 Aug 1905
+1 NOTE The 'F. E. McKinney' of the 1880 Blue Ridge Township household, Macon County - a WIDOW by then, her husband Allison D. McKinney having died in 1872. Her maiden name HYATT is given on her son Nathan Hy
+1 FAMS @F164@
+1 SOUR @S540@
+1 SOUR @S541@
+1 SOUR @S542@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -4604,6 +4633,15 @@
 0 @F163@ FAM
 1 HUSB @I339@
 1 WIFE @I326@
+0 @F164@ FAM
+1 HUSB @I345@
+1 WIFE @I346@
+1 CHIL @I37@
+1 SOUR @S540@
+1 SOUR @S541@
+1 SOUR @S542@
+1 SOUR @S543@
+1 SOUR @S544@
 0 @F19@ FAM
 1 HUSB @I15@
 1 WIFE @I53@
@@ -7258,4 +7296,24 @@
 1 TITL 1850 Cleveland County census read on the image: Grigg, Conner and Carpenter households interleaved
 1 REPO archive.org digitised NARA microfilm M432 roll 625
 1 NOTE United States federal census 1850, Cleveland County, North Carolina, NARA M432 roll 625, archive.org item populationschedu0625unix, leaves 349-357 (stamped pages about 175-179), families 858-924
+0 @S540@ SOUR
+1 TITL Marriage licence of Caroline McKinney and T. M. Cabe, Macon County NC, 28 Nov 1876
+1 REPO NC county marriage licences
+1 NOTE Register of Deeds, Franklin, Macon Co NC; FamilySearch full-text, 'Franklin, Macon, North Carolina, Marriage 1876'
+0 @S541@ SOUR
+1 TITL Death certificate of Nathan Hyatt McKinney, Macon County NC, 5 Oct 1942
+1 REPO North Carolina vital records
+1 NOTE FS 'NC Deaths and Burials 1898-1994' HH44-BN6Z; 'NC Deaths 1931-1994' FPPV-11Z; 'NC Index to Vital Records' QPJL-ZJ5Y
+0 @S542@ SOUR
+1 TITL 1870 US census, Jackson County NC, Cashiers Valley, dwelling and family 43
+1 REPO National Archives population schedule via Internet Archive
+1 NOTE M593 roll 1144; archive.org populationschedu1144unit leaf 478; Subdivision 66, Township 8, page 7 (stamped 236), enumerated 1 July 1870 by Alfred Zachary
+0 @S543@ SOUR
+1 TITL North Carolina Comptroller's receipt to Allison D. McKinney for land entry no. 2933, 15 May 1844
+1 REPO North Carolina land entries
+1 NOTE FamilySearch full-text
+0 @S544@ SOUR
+1 TITL Macon County NC marriage index, Jennie McKinney and Joshua A. Adams, 1 March 1888
+1 REPO NC county marriage records
+1 NOTE FS 'NC County Marriages' ark 1:2:QRVW-6H1Q, image apid TH-909-62550-30558-39, film 102380351 img 790; General Index to Marriage License for Macon County, p.260
 0 TRLR
