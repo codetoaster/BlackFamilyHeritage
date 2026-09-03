@@ -533,7 +533,7 @@
 1 NAME Virginia /McKinney/
 1 SEX F
 1 BIRT
-2 DATE Apr 1868
+2 DATE 26 Jun 1867
 2 PLAC North Carolina
 1 DEAT
 2 DATE 10 Jan 1902
@@ -545,6 +545,7 @@
 1 FAMS @F10@
 1 SOUR @S131@
 1 SOUR @S538@
+1 SOUR @S545@
 0 @I38@ INDI
 1 NAME Lydia /Adams/
 1 SEX F
@@ -7316,4 +7317,8 @@
 1 TITL Macon County NC marriage index, Jennie McKinney and Joshua A. Adams, 1 March 1888
 1 REPO NC county marriage records
 1 NOTE FS 'NC County Marriages' ark 1:2:QRVW-6H1Q, image apid TH-909-62550-30558-39, film 102380351 img 790; General Index to Marriage License for Macon County, p.260
+0 @S545@ SOUR
+1 TITL Gravestone of Virginia M. Adams (1867-1902), Mountain Grove Baptist Church Cemetery, Macon County NC
+1 REPO Find A Grave (monument photograph)
+1 NOTE Find A Grave memorial 66535989; monument photograph images.findagrave.com/photos/2011/65/66535989_129951799015.jpg
 0 TRLR
